@@ -2,53 +2,49 @@
 share: "true"
 ---
 
-
-
 # Combat System
 
-The combat centers around a 2d6 roll, influenced by each party member's combat modifier, enemy strength, and modified by the 'Edge' rule in certain scenarios.
+The combat revolves around a 2d6 roll, influenced by each party member's combat modifier, the enemy's strength, and is further modified by the 'Edge' rule in specific scenarios. For an example of combat take a look at the [Sample Combat Play-by-Play](./Sample%20Combat%20Play-by-Play.md)
 
 ## **Step 1: Calculate Party Impact**
 
-- **Party Impact:** Sum each characters combat modifier. This is the Party Impact
+- **Party Impact:** Sum the combat modifiers of each character. This sum is the Party Impact.
 
-## **Step 2: Calculate Combat Modifier
+## **Step 2: Calculate Combat Modifier**
 
-- Subtract the encounters [Enemy Impact](./Enemy%20Impact.html) from the [Party Impact](./Party%20Impact.html). This is the Combat Modifier.
+- Subtract the encounter's [Enemy Impact](./Enemy%20Impact.html) from the [Party Impact](./Party%20Impact.html). The result is the Combat Modifier.
 
-## **Step 3: [Edge Factor](Edge%20Factor.html)**
+## **Step 3: [Edge Factor](./Edge%20Factor.html)**
 
-- **Scouting Advantage:** If the party successfully scouted and used their [Scouting Bonus](./Scouting%20Bonus.html), add an extra 1d6 to the combat roll (resulting in a 3d6 roll).
+- **Scouting Advantage:** If the party has successfully scouted and used their [Scouting Bonus](./Scouting%20Bonus.html), add an extra 1d6 to the combat roll (resulting in a 3d6 roll).
 - **Surprise Disadvantage:** If ambushed, subtract 1d6 from the combat roll (resulting in a 1d6 roll).
-Note: if both are true they cancel each other out resulting in a roll of 2d6
+   - Note: If both conditions apply, they cancel each other out, resulting in a standard 2d6 roll.
 
 ## Step 4: Distribute Damage
 
-- Roll 2d6 modified by the Edge Factor and add the Combat Modifier
-- **Results** 
-   - A positive total means damage inflicted on the enemies reducing enemy hit points. When this number reaches zero, the party wins and will get to roll on the loot table.
-   - A negative total signifies damage to distribute to the party. The player decides how to distribute the damage among the characters. No character be given more damage than they have hit points. If all characters are at zero hit points and damage remains, it is ignored.
+- Roll 2d6, apply the Edge Factor, and add the Combat Modifier.
+- **Results:** 
+   - A positive total inflicts damage on the enemies, reducing their hit points. When enemy hit points reach zero, the party wins and may roll on the loot table.
+   - A negative total signifies damage to the party. The player decides how to distribute this damage among the characters, ensuring that no character receives more damage than their remaining hit points. If all characters reach zero hit points and damage remains, it is ignored.
 
 ## **Step 5: Continuing Combat or Retreating**
 
-- **Fight On:** The party can opt to continue the combat. Doing so results in each member taking one damage then repeat Step 4. If all characters are at zero hit points the party must retreat.
+- **Fight On:** The party may choose to continue combat, incurring one damage per member, then repeat Step 4. If all characters reach zero hit points, the party must retreat.
+- **Retreat:** The party may retreat to avoid further combat. In this case, they forfeit any chance to earn loot.
 
-- **Retreat:** The party can retreat if they do not wish to continue the battle. They do not get a chance to earn loot.
+### Special Rule: Impact of Injuries
 
-### Special Rule Impact of Injuries
-
-- When a character's hit points reach zero, their contribution to the Party Impact is removed, reflecting their weakened state.
-
-Note: A Character with zero hit points is not dead yet, but they are grievously wounded.
+- When a character's hit points drop to zero, they no longer contribute to the Party Impact, reflecting their incapacitated state.
+   - Note: A character with zero hit points is not dead yet but is grievously wounded.
 
 ## Step 6: Loot Collection
 
-- [Loot Dice](Loot%20Dice.html): Roll 1d6 + Loot - 4
-- If this number is positive, the party gets that many Loot Dice to use on the Loot Tables. These dice must be used now, or they are lost.
-- **Loot Tables:** Choose a Loot Table and the number of Loot Dice to roll.
-- **Roll for Loot:** Roll the Loot Dice and sum the result. Consult the table and collect your loot.
+- **[Loot Dice](./Loot%20Dice.html):** Roll 1d6 + Loot - 4.
+- If the result is positive, the party receives that many Loot Dice to use on the Loot Tables. These dice must be used immediately, or they are forfeited.
+- **Loot Tables:** Choose a Loot Table and decide how many Loot Dice to roll.
+- **Roll for Loot:** Roll the Loot Dice and sum the results. Consult the table to determine the loot acquired.
 
-Players may group these rolls however they wish. For example if they party has 4 Loot Dice, the player may roll each individually, combine two dice into one roll twice, or even use them all for a chance at some super loot!
+Players may group these rolls as they wish. For example, if the party has 4 Loot Dice, the player may roll each individually, combine two dice into one roll twice, or even use all four for a chance at obtaining superior loot!
 
 # Loot Table
 
