@@ -2,9 +2,13 @@
 share: "true"
 ---
 
+# Hunters
 
+In the Ancient Future's untamed wilds, the Hunter class stands as a paragon of survival, mastery, and knowledge. These rugged individuals are not only adept at tracking and hunting; they are also scholars of the land, possessing an in-depth understanding of geology and biology. 
 
-# Base
+Their expertise allows them to read the secrets of the terrain, from the subtlest shifts in the earth's crust to the intricate patterns of local flora and fauna. Equipped with this knowledge, they navigate the savage wilderness with an almost supernatural ease, making them invaluable guides and allies in a world where the remnants of advanced civilizations meld with the primal forces of nature. 
+
+Their skills are a blend of ancient wisdom and a keen understanding of the remnants of the past, enabling them to thrive where others might falter in the face of the wild's untamed beauty and hidden dangers.
 
 Hunters start with a Combat Modifier of 0.
 
