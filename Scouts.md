@@ -3,13 +3,14 @@ share: "true"
 ---
 
 
+
 # Base
 
 Scouts start with a Combat Modifier of 0.
 # Skills
 
 Never Lost - PP Cost 2
-- During Prepare Phase can spend 1 R to remove the [Lost](Lost.md) condition as a Special Ability.
+- During Prepare Phase can spend 1 R to remove the [Lost](Lost.html) condition as a Special Ability.
 
 Lone Wolf - PP Cost 3
 - When facing a solo challenge may spend 1 R to re-roll a test.
