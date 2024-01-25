@@ -16,9 +16,9 @@ share: "true"
 | 6 | Late Autumn | Same as Autumn, but Calendar starts at 60 instead of 1. |
 
 
-3. Set the Calendar to 1 unless it is late in the season, then start on 60
+2. Set the Calendar to 1 unless it is late in the season, then start on 60
 
-4. Roll on the weather table for the season.
+3. Roll on the weather table for the season.
 
 ### Spring Weather Table (2d6)
 

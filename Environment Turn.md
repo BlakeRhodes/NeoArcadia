@@ -12,7 +12,7 @@ share: "true"
 #### 2. Weather
 - Use the weather table for the [Season](./Season.html) and apply [Weather Effects](./Weather%20Effects.html)
 
---BETA--
+*BETA*
 #### 3. Special Events
 - Roll 3d6 on a 3 roll on the Special Event Table below.
 
@@ -30,6 +30,6 @@ share: "true"
 | 11       | Enemy Ambush | Get ambushed by a strong enemy or a group of enemies, leading to a challenging combat situation. |
 | 12       | Legendary Beast | Encounter a legendary beast, offering a formidable challenge and exceptional rewards. |
 This event occurs on a random hex and remains unless another Special Event is rolled for the same tile replacing it
---BETA--
+*BETA*
 
 Back to: [Play the Game](./Play%20the%20Game.html)
