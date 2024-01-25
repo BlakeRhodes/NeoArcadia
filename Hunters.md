@@ -3,6 +3,7 @@ share: "true"
 ---
 
 
+
 # Base
 
 Hunters start with a Combat Modifier of 0.

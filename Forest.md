@@ -3,6 +3,7 @@ share: "true"
 ---
 
 
+
 # Forest
 
 Travel: 1 Ration, 1 Water
@@ -17,4 +18,4 @@ Scout: 9
 | 4 | Combat | Cyber Monkey Ambush - Impact: 15  HP: 1 Loot: +1 |
 | 5 | Bandit Ambush | Bandits Ambush - Impact: 10 HP: 15 Loot: +2 |
 | 6 | Phenomenon | Eerie quiet, party loses 1 will power each |
-[Terrain Types](./Terrain%20Types.md)
+[Terrain Types](./Terrain%20Types.html)
