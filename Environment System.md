@@ -85,3 +85,6 @@ share: "true"
    | 10   | Cold and Clear     | Social Challenges +1                                       |
    | 11   | Ice Fog            | Characters Lose 1 Stamina and 1 Will Power                                                           |
    | 12   | Sudden Ice Storm   | Parties cannot move this turn. Characters take 1 damage. Then roll again for Weather |
+## Full Moon
+
+- It is a full moon if Calendar day divides by 28 with no remainder (Calendar % 28 == 0)
