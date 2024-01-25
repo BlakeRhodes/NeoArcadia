@@ -3,6 +3,7 @@ share: "true"
 ---
 
 
+
 # Ruined Cityscape
 
 Travel: 1 Ration, 1 Water
@@ -17,4 +18,4 @@ Scout: 14
 | 4 | Combat | Rogue Security Bots - Impact: 15 HP: 10 Loot: +1 |
 | 5 | Combat | Feral Animal Things - Impact: 12 HP: 15 Loot: +0 |
 | 6 | Combat | Rogue AI Ambush - Impact 25 HP Loot +5 |
-[Terrain Types](./Terrain%20Types.md)
+[Terrain Types](./Terrain%20Types.html)
