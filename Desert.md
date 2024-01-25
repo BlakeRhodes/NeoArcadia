@@ -3,6 +3,7 @@ share: "true"
 ---
 
 
+
 # Desert
 
 Travel: 2 Ration, 3 Water
@@ -17,4 +18,4 @@ Scout: 8
 | 4 | Combat | Sand Serpents - Impact: 9 HP: 8 Loot: +1 |
 | 5 | Raider Ambush | Raiders Ambush - Impact: 11 HP: 18 Loot: +2 |
 | 6 | Lost Ruins | Uncover a forgotten building, Loot +3 |
-[Terrain Types](./Terrain%20Types.md)
+[Terrain Types](./Terrain%20Types.html)
