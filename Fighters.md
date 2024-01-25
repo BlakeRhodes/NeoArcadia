@@ -3,12 +3,13 @@ share: "true"
 ---
 
 
+
 # Base
 
 Fighters start with a Combat Modifier of 1.
 # Skills
 
-Some fighter skills require a free hand to use.  This is listed as { X FH } after the name with X being the number of hands you must have free. Fighters start with 2 Free Hands. During the [Prepare Phase](./Prepare%20Phase.md) you can choose how to fill your Free Hands.
+Some fighter skills require a free hand to use.  This is listed as { X FH } after the name with X being the number of hands you must have free. Fighters start with 2 Free Hands. During the [Prepare Phase](./Prepare%20Phase.html) you can choose how to fill your Free Hands.
 
 Combat Prowess - PP Cost X (Max 3)
 - Add X to your combat modifier
