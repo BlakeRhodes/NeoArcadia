@@ -24,10 +24,16 @@ The Continuous Play experience of NeoArcadia thrives on the ever-evolving and ex
 
 - **Purpose:** Deepen the narrative and strategic elements of the game with complex quests.
 - **Process:** Introduce new quests with intricate storylines and objectives. These quests should require specific information or items to complete, adding depth to the game's information-gathering aspect.
-- **Impact on Continuous Play:** New quests offer structured challenges and objectives, providing players with clear goals and rewards, thus enriching the overall story and gameplay experience.
+- **Impact on Continuous Play:** New quests offer structured challenges and objectives, providing players with clear goals and rewards, thus enriching the overall story and game play experience.
 
 ## Collaborative Effort
 
 - The beauty of these advanced rules lies in their collaborative nature. Players are encouraged to contribute their ideas and creativity, whether through crafting a single rumor or designing an entire new region. This communal approach not only diversifies the game's content but also fosters a sense of ownership and connection among the player community.
 
 In conclusion, these advanced rules for adding new content are vital for maintaining the dynamism and appeal of the Ancient Future. By continually introducing new elements, the game stays engaging and fresh, keeping the spirit of adventure and discovery alive in the Continuous Play experience.
+
+## Resources
+
+[Combat Template](./Combat%20Template.html)
+[Hex Sheet](./Hex%20Sheet.html)
+[Terrain Types](./Terrain%20Types.html)

@@ -4,6 +4,7 @@ share: "true"
 
 # Flea Market
 
+
 *"Step right up, step right up! Treasures from the clouds to the earth, unearthed from the depths of NeoArcadia! Find your relic, your gadget, your piece of history in the ancient Market of Flea! Deals that defy gravity, only here, only today!"*
 
 1. **Item Listing:** Parties have the option to leave items at the hub, assigning a price to each item as they see fit. This allows other parties to view and consider these items for purchase.

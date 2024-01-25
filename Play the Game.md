@@ -27,7 +27,7 @@ NeoArcadia is a game designed for long-term play, offering a Continuous Play Exp
 
 1. Lay out the Map.
 2. Shuffle the Rumor Deck.
-3. Place Party Markers on the starting hex (NeoArcadia the Fallen Sky City).
+3. Place Party Markers on [NeoArcadia](./NeoArcadia.html)
 4. Arrange the Hex Sheets in numerical order.
 5. Set up the [Environment System](Environment%20System.html).
 
@@ -45,6 +45,8 @@ Players proceed through their turn in the following phases:
 2. [Embark Phase](Embark%20Phase.html)
 3. [Encounter Phase](Encounter%20Phase.html)
 4. [Recover Phase](Recover%20Phase.html)
+
+
 
 ## More Adventure, More Fun!
 
