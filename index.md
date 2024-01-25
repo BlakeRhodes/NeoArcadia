@@ -1,3 +1,8 @@
+---
+share: "true"
+---
+
+
 # Welcome to NeoArcadia: Hexcrawler
 
 **Venture into a Harsh, Unforgiving World Where Ancient Future Meets Brutal Reality!**
@@ -16,5 +21,5 @@ Assemble a party of the bravest adventurers, each hardened by the harsh realitie
 
 Will you dare to uncover the secrets of lost techno-temples, risking life and limb for forgotten knowledge? Will you negotiate with beings born from the chaotic fusion of arcane and tech, or will you dominate them through force? Every choice is a gamble in the fight for survival, and your decisions will etch your story into the annals of this merciless land.
 
-[[Play the Game]]
+[Play the Game](Play%20the%20Game.md)
 
