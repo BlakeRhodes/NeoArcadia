@@ -15,11 +15,11 @@ NeoArcadia is designed to be played over long periods of time with players comin
 ## Game Pieces
 
 - **Map** - This is the visual representation of the play area.
-- **Rumor Deck** - This is a stack of [Rumors](./Rumors.md) about the individual [Hexes](./Hexes.md) on the map.
+- **Rumor Deck** - This is a stack of [Rumors](Rumors.md) about the individual [Hexes](Hexes.md) on the map.
 - **Party Markers** - A object to mark where parties are in the play area.
-- Hex Sheets - Details of each hex on the board, including any special rules and [Encounters](./Encounters.md). These should have the hex number on the back and only flipped over to be viewed when a party moves to the hex.
+- Hex Sheets - Details of each hex on the board, including any special rules and [Encounters](Encounters.md). These should have the hex number on the back and only flipped over to be viewed when a party moves to the hex.
 - **Party Sheets** - Details of each party used for record keeping.
-- **Calendar Card** - A place to record the progression of game time and the current [Season](./Season.md) and [Weather Effects](./Weather%20Effects.md).
+- **Calendar Card** - A place to record the progression of game time and the current [Season](Season.md) and [Weather Effects](Weather%20Effects.md).
 - **d6s** - Dice for making rolls.
 - **History Log** - Optional. A place to record import and fun events or keep track of plot developments. Tell other adventurers of your trials and triumps.
 
@@ -29,11 +29,11 @@ NeoArcadia is designed to be played over long periods of time with players comin
 2. Shuffle the Rumor Deck
 3. Place the Party Markers on the starting hex (the Crashed City of NeoArcadia)
 4. Put the hex sheets in numeric order.
-5. Setup the [Environment System](./Environment%20System.md)
+5. Setup the [Environment System](Environment%20System.md)
 
 ## Turn Order
 
-1. [Environment Turn](./Environment%20Turn.md) 
+1. [Environment Turn](Environment%20Turn.md) 
 2. Existing Players
 3. New Players
 
@@ -41,8 +41,8 @@ NeoArcadia is designed to be played over long periods of time with players comin
 
 The player moves through their turn's phases in the following order.
 
-1. [Prepare Phase](./Prepare%20Phase.md)
-2. [Embark Phase](./Embark%20Phase.md)
+1. [Prepare Phase](Prepare%20Phase.md)
+2. [Embark Phase](Embark%20Phase.md)
 3. [ Encounter Phase](Encounter%20Phase.md)
-4. [Recover Phase](./Recover%20Phase.md)
+4. [Recover Phase](Recover%20Phase.md)
 
