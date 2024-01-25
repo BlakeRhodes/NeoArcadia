@@ -2,48 +2,46 @@
 share: "true"
 ---
 
-
-
 # Play the Game
 
-NeoArcadia is designed to be played over long periods of time with players coming and going creating a Continuous Play Experience. Imagine a game that evolves and grows, not just over hours, but over weeks, welcoming new players into its fold as they discover it. This is the Continuous Play Experience, a revolutionary approach to gaming that combines the charm of old-fashioned play-by-post war games with the dynamic interactivity of modern tabletop gaming.
+NeoArcadia is a game designed for long-term play, offering a Continuous Play Experience. Envision a game evolving over not just hours, but weeks and months, continuously welcoming new players into its ever-changing world. This approach marries the charm of classic play-by-post war games with the dynamic interactivity of modern tabletop gaming.
 
 **How It Works:**
 
-- **Asynchronous Play:** The Continuous Play Experience thrives on flexibility. Players can join the game at any time, contributing at their own pace. This means the game is always active, always evolving, even when players are not physically present.
-- **Open-Ended Narrative:** The game's story unfolds over weeks, influenced by the actions and decisions of current and new players. Each player's involvement shapes the course of the game, creating a rich, collaborative narrative tapestry.
-- **Dynamic Integration of New Players:** Newcomers can easily join in without disrupting the flow. The game is designed to seamlessly incorporate new characters and perspectives, enriching the experience for everyone involved.
+- **Asynchronous Play:** The game's Continuous Play Experience allows for flexible participation. Players can join and contribute at their own pace, ensuring the game remains active and evolving, even in their absence.
+- **Open-Ended Narrative:** The storyline unfolds over an extended period, shaped by the actions and decisions of both current and new players. This creates a collaborative and evolving narrative.
+- **Dynamic Integration of New Players:** Newcomers can easily join the game without disrupting its flow. The design facilitates the seamless introduction of new characters and perspectives.
+
 ## Game Pieces
 
-- **Map** - This is the visual representation of the play area.
-- **Rumor Deck** - This is a stack of [Rumors](Rumors.html) about the individual [Hexes](Hexes.html) on the map.
-- **Party Markers** - A object to mark where parties are in the play area.
-- Hex Sheets - Details of each hex on the board, including any special rules and [Encounters](Encounters.html). These should have the hex number on the back and only flipped over to be viewed when a party moves to the hex.
-- **Party Sheets** - Details of each party used for record keeping.
-- **Calendar Card** - A place to record the progression of game time and the current [Season](Season.html) and [Weather Effects](Weather%20Effects.html).
-- **d6s** - Dice for making rolls.
-- **History Log** - Optional. A place to record import and fun events or keep track of plot developments. Tell other adventurers of your trials and triumps.
+- **Map:** A visual representation of the play area.
+- **Rumor Deck:** A stack of [Rumors](Rumors.html) about the individual [Hexes](Hexes.html) on the map.
+- **Party Markers:** Objects to mark the locations of parties in the play area.
+- **Hex Sheets:** Detailing each hex on the board, including special rules and [Encounters](Encounters.html). These sheets, numbered on the back, are revealed when a party enters the corresponding hex.
+- **Party Sheets:** Used for keeping records of each party.
+- **Calendar Card:** Tracks game time progression, the current [Season](Season.html), and [Weather Effects](Weather%20Effects.html).
+- **d6s:** Dice used for various rolls.
+- **History Log (Optional):** A record of important and fun events, plot developments, and a way to share tales of adventures with others.
 
 ## Setup
 
-1. Layout the Map
-2. Shuffle the Rumor Deck
-3. Place the Party Markers on the starting hex (the Crashed City of NeoArcadia)
-4. Put the hex sheets in numeric order.
-5. Setup the [Environment System](Environment%20System.html)
+1. Lay out the Map.
+2. Shuffle the Rumor Deck.
+3. Place Party Markers on the starting hex (NeoArcadia the Fallen Sky City).
+4. Arrange the Hex Sheets in numerical order.
+5. Set up the [Environment System](Environment%20System.html).
 
 ## Turn Order
 
-1. [Environment Turn](Environment%20Turn.html) 
-2. Existing Players
-3. New Players
+1. [Environment Turn](Environment%20Turn.html)
+2. Existing Players' Turns
+3. New Players' Turns
 
 ## Player's Turn
 
-The player moves through their turn's phases in the following order.
+Players proceed through their turn in the following phases:
 
 1. [Prepare Phase](Prepare%20Phase.html)
 2. [Embark Phase](Embark%20Phase.html)
-3. [ Encounter Phase](Encounter%20Phase.html)
+3. [Encounter Phase](Encounter%20Phase.html)
 4. [Recover Phase](Recover%20Phase.html)
-

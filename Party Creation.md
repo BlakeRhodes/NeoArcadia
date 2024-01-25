@@ -2,38 +2,41 @@
 share: "true"
 ---
 
+# Party Creation
 
-
-#### 1. Choose Party Size and Power Points (PP)
+## Step 1. Choose Party Size and Allocate Power Points (PP)
 
 - **4 Characters:** 40 PP
 - **5 Characters:** 35 PP
 - **6 Characters:** 30 PP
 
-You may spend as many PP on any one character in the party. Larger parties get fewer PP to offset the extra characters.
-#### 2. Choose  Character Types for each Character
+You can distribute PP among any characters in the party. Larger parties receive fewer PP to balance the advantage of having more characters.
+
+## Step 2. Select Character Types for Each Character
 
 - **[Fighters](./Fighters.html):** 
-  - Strength: [Combat System](./Combat%20System.html), [Recover Phase](./Recover%20Phase.html)
-  - Weakness: [Embark Phase](./Embark%20Phase.html)
+  - Strengths: Unmatched on the field of battle.
+  - Weakness: Not good for much else.
 - **[Hunters](./Hunters.html):** 
-  - Strength: [Embark Phase](./Embark%20Phase.html), [Environment System](./Environment%20System.html)
-  - Weakness: [Social System](./Social%20System.html)
+  - Strengths: Gathering resources to survive in the wild.
+  - Weakness: Not known for their eloquence, or civil manners.
 - **[Priests](./Priests.html):** 
-  - Strength: [Recover Phase](./Recover%20Phase.html). [Social System](./Social%20System.html)
-  - Weakness: [Combat System](./Combat%20System.html)
+  - Strengths: Healers of the body and soul, and integrated circuit and wire.
+  - Weakness: Creation is Sacred, Destruction is Forbidden.
 - **[Scouts](./Scouts.html):** 
-  - Strength: [Prepare Phase](./Prepare%20Phase.html), [Embark Phase](./Embark%20Phase.html)
-  - Weakness: [Environment System](./Environment%20System.html)
-- **[Bards](Bards.html):** 
-  - Strength: Provides bonus
-  - Weakness: Lower Stats
-#### 3. Create the Characters
+  - Strengths: Guides and navigators they can get you there safe.
+  - Weakness: Bugs
+  --Beta--
+- **[Bards](./Bards.html):** 
+  - Strengths: Provides bonuses
+  - Weakness: Lower stats
+--Beta--
+## Step 3. Create the Characters
 
-- Follow the [Character Creation](./Character%20Creation.html) rules for each character.
+- Follow the [Character Creation](./Character%20Creation.html) guidelines for each character.
 
-#### 4. Record Starting Gear
+## Step 4. Record Starting Gear
 
 - 12 Rations
 - 8 Water
-- 12 gold
+- 12 Gold

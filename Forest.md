@@ -2,9 +2,9 @@
 share: "true"
 ---
 
-
-
 # Forest
+
+In this remote forest, nature has triumphantly reclaimed the remnants of ancient production facilities, entwining the rusted machinery and decaying tech with lush greenery. This surreal and haunting landscape, where the wild merges seamlessly with the remnants of a forgotten technological era, whispers secrets of the past to those brave enough to explore its depths.
 
 Travel: 1 Ration, 1 Water
 Forage: 7

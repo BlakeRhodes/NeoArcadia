@@ -2,41 +2,37 @@
 share: "true"
 ---
 
-
-
 # Embark Phase
 Previous: [Prepare Phase](./Prepare%20Phase.html)
 
-## **Step 2: Forage
+## **Step 1: Forage**
 
-The party may Forage in the current hex before leaving for their destination. This gives the party a chance to recover supplies and travel further.
+Before leaving for their destination, the party may choose to forage in the current hex. This provides an opportunity to recover supplies and extend travel capabilities.
 
-- **[Forage Roll](./Forage%20Roll.html):** Roll 2d6 vs the current hex's Forage Difficulty.
-- Some characters may modify this roll with their skills, such as [Hunters](./Hunters.html)
-- [Yield](./Yield.html): Roll +1 - Forage Difficulty
-- If the yield is less than 1, foraging failed, otherwise the party gets that many rations and water.
+- **[Forage Roll](./Forage%20Roll.html):** Roll 2d6 against the current hex's Forage Difficulty.
+- Certain characters, like [Hunters](./Hunters.html), may modify this roll with their skills.
+- **[Yield](./Yield.html):** Roll +1 - Forage Difficulty.
+- If the yield is less than 1, foraging fails. Otherwise, the party gains that many rations and water.
 
-## **Step 3: Consuming Rations and Water**
+## **Step 2: Consuming Rations and Water**
 
-Each hex has a Travel Value, this is the amount of rations and water **each** character consumes while traveling. Use the Travel Value of the destination hex to see how many rations and water the party consumes on the way
+Each hex has a Travel Value that determines the amount of rations and water **each** character consumes while traveling. Use the Travel Value of the destination hex to calculate the party's consumption.
 
 ### Special Rule: Insufficient Supplies
 
-If there is not enough rations for the whole party, choose which characters will not eat and they spend one stamina point and consume an additional water.
+- If there are not enough rations for the whole party, choose which characters will not eat. These characters will lose one stamina point and consume an additional unit of water.
+- If there is insufficient water for the whole party, decide which characters will not drink. These characters will lose 2 stamina points. If this would reduce their stamina to below zero, it remains at zero.
 
-If there is not enough water for the whole party, choose which characters will not drink and they spend 2 stamina points. If this would put them below 0 stamina, they remain at 0.
-   
 ## **Step 4: Scouting**
 
-Scouting allows the characters to check out their destination and have more control over what they encounter there.
-- [Scouting Roll](./Scouting%20Roll.html): Roll 2d6 against the hex's Scout Difficulty.
-- Some characters may modify this roll with their skills, such as [Scouts](./Scouts.html)
-- [Scouting Bonus](./Scouting%20Bonus.html): Roll - Scout Difficulty
-- If the Scouting Bonus is positive, then the Scouting was successful and the party may use this bonus when rolling for encounters.
+Scouting allows the party to assess their destination and better control their encounters there.
+- **[Scouting Roll](./Scouting%20Roll.html):** Roll 2d6 against the hex's Scout Difficulty.
+- Some characters, such as [Scouts](./Scouts.html), may modify this roll with their skills.
+- **[Scouting Bonus](./Scouting%20Bonus.html):** Roll - Scout Difficulty.
+- If the Scouting Bonus is positive, the scouting is successful, and the party may use this bonus when rolling for encounters.
 
 ## Step 5: Arrive
 
 Move the party marker to the destination hex.
 
 Next: [Encounter Phase](./Encounter%20Phase.html)
-

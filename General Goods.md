@@ -2,7 +2,7 @@
 share: "true"
 ---
 
-
+# General Goods
 
 | Item | Description | Price |
 | ---- | ---- | ---- |

@@ -2,51 +2,49 @@
 share: "true"
 ---
 
-
-
 # Prepare Phase
 
 ## 1. **Play or Pass**
 
-If they player does not wish to play this round, or any number of upcoming round simply skip that player. This could occur when a player is taking a phone call, grabbing a snack, going out of town for the weekend, etc. This allow for the game to progress when real life gets in the way.
+Players who do not wish to participate in the current or upcoming rounds can opt to skip their turn. This flexibility accommodates situations like phone calls, snack breaks, or weekend trips, allowing the game to progress despite real-life interruptions.
 
-## 2. Select Party or Build a Party
+## 2. Select or Build a Party
 
-A player without a party uses the [Party Creation](./Party%20Creation.html) rules to create one. This can occur when first starting the game, or when all of the player's previous parties have died. This is the whole of that player's turn.
+Players without a party should use the [Party Creation](./Party%20Creation.html) rules to form one. This applies when starting the game or after losing all previous parties. This action constitutes the entirety of the player's turn.
 
-A player who has one or more parties selects one to activate this turn.
+Players with existing parties select one to activate for the turn.
 
 --BETA--
-If a player has a Guild House they may pay to recruit a new party to join their guild. Counts as a party activation for the guild.
-Guild House allow players to activate multiple parties based on their organization level. These parties share Phases and Steps.
+Players owning a Guild House may recruit a new party to their guild for a fee. This counts as one party activation for the guild.
+Guild Houses enable players to activate multiple parties based on their organization level. These parties go through Phases and Steps collectively.
 --BETA--
 
 ## 3. Planning
 
-Choose which hex the active party will travel to from the adjacent hexes. This is the destination hex. The party does not move there yet and is still considered to be at its current location. 
+Players choose a destination hex for their active party from adjacent hexes. The party remains in its current location and does not move yet.
 
 ### Special Rule: Lost
 
-A party that is [Lost](Lost.html) do not choose which tile they move to, instead they role 1d6 and move to a random adjacent hex. The party is no longer lost after this turn.
+A [Lost](Lost.html) party does not select its next hex but rolls 1d6 to move to a random adjacent hex. The party is no longer lost after this turn.
 
 ## 4. Provisioning
 
-The party may trade at any [Market](./Market.html) they have access to in their current hex. The market is a table of goods and what they trade for. This can be different for each market and substitutions are not allowed. The party may make any number of trades. 
+Parties can trade at any [Market](./Market.html) available in their current hex. Each market has a unique table of goods and their trade values, with no substitutions allowed. Parties can engage in unlimited trades.
 
 ### Special Rule: Ale is Always a Good Investment
 
-Parties that do not have any items to trade in the market can always buy Ale.
+Parties can always purchase Ale. This is a great way to break into the market.
 - Buy Price: 2 gold for 6 Ale
-- Sell Price: 5 Ale for 2 gold (Somebody drank number 6)
+- Sell Price: 5 Ale for 2 gold (as one is typically consumed)
 
 ### Special Rule: Market Collapse
 
-If the player can performs a loop of trades that leaves them with more resources of the same type overall than what they started with, in other words producing infinite goods, that market collapses and the player receives 10 PP to distribute to their characters. The market is then closed and the economy is in shambles. Thanks Capitalism.
+If a player exploits a trade loop yielding more resources than initially held, resulting in infinite goods, that market collapses. The player then receives 10 PP to distribute among their characters. The market closes, leaving the economy in ruins. Thanks, Capitalism.
 
 ## 5. Character Abilities and Spreading Rumors
 
-Characters that have abilities that can be used in the Prepare Phase now can use those abilities in the order the player wishes.
+Characters with abilities applicable in the Prepare Phase may use them now, in any order the player chooses.
 
-Parties wanting to spread rumors may leave their rumor card face up for other players to read.
+Parties wishing to spread rumors can leave their rumor card face-up for other players to read.
 
 Next: [Embark Phase](./Embark%20Phase.html)

@@ -2,35 +2,40 @@
 share: "true"
 ---
 
+# Fighters
 
+In the dynamic world of techno-fantasy, the quintessential fighter is a seamless fusion of biological prowess and advanced technology. These warriors are augmented with sophisticated biological implants that enhance their physical abilities, reflexes, and sensory perception, pushing the boundaries of human capability. Encased in robotic exoskeletons, they become powerhouses on the battlefield, their movements amplified with mechanical precision and strength. 
 
-# Base
+These exoskeletons, often artfully designed to echo the armor of ancient warriors, are equipped with an array of built-in weaponry and defense mechanisms, such as retractable blades or energy shields. The biological implants allow for a deep, intuitive connection with their robotic enhancements, creating a symbiotic relationship between the warrior and their armor. 
 
-Fighters start with a Combat Modifier of 1.
+This melding of organic and mechanical elements transforms the fighter into a living embodiment of both the past's martial traditions and the future's technological advancements, making them a formidable force in a world where the lines between biology and technology are increasingly blurred.
+
+Fighters begin with a Combat Modifier of 1.
+
 # Skills
 
-Some fighter skills require a free hand to use.  This is listed as { X FH } after the name with X being the number of hands you must have free. Fighters start with 2 Free Hands. During the [Prepare Phase](./Prepare%20Phase.html) you can choose how to fill your Free Hands.
+Some fighter skills necessitate having one or more hands free. This requirement is indicated as { X FH } after the skill name, with X being the number of free hands needed. Fighters start with 2 Free Hands. During the [Prepare Phase](./Prepare%20Phase.html), you can decide how to utilize your Free Hands.
 
-Combat Prowess - PP Cost X (Max 3)
-- Add X to your combat modifier
+- **Combat Prowess - PP Cost X (Max 3)**
+  - Add X to your combat modifier.
 
-Two Hands To Smash With {2 FH} - PP Cost 3 
-- Increase your combat modifier by factor of 1.5 round up.
+- **Two Hands To Smash With {2 FH} - PP Cost 3**
+  - Increase your combat modifier by a factor of 1.5, rounded up.
 
-Shield {1 FH} - PP Cost 2
-- When damage is distributed, ignore 1 point of damage.
+- **Shield {1 FH} - PP Cost 2**
+  - When damage is distributed, ignore 1 point of damage.
 
-Swordsman {1 FH} - PP Cost 2
-- When your party deals deals damage to an enemy add 1
+- **Swordsman {1 FH} - PP Cost 2**
+  - When your party inflicts damage on an enemy, add 1 to the damage.
 
-Pike-man {2 FH} - PP Cost 2
-- Ignore your normal combat modifier, instead use the number of Fighters with Pike-man in your party.
+- **Pike-man {2 FH} - PP Cost 2**
+  - Disregard your normal combat modifier; instead, use the number of Fighters with Pike-man in your party.
 
-Archer {2 FH} - PP Cost 3
-- When your party deals damage, they gain the edge. If they have the edge, deal 3 extra damage.
+- **Archer {2 FH} - PP Cost 3**
+  - When your party inflicts damage, they gain the edge. If they already have the edge, deal 3 additional damage.
 
-Heavy Armor - PP 3
-- When damage is distributed, ignore 2 points of damage.
+- **Heavy Armor - PP Cost 3**
+  - When damage is distributed, ignore 2 points of damage.
 
-Battle Cry - PP 1
-- When making a combat roll, you may spend 1 R to add 1 to the roll. This can be done after the roll is made.
+- **Battle Cry - PP Cost 1**
+  - When making a combat roll, you may spend 1 R to add 1 to the roll. This can be done after the roll is made.
