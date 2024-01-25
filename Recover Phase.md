@@ -3,8 +3,9 @@ share: "true"
 ---
 
 
+
 # Recovery Phase
-Previous: [Encounter Phase](./Encounter%20Phase.md)
+Previous: [Encounter Phase](./Encounter%20Phase.html)
 
 ## Step 1: Recover Hit Points
 
@@ -34,4 +35,4 @@ Previous: [Encounter Phase](./Encounter%20Phase.md)
 - Each character may then convert Luck Points to Resourcefulness.
 - Luck Points are not recovered, once spent they are gone. Unless you get Lucky . . .
 
-Back to: [Play the Game](./Play%20the%20Game.md)
+Back to: [Play the Game](./Play%20the%20Game.html)
