@@ -13,11 +13,11 @@ The combat centers around a 2d6 roll, influenced by each party member's combat m
 
 ## **Step 2: Calculate Combat Modifier
 
-- Subtract the encounters [Enemy Impact](Enemy%20Impact.md) from the [Party Impact](Party%20Impact.md). This is the Combat Modifier.
+- Subtract the encounters [Enemy Impact](./Enemy%20Impact.md) from the [Party Impact](./Party%20Impact.md). This is the Combat Modifier.
 
 ## **Step 3: [Edge Factor](Edge%20Factor.md)**
 
-- **Scouting Advantage:** If the party successfully scouted and used their [Scouting Bonus](Scouting%20Bonus.md), add an extra 1d6 to the combat roll (resulting in a 3d6 roll).
+- **Scouting Advantage:** If the party successfully scouted and used their [Scouting Bonus](./Scouting%20Bonus.md), add an extra 1d6 to the combat roll (resulting in a 3d6 roll).
 - **Surprise Disadvantage:** If ambushed, subtract 1d6 from the combat roll (resulting in a 1d6 roll).
 Note: if both are true they cancel each other out resulting in a roll of 2d6
 
@@ -84,4 +84,4 @@ Players may group these rolls however they wish. For example if they party has 4
 | 29 | Circuit Crown of Digital Dominion | Single character gains 8 PP. Single use. |
 | 30 | Reality Modulator Staff | A powerful staff capable of altering local reality within constrained parameters. Change Hex to different Terrain Type. Single use. |
 
-Back to [Encounter Phase](Encounter%20Phase.md)
+Back to [Encounter Phase](./Encounter%20Phase.md)

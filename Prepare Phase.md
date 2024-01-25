@@ -11,7 +11,7 @@ If they player does not wish to play this round, or any number of upcoming round
 
 ## 2. Select Party or Build a Party
 
-A player without a party uses the [Party Creation](Party%20Creation.md) rules to create one. This can occur when first starting the game, or when all of the player's previous parties have died. This is the whole of that player's turn.
+A player without a party uses the [Party Creation](./Party%20Creation.md) rules to create one. This can occur when first starting the game, or when all of the player's previous parties have died. This is the whole of that player's turn.
 
 A player who has one or more parties selects one to activate this turn.
 
@@ -30,7 +30,7 @@ A party that is [Lost](Lost.md) do not choose which tile they move to, instead t
 
 ## 4. Provisioning
 
-The party may trade at any [Market](Market.md) they have access to in their current hex. The market is a table of goods and what they trade for. This can be different for each market and substitutions are not allowed. The party may make any number of trades. 
+The party may trade at any [Market](./Market.md) they have access to in their current hex. The market is a table of goods and what they trade for. This can be different for each market and substitutions are not allowed. The party may make any number of trades. 
 
 ### Special Rule: Ale is Always a Good Investment
 
@@ -48,4 +48,4 @@ Characters that have abilities that can be used in the Prepare Phase now can use
 
 Parties wanting to spread rumors may leave their rumor card face up for other players to read.
 
-Next: [Embark Phase](Embark%20Phase.md)
+Next: [Embark Phase](./Embark%20Phase.md)

@@ -6,7 +6,7 @@ share: "true"
 # Trade Goods Market
 
 The first time this market is used role a 1d6. This is the current market.
-When a player trades at the market, at the end of the [Prepare Phase](Prepare%20Phase.md) roll again for market changes.
+When a player trades at the market, at the end of the [Prepare Phase](./Prepare%20Phase.md) roll again for market changes.
 
 ### Table 1
 
