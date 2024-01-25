@@ -19,7 +19,7 @@ Assemble a party of the bravest adventurers, each hardened by the harsh realitie
 
 **Carve a Path of Survival, Glory, and Infamy!**
 
-Will you dare to uncover the secrets of lost techno-temples, risking life and limb for forgotten knowledge? Will you negotiate with beings born from the chaotic fusion of arcane and tech, or will you dominate them through force? Every choice is a gamble in the fight for survival, and your decisions will etch your story into the annals of this merciless land.
+Will you dare to uncover the secrets of lost techno-temples, risking life and limb for forgotten knowledge? Will you negotiate with beings born from the chaotic fusion of arcane and tech, or will you dominate them through force? Every choice is a gamble in the fight for survival, and your decisions will etch your story into the data-annals of this merciless land.
 
-[Play the Game](Play%20the%20Game.md)
+[Play the Game](./Play%20the%20Game.md)
 
