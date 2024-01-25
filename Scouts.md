@@ -7,6 +7,7 @@ In the vast expanses of the Ancient Future, Scouts stand out as the quintessenti
 With an innate proficiency in charting unexplored territories and deciphering cryptic maps, Scouts possess a unique blend of practical survival skills and a deep yearning for discovery. They are adept at reading the subtle signs of nature and unraveling the secrets of the most treacherous landscapes. 
 
 However, despite their bravery and expertise, Scouts harbor a peculiar and almost comical fear of insects. This phobia adds an intriguing layer to their character, as they navigate the wilds with a vigilant eye out for their tiny, many-legged nemeses, juxtaposing their otherwise fearless demeanor with a surprisingly human vulnerability.
+
 Scouts start with a Combat Modifier of 0.
 
 # Skills
