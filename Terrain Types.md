@@ -3,11 +3,12 @@ share: "true"
 ---
 
 
-# [Desert](./Desert.md)
 
-# [Forest](./Forest.md)
-# [Mountain](./Mountain.md)
+# [Desert](./Desert.html)
 
-# [Ruined Cityscape](./Ruined%20Cityscape.md)
-# [Swamp](./Swamp.md)
-# [Wilderness](./Wilderness.md)
+# [Forest](./Forest.html)
+# [Mountain](./Mountain.html)
+
+# [Ruined Cityscape](./Ruined%20Cityscape.html)
+# [Swamp](./Swamp.html)
+# [Wilderness](./Wilderness.html)
