@@ -3,6 +3,7 @@ share: "true"
 ---
 
 
+
 #### Step 1: Choose a Character Type
 
 - Select from Fighter, Hunter, Priest, Rogue, or Bard.
