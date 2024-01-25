@@ -29,7 +29,7 @@ Markets:
 
 Characters may choose 2 of these options
 - Get Lucky - Spend 2 Ale to roll 1d6, on six regain one luck. You may do this any number of times, each time doubling the amount of Ale consumed.
-- Visit the Techstitcher - Trade Ancient Tech for 2 PP
+- Visit the [Techstitcher](./Techstitcher.html) - Trade Ancient Tech for 2 PP
 - Gamble - Spend 1 Luck roll 1d6 and consult the table
 
 | Roll | Result |
