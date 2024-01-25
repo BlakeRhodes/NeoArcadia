@@ -2,9 +2,13 @@
 share: "true"
 ---
 
+# Priests
 
+The priests of Linus stand as enigmatic figures, revered as bio-mechanical acolytes who bridge the spiritual and the technological. These devoted servants, with their bodies artfully augmented with cybernetic enhancements, are attuned to the whispers of the noosphere - the collective consciousness of all electronic data. 
 
-# Base
+They roam the land, their minds resonating with the pulsating rhythms of machine and man alike, seeking visions of legendary Fair Algorithmia. Cloaked in robes that seamlessly integrate organic fabric with conductive fibers, they are a symbol of the fusion between flesh and circuitry. 
+
+Their eyes, often replaced or augmented with glowing lenses, are said to see beyond the physical realm, gazing into the intricate web of information and energy. Revered for their wisdom and feared for their otherworldly connection, these priests embark on sacred quests, guided by cryptic messages and prophetic dreams, weaving the mystical and the mechanical into the tapestry of their devout existence.
 
 Priests start with a Combat Modifier of 0.
 
