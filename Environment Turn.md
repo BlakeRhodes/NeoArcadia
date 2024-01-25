@@ -9,7 +9,7 @@ share: "true"
 - Increase the [Calendar](Calendar.md) by one. Seasons change after 90 days.
 
 #### 2. Weather
-- Use the weather table for the [Season](Season.md) and apply [Weather Effects](Weather%20Effects.md)
+- Use the weather table for the [Season](./Season.md) and apply [Weather Effects](./Weather%20Effects.md)
 
 --BETA--
 #### 3. Special Events
@@ -31,4 +31,4 @@ share: "true"
 This event occurs on a random hex and remains unless another Special Event is rolled for the same tile replacing it
 --BETA--
 
-Back to: [Play the Game](Play%20the%20Game.md)
+Back to: [Play the Game](./Play%20the%20Game.md)
