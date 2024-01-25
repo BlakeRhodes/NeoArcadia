@@ -2,11 +2,13 @@
 share: "true"
 ---
 
+In the vast expanses of the Ancient Future, Scouts stand out as the quintessential navigators and explorers, many of whom honed their skills in the tumultuous times of the Last War. These born adventurers are driven by an insatiable curiosity, not only to uncover hidden riches but also to unearth distant memories and forgotten tales that lie scattered across the land. 
 
+With an innate proficiency in charting unexplored territories and deciphering cryptic maps, Scouts possess a unique blend of practical survival skills and a deep yearning for discovery. They are adept at reading the subtle signs of nature and unraveling the secrets of the most treacherous landscapes. 
 
-# Base
-
+However, despite their bravery and expertise, Scouts harbor a peculiar and almost comical fear of insects. This phobia adds an intriguing layer to their character, as they navigate the wilds with a vigilant eye out for their tiny, many-legged nemeses, juxtaposing their otherwise fearless demeanor with a surprisingly human vulnerability.
 Scouts start with a Combat Modifier of 0.
+
 # Skills
 
 Never Lost - PP Cost 2
@@ -25,3 +27,5 @@ Opportunist - PP Cost 4
 Army Scout - PP Cost X (Max 4)
 - Your Combat Modifier is X/2 round down
 
+The Only Good Bug . . . - PP Cost 1
+- Your Combat Modifier is tripled against bugs.
