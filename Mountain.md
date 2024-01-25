@@ -3,6 +3,7 @@ share: "true"
 ---
 
 
+
 # Mountain
 
 Travel: 2 Ration, 1 Water
@@ -17,4 +18,4 @@ Scout: 8
 | 4 | Combat | Predator Birds - Impact: 7 HP: 15 Loot +1 |
 | 5 | Combat | Bandits Ambush - Impact: 10 HP: 15 Loot: +2 |
 | 6 | Natural Cave | No need to set a watch |
-[Terrain Types](./Terrain%20Types.md)
+[Terrain Types](./Terrain%20Types.html)
