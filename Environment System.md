@@ -2,8 +2,6 @@
 share: "true"
 ---
 
-
-
 # Set Up
 
 1. Roll on the Season Table to discover the starting season
@@ -12,13 +10,15 @@ share: "true"
 | ---- | ---- | ---- |
 | 1 | Winter | Extreme cold, high risk of snowstorms, increased difficulty in survival tasks and travel |
 | 2 | Spring | Unpredictable weather, increased rainfall, blooming flora with potential allergenic effects |
-| 3 | Summer | High temperatures, risk of droughts or heatwaves, increased chance of thunderstorms |
-| 4 | Late Summer | Same as summer, but Calendar starts at 60 instead of 1. |
-| 5 | Autumn | Cooling temperatures, occasional rain, falling leaves impacting visibility and terrain |
+| 3 | Summer | High temperatures, risk of droughts or heatwaves, increased chance of thunderstorms | 
+| 4 | Late Summer | Same as summer, but Calendar starts at 60 instead of 1. | 
+| 5 | Autumn | Cooling temperatures, occasional rain, falling leaves impacting visibility and terrain | 
 | 6 | Late Autumn | Same as Autumn, but Calendar starts at 60 instead of 1. |
-2. Set the Calendar to 1 unless it is late in the season, then start on 60
 
-3. Roll on the weather table for the season.
+
+3. Set the Calendar to 1 unless it is late in the season, then start on 60
+
+4. Roll on the weather table for the season.
 
 ### Spring Weather Table (2d6)
 
