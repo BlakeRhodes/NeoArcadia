@@ -3,6 +3,7 @@ share: "true"
 ---
 
 
+
 # Swamp
 
 Travel: 1 Ration, 2 Water
@@ -17,4 +18,4 @@ Scout: 7
 | 4 | Combat | Giant Swamp Leeches - Impact: 12 HP: 10 Loot: +1 |
 | 5 | Combat | Rogue Drones - Impact: 14 HP: 12 Loot: +1 |
 | 6 | Ancient Machinery | Party discovers an ancient water purifier with a single use left, gain 15 water. |
-[Terrain Types](./Terrain%20Types.md)
+[Terrain Types](./Terrain%20Types.html)
