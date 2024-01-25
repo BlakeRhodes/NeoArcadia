@@ -2,9 +2,9 @@
 share: "true"
 ---
 
-
-
 # Wilderness
+
+In the wilderness of the Ancient Future, nature has reclaimed the relics of a once-advanced civilization, intertwining overgrown forests with the rusted skeletons of forgotten technology. This untamed landscape is a patchwork of dense greenery and eerie, abandoned ruins, where the whispers of the past meet the primal breath of the wild, creating a world both hauntingly beautiful and mysteriously perilous.
 
 Travel: 1 Ration, 1 Water
 Forage: 8
