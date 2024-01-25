@@ -3,6 +3,7 @@ share: "true"
 ---
 
 
+
 # Combat System
 
 The combat centers around a 2d6 roll, influenced by each party member's combat modifier, enemy strength, and modified by the 'Edge' rule in certain scenarios.
@@ -13,11 +14,11 @@ The combat centers around a 2d6 roll, influenced by each party member's combat m
 
 ## **Step 2: Calculate Combat Modifier
 
-- Subtract the encounters [Enemy Impact](./Enemy%20Impact.md) from the [Party Impact](./Party%20Impact.md). This is the Combat Modifier.
+- Subtract the encounters [Enemy Impact](./Enemy%20Impact.html) from the [Party Impact](./Party%20Impact.html). This is the Combat Modifier.
 
-## **Step 3: [Edge Factor](Edge%20Factor.md)**
+## **Step 3: [Edge Factor](Edge%20Factor.html)**
 
-- **Scouting Advantage:** If the party successfully scouted and used their [Scouting Bonus](./Scouting%20Bonus.md), add an extra 1d6 to the combat roll (resulting in a 3d6 roll).
+- **Scouting Advantage:** If the party successfully scouted and used their [Scouting Bonus](./Scouting%20Bonus.html), add an extra 1d6 to the combat roll (resulting in a 3d6 roll).
 - **Surprise Disadvantage:** If ambushed, subtract 1d6 from the combat roll (resulting in a 1d6 roll).
 Note: if both are true they cancel each other out resulting in a roll of 2d6
 
@@ -42,7 +43,7 @@ Note: A Character with zero hit points is not dead yet, but they are grievously 
 
 ## Step 6: Loot Collection
 
-- [Loot Dice](Loot%20Dice.md): Roll 1d6 + Loot - 4
+- [Loot Dice](Loot%20Dice.html): Roll 1d6 + Loot - 4
 - If this number is positive, the party gets that many Loot Dice to use on the Loot Tables. These dice must be used now, or they are lost.
 - **Loot Tables:** Choose a Loot Table and the number of Loot Dice to roll.
 - **Roll for Loot:** Roll the Loot Dice and sum the result. Consult the table and collect your loot.
@@ -84,4 +85,4 @@ Players may group these rolls however they wish. For example if they party has 4
 | 29 | Circuit Crown of Digital Dominion | Single character gains 8 PP. Single use. |
 | 30 | Reality Modulator Staff | A powerful staff capable of altering local reality within constrained parameters. Change Hex to different Terrain Type. Single use. |
 
-Back to [Encounter Phase](./Encounter%20Phase.md)
+Back to [Encounter Phase](./Encounter%20Phase.html)
