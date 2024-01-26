@@ -5,6 +5,7 @@ share: "true"
 # Recovery Phase  
 Previous: [Encounter Phase](./Encounter%20Phase.html)  
   
+![Pasted image 20240126173813](./Pasted%20image%2020240126173813.png)  
 ## Step 1: Recover Hit Points  
   
 - Each character may regain Hit Points equal to their stamina by spending 1 R or 1 Medicinal Herb.  

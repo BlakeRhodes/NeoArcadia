@@ -4,6 +4,8 @@ share: "true"
   
 # Prepare Phase  
   
+![Pasted image 20240126173415](./Pasted%20image%2020240126173415.png)  
+  
 ## 1. **Play or Pass**  
   
 Players who do not wish to participate in the current or upcoming rounds can opt to skip their turn. This flexibility accommodates situations like phone calls, snack breaks, or weekend trips, allowing the game to progress despite real-life interruptions.  
