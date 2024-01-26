@@ -8,6 +8,10 @@ share: "true"
 
 Players who do not wish to participate in the current or upcoming rounds can opt to skip their turn. This flexibility accommodates situations like phone calls, snack breaks, or weekend trips, allowing the game to progress despite real-life interruptions.
 
+### Special Rule: Skip 'em
+
+If a player is not present, the group can choose to skip ahead to the next present player.
+
 ## 2. Select or Build a Party
 
 Players without a party should use the [Party Creation](./Party%20Creation.html) rules to form one. This applies when starting the game or after losing all previous parties. This action constitutes the entirety of the player's turn.
