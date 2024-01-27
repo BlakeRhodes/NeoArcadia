@@ -2,11 +2,11 @@
 share: "true"  
 ---  
   
-# Ruined Cityscape  
-  
 ![Pasted image 20240126174801](./Pasted%20image%2020240126174801.png)  
   
-In the heart of the desolate cityscape, towering buildings and crumbling structures stand as silent sentinels over streets eerily devoid of both human and mutant life. The pervasive stillness is unsettling, a haunting testament to a sudden, mysterious exodus that left the city frozen in time, a ghostly urban maze untouched by the living.  
+*In the heart of the desolate cityscape, towering buildings and crumbling structures stand as silent sentinels over streets eerily devoid of both human and mutant life. The pervasive stillness is unsettling, a haunting testament to a sudden, mysterious exodus that left the city frozen in time, a ghostly urban maze untouched by the living.*  
+  
+# Ruined Cityscape  
   
 Travel: 1 Ration, 1 Water  
 Forage: 8  
