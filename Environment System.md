@@ -4,6 +4,8 @@ share: "true"
   
 # Environment System  
   
+![Pasted image 20240126175927](./Pasted%20image%2020240126175927.png)  
+  
 # Set Up  
   
 1. **Roll on the Season Table to Determine the Starting Season**  
