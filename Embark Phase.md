@@ -2,10 +2,12 @@
 share: "true"  
 ---  
   
+  
+![Pasted image 20240126173529](./Pasted%20image%2020240126173529.png)  
+  
 # Embark Phase  
 Previous: [Prepare Phase](./Prepare%20Phase.html)  
   
-![Pasted image 20240126173529](./Pasted%20image%2020240126173529.png)  
 ## **Step 1: Forage**  
   
 Before leaving for their destination, the party may choose to forage in the current hex. This provides an opportunity to recover supplies and extend travel capabilities.  
