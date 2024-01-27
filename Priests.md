@@ -2,9 +2,10 @@
 share: "true"  
 ---  
   
-# Priests  
   
 ![Pasted image 20240126172212](./Pasted%20image%2020240126172212.png)  
+  
+# Priests  
   
 The priests of Linus stand as enigmatic figures, revered as bio-mechanical acolytes who bridge the spiritual and the technological. These devoted servants, with their bodies artfully augmented with cybernetic enhancements, are attuned to the whispers of the noosphere - the collective consciousness of all electronic data.   
   

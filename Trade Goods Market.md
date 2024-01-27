@@ -2,9 +2,11 @@
 share: "true"  
 ---  
   
-# Trade Goods Market  
+![Pasted image 20240126232706](./Pasted%20image%2020240126232706.png)  
   
-"*In my extraordinary journey through the labyrinthine world of finance, I, Gilbert Hou, have emerged not merely as an investment banker, but as a visionary in a realm where numbers intertwine with the marvels of technology. "DIAMOND HANDS: The Gilbert Hou Story" is a narrative that transcends the mundane, delving into my unparalleled expertise in an era of organ markets and vat-grown futures.*" - Gilbert Hou  
+"*In my extraordinary journey through the labyrinthine world of finance, I, Gilbert Hou, have emerged not merely as an investment banker, but as a visionary in a realm where numbers intertwine with the marvels of technology. "DIAMOND HANDS: The Gilbert Hou Story" is a narrative that transcends the mundane, delving into my unparalleled expertise in an era of organ markets and vat-grown futures.*" - Gilbert Hou, Professional Bastard  
+  
+# Trade Goods Market  
   
 The first time this market is used, roll a 1d6 to determine the current market table. When a player trades at the market, re-roll at the end of the [Prepare Phase](./Prepare%20Phase.html) to determine any market changes.  
   

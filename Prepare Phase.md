@@ -2,9 +2,10 @@
 share: "true"  
 ---  
   
-# Prepare Phase  
   
 ![Pasted image 20240126173415](./Pasted%20image%2020240126173415.png)  
+  
+# Prepare Phase  
   
 ## 1. **Play or Pass**  
   

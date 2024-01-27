@@ -4,6 +4,8 @@ share: "true"
   
 ![Pasted image 20240126172633](./Pasted%20image%2020240126172633.png)  
   
+# Scouts  
+  
 In the vast expanses of the Ancient Future, Scouts stand out as the quintessential navigators and explorers, many of whom honed their skills in the tumultuous times of the Last War. These born adventurers are driven by an insatiable curiosity, not only to uncover hidden riches but also to unearth distant memories and forgotten tales that lie scattered across the land.   
   
 With an innate proficiency in charting unexplored territories and deciphering cryptic maps, Scouts possess a unique blend of practical survival skills and a deep yearning for discovery. They are adept at reading the subtle signs of nature and unraveling the secrets of the most treacherous landscapes.   

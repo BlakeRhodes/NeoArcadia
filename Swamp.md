@@ -2,11 +2,12 @@
 share: "true"  
 ---  
   
-# Swamp  
   
 ![Pasted image 20240126174851](./Pasted%20image%2020240126174851.png)  
   
-In this vast swamp, the air is filled with a symphony of life — the chorus of frogs, the buzz of insects, and the distant calls of hidden creatures — all resonating above the subtle, dissonant gurgles and echoes from the decaying waste processing plants. These sounds mingle eerily, creating a haunting acoustic tapestry that tells a story of nature's resilience overshadowed by the remnants of a once-polluting past.  
+*In this vast swamp, the air is filled with a symphony of life — the chorus of frogs, the buzz of insects, and the distant calls of hidden creatures — all resonating above the subtle, dissonant gurgles and echoes from the decaying waste processing plants. These sounds mingle eerily, creating a haunting acoustic tapestry that tells a story of nature's resilience overshadowed by the remnants of a once-polluting past.*  
+  
+# Swamp  
   
 Travel: 1 Ration, 2 Water  
 Forage: 6  

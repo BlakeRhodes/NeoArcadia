@@ -2,11 +2,12 @@
 share: "true"  
 ---  
   
-# Desert  
   
 ![Pasted image 20240126174400](./Pasted%20image%2020240126174400.png)  
   
-In this vast ancient desert, the sands whisper secrets of a bygone era, their grains formed from the countless microprocessors of ancient data centers, a testament to a once-great civilization's technological zenith.  
+*In this vast ancient desert, the sands whisper secrets of a bygone era, their grains formed from the countless microprocessors of ancient data centers, a testament to a once-great civilization's technological zenith.*  
+  
+# Desert  
   
 Travel: 2 Ration, 3 Water  
 Forage: 10  

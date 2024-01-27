@@ -2,6 +2,8 @@
 share: "true"  
 ---  
   
+![Pasted image 20240126235639](./Pasted%20image%2020240126235639.png)  
+  
 # Sample Combat Play-by-Play  
   
 Our party consists of four members: a Fighter, a Rogue, a Priest, and a Hunter.  

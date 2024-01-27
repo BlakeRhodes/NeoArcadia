@@ -2,9 +2,10 @@
 share: "true"  
 ---  
   
-# Hunters  
   
 ![Pasted image 20240126171952](./Pasted%20image%2020240126171952.png)  
+  
+# Hunters  
   
 In the Ancient Future's untamed wilds, the Hunter class stands as a paragon of survival, mastery, and knowledge. These rugged individuals are not only adept at tracking and hunting; they are also scholars of the land, possessing an in-depth understanding of geology and biology.   
   
