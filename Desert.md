@@ -21,4 +21,5 @@ Scout: 8
 | 4 | Combat | Glass Serpents - Impact: 9 HP: 8 Loot: +1 |  
 | 5 | Raider Ambush | Ash Raiders Ambush - Impact: 11 HP: 10 Loot: +2 |  
 | 6 | Lost Ruins | Uncover a forgotten building, Roll 3 Loot Dice |  
+  
 [Terrain Types](./Terrain%20Types.html)  
