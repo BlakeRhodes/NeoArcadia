@@ -8,7 +8,7 @@ share: "true"
   
 ## Step 1: Choose a Character Type  
   
-- Select from Fighter, Hunter, Priest, Rogue, or Bard.  
+- Select from [Fighters](./Fighters.md), [Hunters](./Hunters.md), [Priests](./Priests.md), [Scouts](./Scouts.md)  
   
 ## Step 2: Allocate Power Points (PP)  
   
