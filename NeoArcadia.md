@@ -2,7 +2,9 @@
 share: "true"  
 ---  
   
-# **XXXX- Special - NeoArcadia the Fallen Sky City**  
+![Pasted image 20240126233918](./Pasted%20image%2020240126233918.png)  
+  
+# XXXX- Special - NeoArcadia the Fallen Sky City  
   
 NeoArcadia, the Fallen Sky City, stands as a beacon of resilience and innovation in the world of the Ancient Future. Once a marvel even among the other cities of the clouds, its history is marked by a catastrophic descent that transformed it from a floating utopia to a grounded haven amidst ruins.   
   
