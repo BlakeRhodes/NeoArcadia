@@ -4,6 +4,8 @@ share: "true"
   
 # Combat System  
   
+![Pasted image 20240126175728](./Pasted%20image%2020240126175728.png)  
+  
 The combat revolves around a 2d6 roll, influenced by each party member's combat modifier, the enemy's strength, and is further modified by the 'Edge' rule in specific scenarios. For an example of combat take a look at the [Sample Combat Play-by-Play](./Sample%20Combat%20Play-by-Play.html)  
 ## **Step 1: Calculate Party Impact**  
   

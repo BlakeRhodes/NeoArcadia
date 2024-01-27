@@ -4,6 +4,7 @@ share: "true"
   
 # Advanced Rules: Expanding the World of the Ancient Future  
   
+![Pasted image 20240126175443](./Pasted%20image%2020240126175443.png)  
 ## Introduction  
   
 The Continuous Play experience of NeoArcadia thrives on the ever-evolving and expanding game world. Adding new content keeps the adventure fresh and engaging for all players. These advanced rules focus on three key methods for enriching the game: introducing new rumors and hex sheets, adding new maps for additional regions, and creating new quests with requisite information for completion. Importantly, these enhancements aren't the sole responsibility of one individual; they can be a collaborative effort, allowing all players to contribute to the growth and depth of the game.  
