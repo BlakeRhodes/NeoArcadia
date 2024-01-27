@@ -19,14 +19,14 @@ Scouts start with a Combat Modifier of 0.
 Never Lost - PP Cost 2  
 - During Prepare Phase can spend 1 R to remove the [Lost](Lost.html) condition as a Special Ability.  
   
-Lone Wolf - PP Cost 3  
-- When facing a solo challenge may spend 1 R to re-roll a test.  
+Covert Maneuver - PP Cost 4  
+- Before the party moves into a hex, you may spend 1 R look at the hex sheet for the destination with out revealing it. You may choose not to move this turn.  
   
 Terrain Knowledge (Type) - PP Cost 1  
 - You take this skill multiple times  
 - When scouting a hex of chosen terrain type add one to the scouting roll  
   
-Opportunist - PP Cost 4  
+Opportunist - PP Cost 2  
 - You can spend 1 R to change your Scouting Modifier by 1 when selecting an encounter.  
   
 Army Scout - PP Cost X (Max 4)  

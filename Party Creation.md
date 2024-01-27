@@ -36,4 +36,8 @@ You can distribute PP among any characters in the party. Larger parties receive 
   
 - 12 Rations  
 - 8 Water  
-- 12 Gold
+- 12 Gold  
+  
+## Step 5. Hear a rumor  
+  
+Draw a rumor from the rumor deck
