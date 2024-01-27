@@ -2,6 +2,8 @@
 share: "true"  
 ---  
   
+![Pasted image 20240126235210](./Pasted%20image%2020240126235210.png)  
+  
 # Play the Game  
   
 NeoArcadia is a game designed for long-term play, offering a Continuous Play Experience. Envision a game evolving over not just hours, but weeks and months, continuously welcoming new players into its ever-changing world. This approach marries the charm of classic play-by-post war games with the dynamic interactivity of modern tabletop gaming.  
