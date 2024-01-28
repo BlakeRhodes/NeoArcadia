@@ -23,8 +23,8 @@ Each hex has a Travel Value that determines the amount of rations and water **ea
   
 ### Special Rule: Insufficient Supplies  
   
-- If there are not enough rations for the whole party, choose which characters will not eat. These characters will lose one stamina point and consume an additional unit of water.  
-- If there is insufficient water for the whole party, decide which characters will not drink. These characters will lose 2 stamina points. If this would reduce their stamina to below zero, it remains at zero.  
+- If there are not enough rations for the whole party, choose which characters will not eat. These characters must  consume an additional unit of water.  
+- If there is insufficient water for the whole party, decide which characters will not drink. These characters will lose 1 stamina points. If this would reduce their stamina to below zero, it remains at zero.  
   
 ## **Step 3: Scouting**  
   
