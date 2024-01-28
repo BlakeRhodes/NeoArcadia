@@ -26,7 +26,7 @@ Each hex has a Travel Value that determines the amount of rations and water **ea
 - If there are not enough rations for the whole party, choose which characters will not eat. These characters will lose one stamina point and consume an additional unit of water.  
 - If there is insufficient water for the whole party, decide which characters will not drink. These characters will lose 2 stamina points. If this would reduce their stamina to below zero, it remains at zero.  
   
-## **Step 4: Scouting**  
+## **Step 3: Scouting**  
   
 Scouting allows the party to assess their destination and better control their encounters there.  
 - **[Scouting Roll](./Scouting%20Roll.html):** Roll 2d6 against the hex's Scout Difficulty.  
@@ -34,7 +34,7 @@ Scouting allows the party to assess their destination and better control their e
 - **[Scouting Bonus](./Scouting%20Bonus.html):** Roll - Scout Difficulty.  
 - If the Scouting Bonus is positive, the scouting is successful, and the party may use this bonus when rolling for encounters.  
   
-## Step 5: Arrive  
+## Step 4: Arrive  
   
 Move the party marker to the destination hex.  
   
