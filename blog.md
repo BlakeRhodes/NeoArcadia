@@ -5,7 +5,8 @@ share: "true"
   
 # Developer's Blog  
   
-# 28-01-2024 The Flesh is Weak  
+  
+## 28-01-2024 The Flesh is Weak  
   
 ![Pasted image 20240128143957](./Pasted%20image%2020240128143957.png)  
   
