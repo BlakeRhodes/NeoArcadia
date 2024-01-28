@@ -31,8 +31,8 @@ Previous: [Encounter Phase](./Encounter%20Phase.html)
   
 ## Step 5: Recover Resourcefulness  
   
-- Each character may recover 1 R.  
+- One character may recover 1 R.  
 - Characters may then convert Luck Points into Resourcefulness.  
 - Luck Points, once spent, are not recovered, unless a stroke of luck occurs...  
   
-Back to: [Play the Game](./Play%20the%20Game.html)
+Back to: [Prepare Phase](.Prepare%20Phase.html)
