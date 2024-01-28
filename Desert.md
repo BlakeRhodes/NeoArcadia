@@ -9,17 +9,16 @@ share: "true"
   
 # Desert  
   
-Travel: 2 Ration, 3 Water  
-Forage: 10  
+Forage: 12  
 Scout: 8  
   
 | Roll | Encounter Type | Description |  
 | ---- | ---- | ---- |  
-| 1 | Sandstorm | Blinding sandstorm, party loses 1 stamina each. |  
+| 1 | Sandstorm | Blinding sandstorm, party loses 1 stamina |  
 | 2 | Mirage | If not chosen by scouting modifier, party becomes lost |  
-| 3 | Resources | If chosen by scouting modifier find 1 rations or 2 water. |  
-| 4 | Combat | Glass Serpents - Impact: 9 HP: 8 Loot: +1 |  
-| 5 | Raider Ambush | Ash Raiders Ambush - Impact: 11 HP: 10 Loot: +2 |  
-| 6 | Lost Ruins | Uncover a forgotten building, Roll 3 Loot Dice |  
+| 3 | Trail of Bones | The party loses 1 will power. |  
+| 4 | Combat | Glass Serpents - Impact: 9 HP: 8 Loot: +1, 50 Gold |  
+| 5 | Combat | Ash Raiders Ambush - Impact: 11 HP: 10 Loot: +2, 50 Gold |  
+| 6 | Lost Ruins | Uncover a forgotten building, Roll 2 Loot Dice |  
   
 [Terrain Types](./Terrain%20Types.html)  

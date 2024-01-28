@@ -77,9 +77,9 @@ share: "true"
   
    | Roll | Weather Condition  | Effects on Gameplay                                        |  
    |------|--------------------|------------------------------------------------------------|  
-   | 2    | Blizzard           | Scouting Difficulty + 2, Foraging only yields water        |  
+   | 2    | Blizzard           | Scouting Difficulty + 2        |  
    | 3    | Heavy Snowfall     | Scouting Difficulty +1, Foraging Difficulty +1             |  
-   | 4    | Freezing Rain      | Ration use is doubled                                      |  
+   | 4    | Freezing Rain      | Foraging Difficulty + 2                                      |  
    | 5    | Biting Cold Wind   |                                                            |  
    | 6    | Light Snow         |                                                            |  
    | 7    | Overcast and Cold  |                                                            |  
@@ -91,4 +91,4 @@ share: "true"
   
 ## Full Moon  
   
-- It is a full moon if Calendar day divides by 28 with no remainder (Calendar % 28 == 0)  
+- Every 30 days it is a full moon. If the day of the season is 30, 60, or 90 the Full Moon is out.  

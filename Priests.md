@@ -29,8 +29,5 @@ Meditation - PP cost 4
 Blessings - PP Cost 1  
 - Spend 1 R to remove a character's Despair, they gain one Will Power  
   
-Sin Eater - PP Cost 2  
-- When your character uses a ration other characters heal one hit point.  
-  
 Preacher - PP Cost 1  
 - When Persuading you get +1 and Will Power spend adds 2 to the roll.
