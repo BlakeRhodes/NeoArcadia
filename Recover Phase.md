@@ -35,4 +35,4 @@ Previous: [Encounter Phase](./Encounter%20Phase.html)
 - Characters may then convert Luck Points into Resourcefulness.  
 - Luck Points, once spent, are not recovered, unless a stroke of luck occurs...  
   
-Back to: [Prepare Phase](.Prepare%20Phase.html)
+Back to: [Prepare Phase](./Prepare%20Phase.html)
