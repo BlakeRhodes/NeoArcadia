@@ -19,10 +19,9 @@ Today, NeoArcadia shines as a vibrant hub, a testament to the enduring human spi
 **Scout:** -  
   
 Markets:  
-[Trade Goods Market](./Trade%20Goods%20Market.md)  
-[Flea Market](./Flea%20Market.md)  
-[General Goods](./General%20Goods.md)  
-  
+[Trade Goods Market](./Trade%20Goods%Market.html)  
+[Flea Market](./Flea%20Market.html)  
+[General Goods](./General%20Goods.html)  
 **Special Encounter - Welcome Home**  
   
 - Parties returning to this Hex restore all stats except Luck  
