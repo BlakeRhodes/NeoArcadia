@@ -52,7 +52,7 @@ Players may group these rolls as they wish. For example, if the party has 4 Loot
   
 | Roll | Item | Description |  
 | ---- | ---- | ---- |  
-| 1 | Basic Rations | 1d6 Rations and 1d6 Water |  
+| 1 | Pouch | 50 Gold |  
 | 2 | Ale | 2d6 Ale |  
 | 3 | Timber | 2d6 Timber |  
 | 4 | Medicinal Herbs | 1d6 Medicinal Herbs |  
