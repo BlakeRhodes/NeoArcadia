@@ -33,7 +33,7 @@ Some fighter skills necessitate having one or more hands free. This requirement 
  - Add X to your combat modifier.  
   
 - **Shield {1 FH} - PP Cost 2**  
-  - When the party takes damage ignore 1 point of damage  
+  - When the party takes damage ignore 2 point of damage  
   
 - **Swordsman {1 FH} - PP Cost 2**  
   - When your party inflicts damage on an enemy, add 2 to the damage.  
@@ -48,4 +48,9 @@ Some fighter skills necessitate having one or more hands free. This requirement 
   - When the party takes combat damage ignore 3 point of damage  
   
 - **Battle Cry - PP Cost 1**  
-  - When making a combat roll, you may spend 1 R to add 1 to the roll. This can be done after the roll is made.
+  - When making a combat roll, you may spend 1 RP to add 1 to the roll. This can be done after the roll is made.  
+  
+- Dual Wielder {2 FH} - PP Cost 2  
+ - When your party inflicts damage on an enemy, add 3 to the damage.  
+  
+[Character Creation](./Character%20Creation.html)
