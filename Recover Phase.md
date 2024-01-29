@@ -7,32 +7,30 @@ share: "true"
 # Recovery Phase  
 Previous: [Encounter Phase](./Encounter%20Phase.html)  
   
-## Step 1: Recover Hit Points  
+## Step 1: Death  
   
-- Each character may regain Hit Points equal to their stamina by spending 1 R or 1 Medicinal Herb.  
-- Healing skills from certain classes can be used after deciding to spend R for healing.  
+- If the party is at 0 HP roll 1d6 if the roll is 4+ nothing happens otherwise chose a character to become a corpse.  
+- **Exhaustion Check:** If the party is at 0 stamina roll 2d6; on an 11 or 12, choose a character to become a corpse.  
+- Corpses are no longer considered characters and do not contribute to the party. Not even Linus can break the cycle of death. Pour out an ale for your fallen friend.  
   
-## Step 2: Recover Stamina  
+## Step 2: Despair  
   
-- Two characters must be selected for standing watch. The dangers of the Ancient Future do not rest.  
-- All characters not on watch regain 1 stamina.  
+- If the Party is at 0 WP, choose a character to despair.  
+- The character can not use skills until WP is increased to at least 1.  
   
-## Step 3: Death  
+## Step 3: Recover Hit Points  
   
-- Characters with Hit Points at zero are considered dead and become corpses.  
-- Characters at zero stamina must undertake an Exhaustion Check.  
-- **Exhaustion Check:** Roll 2d6; on an 11 or 12, the character survives, otherwise, they die and become a corpse.  
-- Corpses are no longer considered characters.  
+The party recovers 1d6 hit points.  
   
-## Step 4: Despair  
+## Step 4: Recover Stamina  
   
-- Characters with zero Will Power enter a state of Despair and cannot use skills.  
-- Any character can transfer one of their Will Power points to a character in Despair.  
+- Two characters must be selected for standing watch. The dangers of the Ancient Future do not rest. If the watch can not be filled, the party is slain in the night.  
+- The party recovers one stamina.  
   
 ## Step 5: Recover Resourcefulness  
   
-- One character may recover 1 R.  
-- Characters may then convert Luck Points into Resourcefulness.  
+- Recover 1 RP  
+- The party may then convert Luck Points into Resourcefulness.  
 - Luck Points, once spent, are not recovered, unless a stroke of luck occurs...  
   
 Back to: [Prepare Phase](./Prepare%20Phase.html)
