@@ -62,4 +62,6 @@ The party can gather food and water from their current location before traveling
 - If roll is at least one, the party finds enough resources.  
 - Otherwise the party must consume one ration or lose 1 stamina.  
   
-Next: [Embark Phase](./Embark%20Phase.html)
+Next: [Embark Phase](./Embark%20Phase.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)
