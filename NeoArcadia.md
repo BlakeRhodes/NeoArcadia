@@ -14,7 +14,6 @@ At its heart is the unbroken lineage of Sky Captains, who, according to legend, 
   
 Today, NeoArcadia shines as a vibrant hub, a testament to the enduring human spirit and a living museum of technological marvels, attracting adventurers, scholars, and dreamers drawn to its unique blend of history and progress.  
   
-**Travel:** 1 Ration, 1 Water  
 **Forage:** 3  
 **Scout:** -  
   
@@ -22,6 +21,7 @@ Markets:
 [Trade Goods Market](./Trade%Goods%20Market.html)  
 [Flea Market](./Flea%20Market.html)  
 [General Goods](./General%20Goods.html)  
+  
 **Special Encounter - Welcome Home**  
   
 - Parties returning to this Hex restore all stats except Luck  
@@ -30,7 +30,7 @@ Markets:
   
 Characters may choose 2 of these options  
 - Get Lucky - Spend 2 Ale to roll 1d6, on six regain one luck. You may do this any number of times, each time doubling the amount of Ale consumed.  
-- Visit the [Techstitcher](./Techstitcher.html) - Trade Ancient Tech for 2 PP  
+- Visit the [Techstitcher](./Techstitcher.html) - Trade Ancient Tech for PP  
 - Gamble - Spend 1 Luck roll 1d6 and consult the table  
   
 | Roll | Result |  
