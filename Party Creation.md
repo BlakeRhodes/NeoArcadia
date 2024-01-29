@@ -46,4 +46,6 @@ You can distribute PP among any characters in the party. You don't have to use a
   
 - Draw 3 rumors from the rumor deck.  
   
-[Play the Game](./Play%20the%20Game.html)
+[Play the Game](./Play%20the%20Game.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)
