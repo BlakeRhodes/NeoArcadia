@@ -35,4 +35,6 @@ Each party member contributes not only different skill, but different stats to t
   
 - The Party may roll spend 1 LP to re-roll any single dice roll of a one. If that roll is a one it may be re-rolled for 1 LP, and so on until you run out of luck.  
   
-[Party Creation](./Party%20Creation.html)
+[Party Creation](./Party%20Creation.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)
