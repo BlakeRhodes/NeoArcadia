@@ -22,3 +22,5 @@ Scout: 8
 | 6 | Natural Cave | No need to set a watch |  
   
 [Terrain Types](./Terrain%20Types.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)  
