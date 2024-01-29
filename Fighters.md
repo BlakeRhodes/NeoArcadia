@@ -53,4 +53,6 @@ Some fighter skills necessitate having one or more hands free. This requirement 
 - Dual Wielder {2 FH} - PP Cost 2  
  - When your party inflicts damage on an enemy, add 3 to the damage.  
   
-[Character Creation](./Character%20Creation.html)
+[Character Creation](./Character%20Creation.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)
