@@ -18,7 +18,7 @@ Their eyes, often replaced or augmented with glowing lenses, are said to see bey
 | CM | 0 |  
 | HP | 2 |  
 | SP | 0 |  
-| WP | 2 |  
+| WP | 3 |  
 | LP | 1 |  
 | RP | 1 |  
   
