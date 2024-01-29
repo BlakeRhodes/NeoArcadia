@@ -46,4 +46,6 @@ Energy Conservation - PP Cost 2X
 - Increase Stamina by X  
 - You can take this multiple times  
   
-[Character Creation](./Character%20Creation.html)
+[Character Creation](./Character%20Creation.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)
