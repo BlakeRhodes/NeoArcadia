@@ -12,12 +12,19 @@ With an innate proficiency in charting unexplored territories and deciphering cr
   
 However, despite their bravery and expertise, Scouts harbor a peculiar and almost comical fear of insects. This phobia adds an intriguing layer to their character, as they navigate the wilds with a vigilant eye out for their tiny, many-legged nemeses, juxtaposing their otherwise fearless demeanor with a surprisingly human vulnerability.  
   
-Scouts start with a Combat Modifier of 0.  
+| Stat | Base |  
+| ---- | ---- |  
+| CM | 0 |  
+| HP | 2 |  
+| SP | 2 |  
+| WP | 0 |  
+| LP | 1 |  
+| RP | 1 |  
   
 # Skills  
   
 Never Lost - PP Cost 2  
-- During Prepare Phase can spend 1 R to remove the [Lost](Lost.html) condition as a Special Ability.  
+- During Prepare Phase can spend 1 R to remove the [Lost](Lost.html) condition.  
   
 Covert Maneuver - PP Cost 4  
 - Before the party moves into a hex, you may spend 1 R look at the hex sheet for the destination with out revealing it. You may choose not to move this turn.  
@@ -33,4 +40,8 @@ Army Scout - PP Cost X (Max 4)
 - Your Combat Modifier is X/2 round down  
   
 The Only Good Bug . . . - PP Cost 1  
-- Your Combat Modifier is tripled against bugs.
+- Your Combat Modifier is tripled against bugs.  
+  
+Energy Conservation - PP Cost Stamina  
+- Increase Stamina by X  
+- You can take this multiple times

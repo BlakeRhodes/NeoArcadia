@@ -13,10 +13,7 @@ Previous: [Embark Phase](./Embark%20Phase.html)
   
 ## Step 2: Resolve Encounter  
   
-Each Encounter has a type  
-- Combat is resolved through the game's [Combat System](./Combat%20System.html).  
-- Environmental Challenges uses the game's [Environment System](./Environment%20System.html).  
-- Social Interactions uses the game's [Social System](./Social%20System.html)  
+Encounters challenge the party and tax their resources Sometimes it is better to avoid danger, but nothing risked nothing gained.  
   
 ## Step 3: Special Encounters  
   

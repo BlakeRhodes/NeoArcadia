@@ -8,11 +8,11 @@ share: "true"
   
 ## Step 1. Choose Party Size and Allocate Power Points (PP)  
   
-- **4 Characters:** 40 PP  
-- **5 Characters:** 35 PP  
-- **6 Characters:** 30 PP  
+New parties start with 4 characters and 40 PP  
   
-You can distribute PP among any characters in the party. Larger parties receive fewer PP to balance the advantage of having more characters.  
+You may add an additional character for 5 PP, up to a maximum of six characters.  
+  
+You can distribute PP among any characters in the party. You don't have to use all of your PP, but your party may end up missing vital skills.  
   
 ## Step 2. Select Character Types for Each Character  
   
@@ -20,7 +20,7 @@ You can distribute PP among any characters in the party. Larger parties receive 
   - Strengths: Unmatched on the field of battle.  
   - Weakness: Not good for much else.  
 - **[Hunters](./Hunters.html):**   
-  - Strengths: Gathering resources to survive in the wild.  
+  - Strengths: Foraging resources to survive in the wild.  
   - Weakness: Not known for their eloquence, or civil manners.  
 - **[Priests](./Priests.html):**   
   - Strengths: Healers of the body and soul, and integrated circuit and wire.  
@@ -32,12 +32,15 @@ You can distribute PP among any characters in the party. Larger parties receive 
   
 - Follow the [Character Creation](./Character%20Creation.html) guidelines for each character.  
   
+## Step 4. Form the Party  
+  
+- Sum up the stats of all the characters, this is the pool of resources that they have to brave the wilds of the Ancient Future.  
 ## Step 4. Record Starting Gear  
   
-- 12 Rations  
-- 8 Water  
+- Parties start with 6 rations  
 - 12 Gold  
+- 12 Ale  
   
-## Step 5. Hear a rumor  
+## Step 5. Hear some Rumors  
   
-Draw a rumor from the rumor deck
+Draw 3 rumors from the rumor deck
