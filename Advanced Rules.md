@@ -37,4 +37,6 @@ In conclusion, these advanced rules for adding new content are vital for maintai
   
 [Combat Template](./Combat%20Template.html)  
 [Hex Sheet](./Hex%20Sheet.html)  
-[Terrain Types](./Terrain%20Types.html)
+[Terrain Types](./Terrain%20Types.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)

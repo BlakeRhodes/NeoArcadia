@@ -22,3 +22,5 @@ Scout: 7
 | 6 | Ancient Machinery | Party discovers an ancient water purifier refresh rations |  
   
 [Terrain Types](./Terrain%20Types.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)  

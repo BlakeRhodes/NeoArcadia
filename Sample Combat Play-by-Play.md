@@ -65,4 +65,6 @@ Our party consists of four members: a Fighter, a Rogue, a Priest, and a Hunter.
 ### Conclusion  
   
 - The party successfully defeats the goblins and acquires loot from the encounter. They assess their remaining HP and decide whether to continue exploring or rest and recuperate.  
-- Combat is deadly, so unless the party presses the issue enemies are happy to avoid the danger. However, no risk, no reward, and not glory. 
+- Combat is deadly, so unless the party presses the issue enemies are happy to avoid the danger. However, no risk, no reward, and no glory.   
+  
+[Table of Contents](./Table%20of%20Contents.html)

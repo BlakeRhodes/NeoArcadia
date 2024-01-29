@@ -13,4 +13,6 @@ share: "true"
   
 2. **Purchasing Items:** Parties can browse through the available items at the hub and may purchase any item for its listed price. This facilitates the acquisition of needed or desired items that other parties have left behind.  
   
-3. **Collecting Sales Revenue:** After successfully selling an item, parties can return to the hub to collect the gold earned from their sales.
+3. **Collecting Sales Revenue:** After successfully selling an item, parties can return to the hub to collect the gold earned from their sales.  
+  
+[Table of Contents](./Table%20of%20Contents.html)

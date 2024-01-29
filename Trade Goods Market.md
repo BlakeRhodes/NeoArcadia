@@ -98,4 +98,6 @@ The first time this market is used, roll a 1d6 to determine the current market t
 | 1 Spices                 | 2 Silk + 1 Medicinal Herbs   |  
 | 3 Medicinal Herbs        | 1 Iron Ore + 2 Timber        |  
 | 1 Gems                   | 4 Cloth                      |  
-| 5 Grain                  | 2 Ale + 1 Salt               |
+| 5 Grain                  | 2 Ale + 1 Salt               |  
+  
+[Table of Contents](./Table%20of%20Contents.html)

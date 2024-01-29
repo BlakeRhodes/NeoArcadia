@@ -31,6 +31,8 @@ share: "true"
   
 ## Persuasion  
   
-- Encounters may require a [Persuasion Roll](./Persuasion%20Roll.html).  
-- **[Persuasion Roll](./Persuasion%20Roll.html):** 2d6 + [Party's Reputation](./Party's%20Reputation.html) vs Difficulty.  
-- Before the roll, you may spend one WP to add +1.
+- Encounters may require a Persuasion Roll.  
+- **Persuasion Roll:** 2d6 + [Party's Reputation](./Party's%20Reputation.html) vs Difficulty.  
+- Before the roll, you may spend one WP to add +1.  
+  
+[Table of Contents](./Table%20of%20Contents.html)

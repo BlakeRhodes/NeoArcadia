@@ -94,3 +94,5 @@ share: "true"
 - Every 30 days it is a full moon. If the day of the season is 30, 60, or 90 the Full Moon is out.  
   
 [Play the Game](./Play%20the%20Game.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)

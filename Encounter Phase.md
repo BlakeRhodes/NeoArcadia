@@ -9,7 +9,7 @@ Previous: [Embark Phase](./Embark%20Phase.html)
   
 ## Step 1: Regular Encounters  
   
-- Roll 1d6 You may add or subtract your [Scouting Bonus](./Scouting%20Bonus.html) after rolling. If doing so would put your result above 6 or below 1 use the closest number instead.  
+- Roll 1d6 You may add or subtract your Scouting Bonus after rolling. If doing so would put your result above 6 or below 1 use the closest number instead.  
   
 ## Step 2: Resolve Encounter  
   
@@ -21,4 +21,6 @@ Combat is common as the Ancient Future is a dangerous place. Use the [Combat Sys
   
 Some hexes have Special Encounters, these are encounters unique to the hex and have their own rules for resolution as recorded on the Hex Sheet.  
   
-Next: [Recover Phase](./Recover%20Phase.html)
+Next: [Recover Phase](./Recover%20Phase.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)

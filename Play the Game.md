@@ -21,7 +21,7 @@ NeoArcadia is a game designed for long-term play, offering a Continuous Play Exp
 - **Party Markers:** Objects to mark the locations of parties in the play area.  
 - **Hex Sheets:** Detailing each hex on the board, including special rules and [Encounters](Encounters.html). These sheets, numbered on the back, are revealed when a party enters the corresponding hex.  
 - **Party Sheets:** Used for keeping records of each party.  
-- **Calendar Card:** Tracks game time progression, the current [Season](Season.html), and [Weather Effects](Weather%20Effects.html).  
+- **Calendar Card:** Tracks game time progression, the current Season, and Weather Effects.  
 - **d6s:** Dice used for various rolls.  
 - **History Log (Optional):** A record of important and fun events, plot developments, and a way to share tales of adventures with others.  
   
@@ -69,3 +69,5 @@ Players proceed through their turn in the following phases:
 Played through the base Adventure and conquered the Techno Bandits?  
   
 Check out the [Advanced Rules](./Advanced%20Rules.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)  

@@ -6,7 +6,6 @@ share: "true"
   
 Description  
   
-**Travel:** # Ration, # Water  
 **Forage:** #  
 **Scout:** #  
   

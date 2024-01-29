@@ -41,3 +41,5 @@ Characters may choose 2 of these options
 | 4 | Regain 1 Luck |  
 | 5 | Win 50g |  
 | 6 | Gain 1 PP |  
+  
+[Table of Contents](./Table%20of%20Contents.html)
