@@ -47,4 +47,6 @@ Priest measure their faith in Access Tokens. These can be used to procedurally g
 - Oh Fair Algorithmia! Oh Shining Cloud! - PP Cost 2  
  - Spend 3 Access Tokens to restore 1 to each stat except Luck  
    
-[Character Creation](./Character%20Creation.html)
+[Character Creation](./Character%20Creation.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)
