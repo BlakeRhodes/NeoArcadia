@@ -13,7 +13,14 @@ These exoskeletons, often artfully designed to echo the armor of ancient warrior
   
 This melding of organic and mechanical elements transforms the fighter into a living embodiment of both the past's martial traditions and the future's technological advancements, making them a formidable force in a world where the lines between biology and technology are increasingly blurred.  
   
-Fighters begin with a Combat Modifier of 1.  
+| Stat | Base |  
+| ---- | ---- |  
+| CM | 1 |  
+| HP | 3 |  
+| SP | 1 |  
+| WP | 0 |  
+| LP | 1 |  
+| RP | 0 |  
   
 # Skills  
   
@@ -22,23 +29,23 @@ Some fighter skills necessitate having one or more hands free. This requirement 
 - **Combat Prowess - PP Cost X (Max 3)**  
   - Add X to your combat modifier.  
   
-- **Two Hands To Smash With {2 FH} - PP Cost 3**  
-  - Increase your combat modifier by a factor of 1.5, rounded up.  
+- Battle Mastery - PP Cost 2X  
+ - Add X to your combat modifier.  
   
 - **Shield {1 FH} - PP Cost 2**  
-  - When damage is distributed, ignore 1 point of damage.  
+  - When the party takes damage ignore 1 point of damage  
   
 - **Swordsman {1 FH} - PP Cost 2**  
-  - When your party inflicts damage on an enemy, add 1 to the damage.  
+  - When your party inflicts damage on an enemy, add 2 to the damage.  
   
 - **Pike-man {2 FH} - PP Cost 2**  
-  - Disregard your normal combat modifier; instead, use the number of Fighters with Pike-man in your party.  
+  - Add the number of other characters with Pike-man in the party to your combat modifier.  
   
 - **Archer {2 FH} - PP Cost 3**  
   - When your party inflicts damage, they gain the edge. If they already have the edge, deal 3 additional damage.  
   
-- **Heavy Armor - PP Cost 3**  
-  - When damage is distributed, ignore 2 points of damage.  
+- **Heavy Armor - PP Cost 5**  
+  - When the party takes combat damage ignore 3 point of damage  
   
 - **Battle Cry - PP Cost 1**  
   - When making a combat roll, you may spend 1 R to add 1 to the roll. This can be done after the roll is made.
