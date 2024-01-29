@@ -33,4 +33,4 @@ share: "true"
   
 - Encounters may require a [Persuasion Roll](./Persuasion%20Roll.html).  
 - **[Persuasion Roll](./Persuasion%20Roll.html):** 2d6 + [Party's Reputation](./Party's%20Reputation.html) vs Difficulty.  
-- Before the roll, any character can spend one Will Power point to add one to the result.
+- Before the roll, you may spend one WP to add +1.
