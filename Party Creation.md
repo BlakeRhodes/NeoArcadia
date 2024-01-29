@@ -35,12 +35,15 @@ You can distribute PP among any characters in the party. You don't have to use a
 ## Step 4. Form the Party  
   
 - Sum up the stats of all the characters, this is the pool of resources that they have to brave the wilds of the Ancient Future.  
-## Step 4. Record Starting Gear  
+  
+## Step 5. Record Starting Gear  
   
 - Parties start with 6 rations  
 - 12 Gold  
 - 12 Ale  
   
-## Step 5. Hear some Rumors  
+## Step 6. Hear Some Rumors  
   
-Draw 3 rumors from the rumor deck
+- Draw 3 rumors from the rumor deck.  
+  
+[Play the Game](./Play%20the%20Game.html)
