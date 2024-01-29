@@ -45,3 +45,5 @@ Gatherer - PP Cost 5
 - Spend 2 RR when making a loot role, the add one to the result. This may only be done before making the roll.  
   
 [Character Creation](./Character%20Creation.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)  
