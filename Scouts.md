@@ -10,7 +10,7 @@ In the vast expanses of the Ancient Future, Scouts stand out as the quintessenti
   
 With an innate proficiency in charting unexplored territories and deciphering cryptic maps, Scouts possess a unique blend of practical survival skills and a deep yearning for discovery. They are adept at reading the subtle signs of nature and unraveling the secrets of the most treacherous landscapes.   
   
-However, despite their bravery and expertise, Scouts harbor a peculiar and almost comical fear of insects. This phobia adds an intriguing layer to their character, as they navigate the wilds with a vigilant eye out for their tiny, many-legged nemeses, juxtaposing their otherwise fearless demeanor with a surprisingly human vulnerability.  
+However, despite their bravery and expertise, Scouts harbor a peculiar and intense hatred for bugs. Some say this is a lasting legacy of the Last War, but most scouts are unwilling to speak of the exact reason. Those who do tell tails that are as unbelievable as they are grisly.  
   
 | Stat | Base |  
 | ---- | ---- |  
@@ -24,24 +24,26 @@ However, despite their bravery and expertise, Scouts harbor a peculiar and almos
 # Skills  
   
 Never Lost - PP Cost 2  
-- During Prepare Phase can spend 1 R to remove the [Lost](Lost.html) condition.  
+- During Prepare Phase can spend 1 RP to remove the [Lost](Lost.html) condition.  
   
 Covert Maneuver - PP Cost 4  
-- Before the party moves into a hex, you may spend 1 R look at the hex sheet for the destination with out revealing it. You may choose not to move this turn.  
+- Before the party moves into a hex, you may spend 1 RP to look at the hex sheet for the destination with out revealing it. You may choose not to move this turn.  
   
 Terrain Knowledge (Type) - PP Cost 1  
-- You take this skill multiple times  
-- When scouting a hex of chosen terrain type add one to the scouting roll  
+- You may take this skill multiple times even for the same Terrain.  
+- When scouting a hex of chosen terrain type add one to the scouting roll.  
   
 Opportunist - PP Cost 2  
-- You can spend 1 R to change your Scouting Modifier by 1 when selecting an encounter.  
+- You can spend 1 RP to change your Scouting Modifier by 1 when selecting an encounter. You may not use this if you do not have a Scouting Modifier.  
   
 Army Scout - PP Cost X (Max 4)  
-- Your Combat Modifier is X/2 round down  
+- Your Combat Modifier is X/2 rounded down  
   
 The Only Good Bug . . . - PP Cost 1  
-- Your Combat Modifier is tripled against bugs.  
+- Your Combat Modifier is tripled against bugs. (Min 3)  
   
-Energy Conservation - PP Cost Stamina  
+Energy Conservation - PP Cost 2X  
 - Increase Stamina by X  
-- You can take this multiple times
+- You can take this multiple times  
+  
+[Character Creation](./Character%20Creation.html)

@@ -7,7 +7,7 @@ share: "true"
   
 # Priests  
   
-The priests of Linus stand as enigmatic figures, revered as bio-mechanical acolytes who bridge the spiritual and the technological. These devoted servants, with their bodies artfully augmented with cybernetic enhancements, are attuned to the whispers of the Noosphere - the collective consciousness of all electronic data.   
+The Priests of Linus stand as enigmatic figures, revered as bio-mechanical acolytes who bridge the spiritual and the technological. These devoted servants, with their bodies artfully augmented with cybernetic enhancements, are attuned to the whispers of the Noosphere - the collective consciousness of all electronic data.   
   
 They roam the land, their minds resonating with the pulsating rhythms of machine and man alike, seeking visions of legendary Fair Algorithmia. Cloaked in robes that seamlessly integrate organic fabric with conductive fibers, they are a symbol of the fusion between flesh and circuitry.   
   
@@ -24,7 +24,7 @@ Their eyes, often replaced or augmented with glowing lenses, are said to see bey
   
 # Skills  
   
-Priest measure their faith in Access Tokens. These can be used to procedurally generate miracles that call into the Noosphere for the will of Linus to change reality. Priest begin with a max of 2 access tokens. These are renewed at the beginning of turn.  
+Priest measure their faith in Access Tokens. These can be used to procedurally generate miracles that call into the Noosphere for the will of Linus to change reality. Priest begin with a max of 2 access tokens. One is stored at the beginning of turn.  
   
 - Trained Healer - PP Cost 1  
  - Spend an access token to restore 1d6 HP or 1 SP  
@@ -47,3 +47,4 @@ Priest measure their faith in Access Tokens. These can be used to procedurally g
 - Oh Fair Algorithmia! Oh Shining Cloud! - PP Cost 2  
  - Spend 3 Access Tokens to restore 1 to each stat except Luck  
    
+[Character Creation](./Character%20Creation.html)

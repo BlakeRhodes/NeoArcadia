@@ -36,8 +36,8 @@ share: "true"
    | 6    | Light Rain        |                                           |  
    | 7    | Clear and Sunny   |                                           |  
    | 8    | Overcast          |                                           |  
-   | 9    | Mild Showers      | Foraging Yields 1 additional water        |  
-   | 10   | Warm Breeze       |                                           |  
+   | 9    | Mild Showers      |          |  
+   | 10   | Warm Ash Breeze       | Stamina cannot be recovered.                                           |  
    | 11   | Nanite Pollen Drift| Combat Modifiers lowered by 1            |  
    | 12   | Sudden Hail       | Characters take 1 damage                  |  
   
@@ -45,17 +45,17 @@ share: "true"
   
    | Roll | Weather Condition | Effects on Gameplay                                        |  
    |------|-------------------|------------------------------------------------------------|  
-   | 2    | Heat Wave         | 2 Water per character required to avoid stamina loss       |  
-   | 3    | Dry Thunderstorm  | During recovery, each watcher rolls 3d6; on 18, they die   |  
-   | 4    | Humid and Overcast| All Social Encounters have disposition reduced by one      |  
+   | 2    | Heat Wave         | Stamina cannot be recovered.       |  
+   | 3    | Dry Thunderstorm  | During recovery, each watcher rolls 3d6; on 18, they become a corpse   |  
+   | 4    | Humid and Overcast| All Social Encounters have their difficulty increased by 1      |  
    | 5    | Brisk Winds       | Good Hunting! Foraging Rolls +1                            |  
    | 6    | Mild Rain         |                                                            |  
    | 7    | Clear Skies       |                                                            |  
    | 8    | Light Breeze      |                                                            |  
    | 9    | Occasional Clouds |                                                            |  
    | 10   | Dust Devils       | Characters take 1 damage                                   |  
-   | 11   | Sun Showers       | Foraging Yields 1 additional water                          |  
-   | 12   | Intense Sunlight  | Characters lose one stamina                                |  
+   | 11   | Sun Showers       | Parties can not gain the Edge                          |  
+   | 12   | Intense Sunlight  | Characters lose 1 SP                                |  
   
 ### Autumn Weather Table (2d6)  
   
@@ -85,10 +85,12 @@ share: "true"
    | 7    | Overcast and Cold  |                                                            |  
    | 8    | Frosty Morning     | Good Hunting! Forage Rolls +2                              |  
    | 9    | Flurries           | All Combats are Ambushes                                   |  
-   | 10   | Cold and Clear     | Social Challenges +1                                       |  
-   | 11   | Ice Fog            | Characters Lose 1 Stamina and 1 Will Power                                                           |  
+   | 10   | Cold and Clear     | Social Challenges +1 difficulty                                       |  
+   | 11   | Ice Fog            | Characters Lose 1 SP and 1 WP                                                           |  
    | 12   | Sudden Ice Storm   | Parties cannot move this turn. Characters take 1 damage. Then roll again for Weather |  
   
 ## Full Moon  
   
 - Every 30 days it is a full moon. If the day of the season is 30, 60, or 90 the Full Moon is out.  
+  
+[Play the Game](./Play%20the%20Game.html)  

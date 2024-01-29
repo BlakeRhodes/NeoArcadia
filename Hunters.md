@@ -25,8 +25,9 @@ Their skills are a blend of ancient wisdom and a keen understanding of the remna
   
 # Skills  
   
-Survival - PP Cost 1  
+Survival - PP Cost 2  
 - You can spend 1 R to add +1 to Foraging Rolls, this may be done after the roll is made.  
+- You may take this skill up to 3 times  
   
 Harvest the Land - PP Cost 3  
 - When you succeed in a Forage Roll gain one ration, max 6  
@@ -35,13 +36,12 @@ Killer - PP Cost X (Max 2)
 - Increase your Combat Modifier by X  
   
 Don't Ask - PP Cost 3  
-- If the party has ran out of ration may spend 1 R to gain a ration. Just don't ask what it was . . .  
+- If the party has ran out of ration you may spend 2 RP to gain a ration. Just don't ask what it was . . .  
   
-Rain or Shine  - PP Cost 2  
-- Spend 1 R during Planning phase to ignore weather effects this turn.  
-  
-Nature Finds a Way - PP Cost 4  
-- Spend 1 R and roll 1d6, on a six unblock an adjacent tile. The party loses one hit point each.  
+Rain or Shine  - PP Cost 1  
+- Spend 1 RP during Planning phase to ignore weather effects this turn.  
   
 Gatherer - PP Cost 5  
-- Spend 2 R making a loot role, the add one to the result. This may be done after the result is revealed.  
+- Spend 2 RR when making a loot role, the add one to the result. This may only be done before making the roll.  
+  
+[Character Creation](./Character%20Creation.html)  

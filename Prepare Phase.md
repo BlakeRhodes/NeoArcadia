@@ -54,12 +54,12 @@ Characters with abilities applicable in the Prepare Phase may use them now, in a
   
 Parties wishing to spread rumors can leave their rumor card face-up for other players to read.  
   
-## **Step 6: Forage**  
+## Step 6: Forage  
   
 The party can gather food and water from their current location before traveling to the next hex. If not they will have to dip into their limited and ever dwindling supplies.  
   
 - **Forage Roll** 2d6 - Forage Difficulty.  
 - If roll is at least one, the party finds enough resources.  
-- Otherwise the party must consume one ration.  
+- Otherwise the party must consume one ration or lose 1 stamina.  
   
 Next: [Embark Phase](./Embark%20Phase.html)

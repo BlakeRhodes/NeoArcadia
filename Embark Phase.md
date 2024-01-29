@@ -8,7 +8,7 @@ share: "true"
 # Embark Phase  
 Previous: [Prepare Phase](./Prepare%20Phase.html)  
   
-## **Step 3: Scouting**  
+## Step 1: Scouting  
   
 Scouting allows the party to assess their destination and better control their encounters there.  
 - **[Scouting Roll](./Scouting%20Roll.html):** Roll 2d6 against the hex's Scout Difficulty.  
@@ -16,7 +16,7 @@ Scouting allows the party to assess their destination and better control their e
 - **[Scouting Bonus](./Scouting%20Bonus.html):** Roll - Scout Difficulty.  
 - If the Scouting Bonus is positive, the scouting is successful, and the party may use this bonus when rolling for encounters.  
   
-## Step 4: Arrive  
+## Step 2: Arrive  
   
 Move the party marker to the destination hex.  
   
