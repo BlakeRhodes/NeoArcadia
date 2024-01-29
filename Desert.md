@@ -22,3 +22,5 @@ Scout: 8
 | 6 | Lost Ruins | Uncover a forgotten building, Roll 2 Loot Dice |  
   
 [Terrain Types](./Terrain%20Types.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)  
