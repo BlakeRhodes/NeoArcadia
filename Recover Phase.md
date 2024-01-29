@@ -33,4 +33,6 @@ The party recovers 1d6 hit points.
 - The party may then convert Luck Points into Resourcefulness.  
 - Luck Points, once spent, are not recovered, unless a stroke of luck occurs...  
   
-Back to: [Prepare Phase](./Prepare%20Phase.html)
+Back to: [Prepare Phase](./Prepare%20Phase.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)
