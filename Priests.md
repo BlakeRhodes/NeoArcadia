@@ -7,27 +7,43 @@ share: "true"
   
 # Priests  
   
-The priests of Linus stand as enigmatic figures, revered as bio-mechanical acolytes who bridge the spiritual and the technological. These devoted servants, with their bodies artfully augmented with cybernetic enhancements, are attuned to the whispers of the noosphere - the collective consciousness of all electronic data.   
+The priests of Linus stand as enigmatic figures, revered as bio-mechanical acolytes who bridge the spiritual and the technological. These devoted servants, with their bodies artfully augmented with cybernetic enhancements, are attuned to the whispers of the Noosphere - the collective consciousness of all electronic data.   
   
 They roam the land, their minds resonating with the pulsating rhythms of machine and man alike, seeking visions of legendary Fair Algorithmia. Cloaked in robes that seamlessly integrate organic fabric with conductive fibers, they are a symbol of the fusion between flesh and circuitry.   
   
 Their eyes, often replaced or augmented with glowing lenses, are said to see beyond the physical realm, gazing into the intricate web of information and energy. Revered for their wisdom and feared for their otherworldly connection, these priests embark on sacred quests, guided by cryptic messages and prophetic dreams, weaving the mystical and the mechanical into the tapestry of their devout existence.  
   
-Priests start with a Combat Modifier of 0.  
+| Stat | Base |  
+| ---- | ---- |  
+| CM | 0 |  
+| HP | 2 |  
+| SP | 0 |  
+| WP | 2 |  
+| LP | 1 |  
+| RP | 1 |  
   
 # Skills  
   
-Trained Healer - PP Cost 3  
-- When you recover Hit Points all other characters recover an equal number of hit points.  
+Priest measure their faith in Access Tokens. These can be used to procedurally generate miracles that call into the Noosphere for the will of Linus to change reality. Priest begin with a max of 2 access tokens. These are renewed at the beginning of turn.  
   
-Solitude of Faith - PP Cost 4  
-- You count as two characters when standing watch  
+- Trained Healer - PP Cost 1  
+ - Spend an access token to restore 1d6 HP or 1 SP  
   
-Meditation - PP cost 4  
-- When standing watch you may regain 1 stamina  
+- Solitude of Faith - PP Cost 4  
+ - You count as two characters when standing watch  
   
-Blessings - PP Cost 1  
-- Spend 1 R to remove a character's Despair, they gain one Will Power  
+- Blessings - PP Cost 1  
+ - Spend 1 R to remove a character's Despair, restore 1 WP  
   
-Preacher - PP Cost 1  
-- When Persuading you get +1 and Will Power spend adds 2 to the roll.
+- Preacher - PP Cost 1  
+ - When Persuading you get +1 and Will Power spend adds 2 to the roll.  
+  
+- The Will of Linus - PP Cost 3  
+ - Spend 1 Access Token and 1 R to re-roll a single die when a one is rolled. The result is the Will of Linus and must be accepted.  
+  
+- Elevate Privileges - PP Cost 5  
+ - Gain one Access Token  
+  
+- Oh Fair Algorithmia! Oh Shining Cloud! - PP Cost 2  
+ - Spend 3 Access Tokens to restore 1 to each stat except Luck  
+   
