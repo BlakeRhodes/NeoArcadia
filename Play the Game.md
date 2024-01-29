@@ -48,9 +48,8 @@ Players proceed through their turn in the following phases:
 3. [Encounter Phase](Encounter%20Phase.html)  
 4. [Recover Phase](Recover%20Phase.html)  
   
-  
-  
 ## More Adventure, More Fun!  
   
 Played through the base Adventure and conquered the Techno Bandits?  
+  
 Check out the [Advanced Rules](./Advanced%20Rules.html)  
