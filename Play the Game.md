@@ -33,6 +33,22 @@ NeoArcadia is a game designed for long-term play, offering a Continuous Play Exp
 4. Arrange the Hex Sheets in numerical order.  
 5. Set up the [Environment System](Environment%20System.html).  
   
+## Rolling Dice  
+  
+Most dice rolls in NeoArcadia work off of the following formula.  
+  
+Xd6 + Good Stuff - Bad Stuff = Degree of Success  
+  
+### Example  
+  
+Let's say you were scouting a new hex with a Scouting Difficulty of eight. You roll 2d6, resulting in a a 2 and a 6 for a total of eight. If you had a scout with Terrain Knowledge you would add one. Then you would subtract the Scouting Difficulty of the Terrain with the result being 1.  
+  
+8 + 1 - 8 = 1  
+  
+That would give you a scouting bonus (the degree of success) equal to 1.  
+  
+Some rolls like combat have bad effects if the number is negative, like the party taking that much damage.  
+  
 ## Turn Order  
   
 1. [Environment Turn](Environment%20Turn.html)  
