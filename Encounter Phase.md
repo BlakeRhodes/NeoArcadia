@@ -13,7 +13,9 @@ Previous: [Embark Phase](./Embark%20Phase.html)
   
 ## Step 2: Resolve Encounter  
   
-Encounters challenge the party and tax their resources Sometimes it is better to avoid danger, but nothing risked nothing gained.  
+Encounters challenge the party and tax their resources. Sometimes it is better to avoid danger, but nothing risked nothing gained.   
+  
+Combat is common as the Ancient Future is a dangerous place. Use the [Combat System](./Combat%20System.html) to slay your foes!  
   
 ## Step 3: Special Encounters  
   
