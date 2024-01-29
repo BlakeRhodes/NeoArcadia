@@ -8,28 +8,28 @@ share: "true"
 # Combat System  
   
 The combat revolves around a 2d6 roll, influenced by each party member's combat modifier, the enemy's strength, and is further modified by the 'Edge' rule in specific scenarios. For an example of combat take a look at the [Sample Combat Play-by-Play](./Sample%20Combat%20Play-by-Play.html)  
-## **Step 1: Calculate Party Impact**  
+## Step 1: Calculate Party Impact  
   
 - **Party Impact:** Sum the combat modifiers of each character. This sum is the Party Impact.  
   
-## **Step 2: Calculate Combat Modifier**  
+## Step 2: Calculate Combat Modifier  
   
-- Subtract the encounter's [Enemy Impact](./Enemy%20Impact.html) from the [Party Impact](./Party%20Impact.html). The result is the Combat Modifier.  
+- Subtract the encounter's Enemy Impact from the Party Impact. The result is the Combat Modifier.  
   
-## **Step 3: [Edge Factor](./Edge%20Factor.html)**  
+## Step 3: Edge Factor  
   
 - **Scouting Advantage:** If the party has successfully scouted, add an extra 1d6 to the combat roll (resulting in a 3d6 roll).  
 - **Surprise Disadvantage:** If ambushed, subtract 1d6 from the combat roll (resulting in a 1d6 roll).  
    - Note: If both conditions apply, they cancel each other out, resulting in a standard 2d6 roll.  
   
-## Step 4: Distribute Damage  
+## Step 4: Time to Tussle  
   
 - Roll 2d6, apply the Edge Factor, and add the Combat Modifier.  
 - **Results:**   
    - A positive total inflicts damage on the enemies, reducing their hit points. When enemy hit points reach zero, the party wins and may roll on the loot table.  
    - A negative total signifies damage to the party, lose that much HP  
   
-## **Step 5: Continuing Combat or Retreating**  
+## Step 5: Continuing Combat or Retreating  
   
 - **Fight On:** The party may choose to continue combat, spend one SP, then repeat Step 4. If the party has reached zero hit points, the party must retreat.  
 - **Retreat:** The party may retreat to avoid further combat. In this case, they forfeit any chance to earn loot.  
@@ -84,4 +84,6 @@ Players may group these rolls as they wish. For example, if the party has 4 Loot
 | 29 | Source Code | Trade to a Techstitcher for 8 PP |  
 | 30 | Reality Modulator Staff | A powerful staff capable of altering local reality within constrained parameters. Change Hex to different Terrain Type. Single use. |  
   
-Back to [Encounter Phase](./Encounter%20Phase.html)
+Back to [Encounter Phase](./Encounter%20Phase.html)  
+  
+[Table of Contents](./Table%20of%20Contents.html)  
