@@ -10,12 +10,12 @@ In the vast expanses of the Ancient Future, Scouts stand out as the quintessenti
   
 With an innate proficiency in charting unexplored territories and deciphering cryptic maps, Scouts possess a unique blend of practical survival skills and a deep yearning for discovery. They are adept at reading the subtle signs of nature and unraveling the secrets of the most treacherous landscapes.   
   
-However, despite their bravery and expertise, Scouts harbor a peculiar and intense hatred for bugs. Some say this is a lasting legacy of the Last War, but most scouts are unwilling to speak of the exact reason. Those who do tell tails that are as unbelievable as they are grisly.  
+However, despite their bravery and expertise, Scouts harbor a peculiar and intense hatred for bugs. Some say this is a lasting legacy of the Last War, but most scouts are unwilling to speak of the exact reason. Those who do tell tales that are as unbelievable as they are grisly.  
   
 | Stat | Base |  
 | ---- | ---- |  
 | CM | 0 |  
-| HP | 2 |  
+| HP | 3 |  
 | SP | 2 |  
 | WP | 0 |  
 | LP | 1 |  
