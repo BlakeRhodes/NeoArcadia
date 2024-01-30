@@ -9,7 +9,7 @@ share: "true"
   
 # Wilderness  
   
-Forage: 8  
+Forage: 9  
 Scout: 8  
   
 | Roll | Encounter Type | Description |  
