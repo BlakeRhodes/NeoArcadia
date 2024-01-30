@@ -17,7 +17,7 @@ Scout: 9
 | 2 | Poison Plant Pollen | If not chosen by scouting modifier, party members takes 1 damage. |  
 | 3 | Resources | If chosen by scouting modifier find 1 gem, 6 ale, and 2 Medicinal Herbs |  
 | 4 | Combat | Cyber Monkey Ambush - Impact: 15  HP: 1 Loot: +1, 25 Gold |  
-| 5 | Bandit Ambush | Bandits Ambush - Impact: 10 HP: 15 Loot: +2, 50 Gold |  
+| 5 | Combat | Bandits Ambush - Impact: 10 HP: 15 Loot: +2, 50 Gold |  
 | 6 | Phenomenon | Eerie quiet, party loses 1 will power each |  
   
 [Terrain Types](./Terrain%20Types.html)  
