@@ -47,3 +47,5 @@ share: "true"
    
 ## [Advanced Rules](./Advanced%20Rules.html)  
   
+- ### [Combat Challenges](./Combat%20Challenges.html)  
+  
