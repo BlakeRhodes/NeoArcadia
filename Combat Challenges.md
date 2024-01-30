@@ -14,7 +14,8 @@ Emerging from the ashen mists of the toxic desert, Ash Raiders are grotesque mut
   
 ## Impact: 11, HP: 10, Loot: +2, 25 Gold  
   
-### Options  
+#### Options  
+  
 | Roll | Modifier | Loot Adjust |  
 | ---- | ---- | ---- |  
 | 2 | Impact +4 | +1 |  
@@ -42,6 +43,7 @@ The haunting wheeze of the Ash Raiders is not just a sign of their presence, but
 ## Impact: 10, HP: 15, Loot: +2, 25 Gold  
   
 #### Options  
+  
 | Roll | Modifier | Loot Adjust |  
 | ---- | ---- | ---- |  
 | 3 | Impact +4 | +1 |  
@@ -62,6 +64,7 @@ When bandits fall on hard times in the waste is dangerous, especially for those 
 ## Impact: 15  HP: 1 Loot: +1, 25 Gold  
   
 #### Options  
+  
 | Roll | Modifier | Loot Adjust |  
 | ---- | ---- | ---- |  
 | 4 | Impact +2 | +1 |  
@@ -79,6 +82,8 @@ The monkeys toss flickering holographic bananas, oddly beeping old cell phones, 
 *In the eerie silence of the desolate landscape, Feral Animal Things prowl, their forms a grotesque mockery of nature's intent, twisted and corrupted by the pervasive darkness of the world. Their guttural growls and the soft, unsettling patter of their misshapen limbs are the harbingers of a desperate, brutal struggle for survival.*  
   
 ## Impact: 15, HP: 15, Loot: +3, 25 Gold  
+  
+#### Options  
   
 | Roll | Modifier | Loot Adjust |  
 | ---- | ---- | ---- |  
@@ -107,6 +112,7 @@ The mere sight of these Feral Animal Things instills a deep, primal fear, a remi
 ## Impact: 12, HP: 10, Loot: +1, 25 Gold  
   
 #### Options  
+  
 | Roll | Modifier | Loot Adjust |  
 | ---- | ---- | ---- |  
 | 3 | Impact +2 | +1 |  
@@ -126,7 +132,8 @@ The larva of these bugs are especially potent, lasting long after the death of t
   
 ## Impact: 9, HP: 8, Loot: +1, 25 Gold  
   
-### Options  
+#### Options  
+  
 | Roll | Modifier | Loot Adjust |  
 | ---- | ---- | ---- |  
 | 2 | Impact +4 | +1 |  
@@ -153,7 +160,8 @@ Glass Serpents possess the unique ability to blend seamlessly with their surroun
   
 ## Impact: 10, HP: 10, Loot: +1, 25 Gold  
   
-### Options  
+#### Options  
+  
 | Roll | Modifier | Loot Adjust |  
 | ---- | ---- | ---- |  
 | 4 | Impact +2 | +1 |  
@@ -174,7 +182,8 @@ As natural scavengers, these birds have a keen eye for valuable items, often spo
   
 ## Impact: 25, HP: 25, Loot: +5  
   
-### Options  
+#### Options  
+  
 | Roll | Modifier | Loot Adjust |  
 | ---- | ---- | ---- |  
 | 5 | Digital Dominion | +5 |  
@@ -209,6 +218,7 @@ The true form of this AI is not bound by a physical body, its 'HP' a misleading 
 ## Impact: 14 HP: 12 Loot: +1, 25 Gold  
   
 #### Options  
+  
 | Roll | Modifier | Loot Adjust |  
 | ---- | ---- | ---- |  
 | 3 | Impact +2 | +1 |  
@@ -228,7 +238,8 @@ This drone still has its full range of deadly weaponry.
   
 ## Impact: 12, HP: 10, Loot: +3, 50 Gold  
   
-### Options  
+#### Options  
+  
 | Roll | Modifier | Loot Adjust |  
 | ---- | ---- | ---- |  
 | 5 | Malfunction Mayhem | +2 |  
@@ -252,6 +263,7 @@ These bots are as likely to dispense a snack as they are to launch a missile, th
 ## Impact: 12, HP: 15, Loot: +1, 25 Gold  
   
 #### Options  
+  
 | Roll | Modifier | Loot Adjust |  
 | ---- | ---- | ---- |  
 | 2 | Impact +2 | +1 |  
@@ -273,6 +285,7 @@ The Techno Bandits have retrofitted their gear with high-intensity laser weapons
 ## Impact: 12, HP: 20, Loot: +4  
   
 #### Options  
+  
 | Roll | Modifier | Loot Adjust |  
 | ---- | ---- | ---- |  
 | 6 | Relentless Pursuit | +1 |  
@@ -291,6 +304,7 @@ Undead Adventurers, bound by neither fatigue nor fear, relentlessly pursue their
 ## Impact: 16, HP: 5, Loot: 0  
   
 #### Options  
+  
 | Roll | Modifier | Loot Adjust |  
 | ---- | ---- | ---- |  
 | 6 | Pack Tactics | 0 |  
