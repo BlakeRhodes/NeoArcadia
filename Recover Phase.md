@@ -20,7 +20,7 @@ Previous: [Encounter Phase](./Encounter%20Phase.html)
   
 ## Step 3: Recover Hit Points  
   
-The party recovers 1d6 hit points.  
+The party recovers 2 HP  
   
 ## Step 4: Recover Stamina  
   
