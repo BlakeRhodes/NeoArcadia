@@ -8,7 +8,7 @@ share: "true"
   
 ## Step 1. Choose Party Size and Allocate Power Points (PP)  
   
-New parties start with 4 characters and 40 PP  
+New parties start with 4 characters and 30 PP  
   
 You may add an additional character for 5 PP, up to a maximum of six characters.  
   
