@@ -29,7 +29,7 @@ Survival - PP Cost 2
 - You can spend 1 R to add +1 to Foraging Rolls, this may be done after the roll is made.  
 - You may take this skill up to 3 times  
   
-Harvest the Land - PP Cost 3  
+Harvest the Land - PP Cost 4  
 - When you succeed in a Forage Roll gain one ration, max 6  
   
 Killer - PP Cost X (Max 2)  
