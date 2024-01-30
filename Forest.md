@@ -8,7 +8,7 @@ share: "true"
   
 # Forest  
   
-Forage: 7  
+Forage: 8  
 Scout: 9  
   
 | Roll | Encounter Type | Description |  

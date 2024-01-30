@@ -9,8 +9,8 @@ share: "true"
   
 # Swamp  
   
-Forage: 6  
-Scout: 7  
+Forage: 7  
+Scout: 8  
   
 | Roll | Encounter Type | Description |  
 | ---- | ---- | ---- |  
