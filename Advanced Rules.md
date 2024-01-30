@@ -35,6 +35,8 @@ In conclusion, these advanced rules for adding new content are vital for maintai
   
 ## Resources  
   
+[Combat Challenges](./Combat%20Challenges.html) - A collection of beasties to fill your tables with.  
+  
 [Combat Template](./Combat%20Template.html)  
 [Hex Sheet](./Hex%20Sheet.html)  
 [Terrain Types](./Terrain%20Types.html)  
