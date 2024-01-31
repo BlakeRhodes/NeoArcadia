@@ -7,7 +7,7 @@ share: "true"
   
 # Welcome to NeoArcadia: The Ancient Future Now!  
   
-*Embark on a Journey Where the Ancient Future Collides with Brutal Reality!**  
+**Embark on a Journey Where the Ancient Future Collides with Brutal Reality!**  
   
 Step into "NeoArcadia," a hexcrawl adventure set in a techno-fantasy world where ancient mysticism and far-flung futuristic technology blur dangerously. Here, the remnants of advanced civilizations blend with dark magic, creating a landscape both dangerous and enigmatic.  
   
