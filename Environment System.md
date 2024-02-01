@@ -3,7 +3,7 @@ share: "true"
 ---  
   
   
-![Pasted image 20240126175927](./Pasted%20image%2020240126175927.png)  
+![environment-system](./environment-system.png)  
   
 # Environment System  
   
