@@ -2,7 +2,7 @@
 share: "true"  
 ---  
   
-![Pasted image 20240126234913](./Pasted%20image%2020240126234913.png)  
+![party-creation](./party-creation.png)  
   
 # Party Creation  
   
