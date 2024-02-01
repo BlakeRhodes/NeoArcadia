@@ -3,8 +3,21 @@ share: "true"
 ---  
   
 # Developer's Blog    
+  
+## 31-01-2024 So Many Changes  
+  
+![changes](./changes.png)  
+  
     
-    
+Whoa, buddy, we have made some changes! We mentioned last time that we were going to update the rations system, and yes, we did. We also injected a lot more flavor! The generic skill names have been updated with new descriptions.  
+  
+Some resources were added to help players flesh out the world. For example, we added a [Combat Challenges](./Combat%20Challenges.html) section for encounter examples and included some variants to keep the game fresh. We can't wait to see what the player base will cook up for their games.  
+  
+The other significant update is [Civic Projects](./Civic%20Projects.html)! Based on feedback from playtesting, we added these to address an issue the game had. It is supposed to be collaborative, but the actual gameplay felt more like everyone was playing a solo campaign. This was not as good as it could be, and a system was desired to resolve this.  
+  
+By design, the game doesn't have any PvP elements. We are sure that is fun in other games, but that is not our game. Our game is about collaboration and world-building, so think PvE. And at some point, the 'E' is going to strike back with the Crisis! System.  
+  
+This will add random problems that crop up with more urgency than normal adventures. These will threaten what the players have built, setting back the progress that has been hard-won in the world of the Ancient Future.  
 ## 28-01-2024 The Flesh is Weak    
     
 ![blog-1](./blog-1.png)    
