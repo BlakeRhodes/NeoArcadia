@@ -2,7 +2,7 @@
 share: "true"  
 ---  
   
-![Pasted image 20240126175628](./Pasted%20image%2020240126175628.png)  
+![character-creation](./character-creation.png)  
   
 # Character Creation  
   
