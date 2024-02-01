@@ -2,7 +2,7 @@
 share: "true"  
 ---  
   
-![Pasted image 20240126172633](./Pasted%20image%2020240126172633.png)  
+![scout](./scout.png)  
   
 # Scouts  
   
