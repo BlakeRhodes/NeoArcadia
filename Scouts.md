@@ -23,26 +23,48 @@ However, despite their bravery and expertise, Scouts harbor a peculiar and inten
   
 # Skills  
   
-Never Lost - PP Cost 2  
+  
+### Never Lost - PP Cost 2  
+  
+Channel your unparalleled orientation skills to navigate through the enigmatic wilds of the Ancient Future, dispelling confusion and ensuring your path remains true and unerring.  
+  
 - During Prepare Phase can spend 1 RP to remove the [Lost](Lost.html) condition.  
   
-Covert Maneuver - PP Cost 4  
+### Covert Maneuver - PP Cost 4  
+  
+Employ your stealth and cunning to reconnoiter upcoming territories without alerting potential threats, making informed decisions that keep your party one step ahead of danger.  
+  
 - Before the party moves into a hex, you may spend 1 RP to look at the hex sheet for the destination with out revealing it. You may choose not to move this turn.  
   
-Terrain Knowledge (Type) - PP Cost 1  
+### Terrain Knowledge (Type) - PP Cost 1  
+  
+Draw upon your intimate understanding of specific landscapes to master the art of moving through them, turning every stone and leaf into a guide and ally in your explorations.  
+  
 - You may take this skill multiple times even for the same Terrain.  
 - When scouting a hex of chosen terrain type add one to the scouting roll.  
   
-Opportunist - PP Cost 2  
+### Opportunist - PP Cost 2  
+  
+Utilize your keen adaptability to alter the course of your journey, shifting the odds in your favor as you deftly navigate the unpredictable wilderness of the Ancient Future.  
+  
 - You can spend 1 RP to change your Scouting Modifier by 1 when selecting an encounter. You may not use this if you do not have a Scouting Modifier.  
   
-Army Scout - PP Cost X (Max 4)  
+### Army Scout - PP Cost X (Max 4)  
+  
+Infuse your combat techniques with the precision and efficiency learned from your time in the Last War, ensuring that each strike is as strategic as it is lethal.  
+  
 - Your Combat Modifier is X/2 rounded down  
   
-The Only Good Bug . . . - PP Cost 1  
+### The Only Good Bug . . . - PP Cost 1  
+  
+Embrace your deep-seated aversion to bugs, channeling it into a fierce combat prowess that makes you a relentless force against these skittering foes of the Ancient Future.  
+  
 - Your Combat Modifier is tripled against bugs. (Min 3)  
   
-Energy Conservation - PP Cost 2X  
+### Energy Conservation - PP Cost 2X  
+  
+Cultivate your stamina and endurance through meticulous energy management, allowing you to traverse the vast and treacherous landscapes of the Ancient Future with unwavering resilience.  
+  
 - Increase Stamina by X  
 - You can take this multiple times  
   

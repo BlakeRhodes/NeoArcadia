@@ -6,6 +6,7 @@ share: "true"
   
 # Character Creation  
   
+In the ever-shifting landscape of the Ancient Future, where the remnants of forgotten civilizations intertwine with the dawn of new epochs, your party begins with the forging of your characters, the vessels for your courage, ingenuity, and the will to prevail. As you select your path and skills, remember that each choice weaves another thread into the rich tapestry of your destiny, shaping the stories that will echo through the annals of time and the digital whispers of the noosphere.  
 ## Step 1: Choose a Character Type  
   
 - Select from [Fighters](./Fighters.md), [Hunters](./Hunters.md), [Priests](./Priests.md), [Scouts](./Scouts.md)  
