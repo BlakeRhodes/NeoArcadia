@@ -48,4 +48,5 @@ share: "true"
 ## [Advanced Rules](./Advanced%20Rules.html)  
   
 - ### [Combat Challenges](./Combat%20Challenges.html)  
+- ### [Civic Projects](./Civic%20Projects.html)  
   
