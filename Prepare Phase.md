@@ -21,10 +21,7 @@ Players without a party should use the [Party Creation](./Party%20Creation.html)
   
 Players with existing parties select one to activate for the turn.  
   
---BETA--  
-Players owning a Guild House may recruit a new party to their guild for a fee. This counts as one party activation for the guild.  
-Guild Houses enable players to activate multiple parties based on their organization level. These parties go through Phases and Steps collectively.  
---BETA--  
+Players owning a Guildhall may recruit a new party to their guild for a fee 1000 Gold. Follow the [Party Creations](./Party%20Creation.html) rules.  
   
 ## Step 3. Planning  
   
