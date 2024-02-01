@@ -43,7 +43,7 @@ Our party consists of four members: a Fighter, a Rogue, a Priest, and a Hunter.
 ### Step 5: Continuing Combat or Retreating    
     
 - The party decides to Fight On.     
-- Each member takes 1 damage (due to the rule in Step 5).    
+- Each the party loses one SP  
 - Repeat Step 4.    
     
 ### Next Round    

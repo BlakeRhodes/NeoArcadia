@@ -31,7 +31,7 @@ share: "true"
     
 ## [Terrain Types](./Terrain%20Types.html)    
     
-- ### [Desert](Desert.mg)    
+- ### [Desert](./Desert.html)    
 - ### [Forest](./Forest.html)    
 - ### [Mountain](./Mountain.html)    
 - ### [Ruined Cityscape](./Ruined%20Cityscape.html)    

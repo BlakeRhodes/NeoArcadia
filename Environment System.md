@@ -25,8 +25,8 @@ share: "true"
 3. **Roll on the Weather Table for the Season.**    
     
 ### Spring Weather Table (2d6)    
-    
-   | Roll | Weather Condition | Effects on Gameplay                       |    
+  
+| Roll | Weather Condition | Effects on Gameplay                       |    
    |------|-------------------|-------------------------------------------|    
    | 2    | Thunderstorm      | Scouting Impossible                       |    
    | 3    | Heavy Rain        | Scouting Difficulty +2                    |    
@@ -39,10 +39,9 @@ share: "true"
    | 10   | Warm Ash Breeze       | Stamina cannot be recovered.                                           |    
    | 11   | Nanite Pollen Drift| Combat Modifiers lowered by 1            |    
    | 12   | Sudden Hail       | Characters take 1 damage                  |    
-    
-### Summer Weather Table (2d6)    
-    
-   | Roll | Weather Condition | Effects on Gameplay                                        |    
+### Summer Weather Table (2d6)  
+  
+| Roll | Weather Condition | Effects on Gameplay                                        |    
    |------|-------------------|------------------------------------------------------------|    
    | 2    | Heat Wave         | Stamina cannot be recovered.       |    
    | 3    | Dry Thunderstorm  | During recovery, each watcher rolls 3d6; on 18, they become a corpse   |    
@@ -57,8 +56,8 @@ share: "true"
    | 12   | Intense Sunlight  | Characters lose 1 SP                                |    
     
 ### Autumn Weather Table (2d6)    
-    
-   | Roll | Weather Condition | Effects on Gameplay                       |    
+  
+| Roll | Weather Condition | Effects on Gameplay                       |    
    |------|-------------------|-------------------------------------------|    
    | 2    | Early Frost       | Characters take 1 damage                  |    
    | 3    | Foggy & Drizzling | Scouting Difficulty +1                    |    
@@ -72,9 +71,9 @@ share: "true"
    | 11   | Leaf Storm        | Parties with out Scouts are Lost                                          |    
    | 12   | Heavy Windstorm   | Vehicles lose 1 Free Move                                          |    
     
-### Winter Weather Table (2d6)    
-    
-   | Roll | Weather Condition  | Effects on Gameplay                                        |    
+### Winter Weather Table (2d6)  
+  
+| Roll | Weather Condition  | Effects on Gameplay                                        |    
    |------|--------------------|------------------------------------------------------------|    
    | 2    | Blizzard           | Scouting Difficulty + 2        |    
    | 3    | Heavy Snowfall     | Scouting Difficulty +1, Foraging Difficulty +1             |    
