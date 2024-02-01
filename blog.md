@@ -8,7 +8,7 @@ share: "true"
   
 ## 28-01-2024 The Flesh is Weak  
   
-![Pasted image 20240128143957](./Pasted%20image%2020240128143957.png)  
+![blog-1](./blog-1.png)  
   
   
 ### Dear Adventurers,  
