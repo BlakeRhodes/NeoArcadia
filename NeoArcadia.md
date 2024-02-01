@@ -2,7 +2,7 @@
 share: "true"  
 ---  
   
-![Pasted image 20240126233918](./Pasted%20image%2020240126233918.png)  
+![neoarcadia](./neoarcadia.png)  
   
 # XXXX- Special - NeoArcadia the Fallen Sky City  
   
