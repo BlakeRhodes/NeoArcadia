@@ -2,8 +2,6 @@
 share: "true"  
 ---  
   
-  
-    
 ![advanced-rules](./advanced-rules.png)    
     
 # Advanced Rules: Expanding the World of the Ancient Future    
