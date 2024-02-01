@@ -3,7 +3,7 @@ share: "true"
 ---  
   
   
-![Pasted image 20240126171458](./Pasted%20image%2020240126171458.png)  
+![fighter](./fighter.png)  
   
 # Fighters  
   
