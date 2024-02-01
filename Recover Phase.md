@@ -2,7 +2,7 @@
 share: "true"  
 ---  
   
-![Pasted image 20240126173813](./Pasted%20image%2020240126173813.png)  
+![recover-phase](./recover-phase.png)  
   
 # Recovery Phase  
 Previous: [Encounter Phase](./Encounter%20Phase.html)  
