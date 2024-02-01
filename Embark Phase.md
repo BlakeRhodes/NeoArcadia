@@ -20,6 +20,14 @@ Scouting allows the party to assess their destination and better control their e
   
 Move the party marker to the destination hex.  
   
+## Step 3: Begin Construction  
+  
+The party may begin construction on a [Civil Project](./Civil%20Project.html).   
+  
+### Special Rule - Lay Low  
+  
+The party can wait when they are not yet ready to start construction on a Civic Project. While laying low if the party made their Scouting Roll they can skip the rest of their turn. During their next Prepare Phase can not choose a tile to move to.  
+  
 Next: [Encounter Phase](./Encounter%20Phase.html)  
   
 [Table of Contents](./Table%20of%20Contents.html)
