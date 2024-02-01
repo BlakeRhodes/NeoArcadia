@@ -3,7 +3,7 @@ share: "true"
 ---  
   
   
-![Pasted image 20240126174632](./Pasted%20image%2020240126174632.png)  
+![mountain](./mountain.png)  
   
 *High in the mountains of rubble, remnants of the colossal hive cities' collapse, the air carries a distinct, pungent mix of rust and decay, a testament to the long-forgotten urban sprawls. It's tinged with a sharp, metallic scent, mingling with the faint, earthy aroma of ancient concrete and steel slowly surrendering to nature's embrace.*  
   

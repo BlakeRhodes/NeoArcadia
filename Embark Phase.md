@@ -3,7 +3,7 @@ share: "true"
 ---  
   
   
-![Pasted image 20240126173529](./Pasted%20image%2020240126173529.png)  
+![embark-page](./embark-page.png)  
   
 # Embark Phase  
 Previous: [Prepare Phase](./Prepare%20Phase.html)  

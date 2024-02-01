@@ -2,7 +2,7 @@
 share: "true"  
 ---  
   
-![Pasted image 20240126180341](./Pasted%20image%2020240126180341.png)  
+![techstitcher](./techstitcher.png)  
   
 "*Hmph, you're here for some tech magic from old 2a5h, aren't you? Don’t expect any miracles though; it's hard enough making sense of this ancient clutter without some priest breathing down my neck. This piece? Yeah, it was something fancy once, a quantum processor or some such. Soon it'll be a water filter relay server, aka something worth a damn.*" - 2a5h, Techstitcher  
   

@@ -2,7 +2,7 @@
 share: "true"  
 ---  
   
-![Pasted image 20240126235639](./Pasted%20image%2020240126235639.png)  
+![play-by-play](./play-by-play.png)  
   
 # Sample Combat Play-by-Play  
   

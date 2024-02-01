@@ -3,7 +3,7 @@ share: "true"
 ---  
   
   
-![Pasted image 20240126172212](./Pasted%20image%2020240126172212.png)  
+![priest](./priest.png)  
   
 # Priests  
   

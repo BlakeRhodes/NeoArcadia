@@ -2,7 +2,7 @@
 share: "true"  
 ---  
   
-![Pasted image 20240126235210](./Pasted%20image%2020240126235210.png)  
+![play-the-game](./play-the-game.png)  
   
 # Play the Game  
   

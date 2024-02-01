@@ -3,7 +3,7 @@ share: "true"
 ---  
   
   
-![Pasted image 20240126173415](./Pasted%20image%2020240126173415.png)  
+![prepare-phase](./prepare-phase.png)  
   
 # Prepare Phase  
   

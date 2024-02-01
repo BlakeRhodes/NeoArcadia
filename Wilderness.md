@@ -3,7 +3,7 @@ share: "true"
 ---  
   
   
-![Pasted image 20240126175236](./Pasted%20image%2020240126175236.png)  
+![wilderness](./wilderness.png)  
   
 *In the wilderness of the Ancient Future, nature has reclaimed the relics of a once-advanced civilization, intertwining overgrown forests with the rusted skeletons of forgotten technology. This untamed landscape is a patchwork of dense greenery and eerie, abandoned ruins, where the whispers of the past meet the primal breath of the wild, creating a world both hauntingly beautiful and mysteriously perilous.*  
   

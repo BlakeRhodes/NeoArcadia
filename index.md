@@ -3,7 +3,7 @@ share: "true"
 ---  
   
   
-![Pasted image 20240126173246](./Pasted%20image%2020240126173246.png)  
+![title-page](./title-page.png)  
   
 # Welcome to NeoArcadia: The Ancient Future Now!  
   

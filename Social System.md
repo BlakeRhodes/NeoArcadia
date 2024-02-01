@@ -2,7 +2,7 @@
 share: "true"  
 ---  
   
-![Pasted image 20240126235908](./Pasted%20image%2020240126235908.png)  
+![social-system](./social-system.png)  
   
 # Social System  
 ## Components  
