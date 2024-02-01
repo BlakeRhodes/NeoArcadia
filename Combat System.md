@@ -3,7 +3,7 @@ share: "true"
 ---  
   
   
-![Pasted image 20240126175728](./Pasted%20image%2020240126175728.png)  
+![combat-system](./combat-system.png)  
   
 # Combat System  
   
