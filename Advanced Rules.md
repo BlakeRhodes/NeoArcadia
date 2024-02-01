@@ -2,7 +2,7 @@
 share: "true"  
 ---  
   
-![Pasted image 20240126175443](./Pasted%20image%2020240126175443.png)  
+![advanced-rules](./advanced-rules.png)  
   
 # Advanced Rules: Expanding the World of the Ancient Future  
 ## Introduction  
