@@ -3,7 +3,7 @@ share: "true"
 ---  
   
   
-![Pasted image 20240126171952](./Pasted%20image%2020240126171952.png)  
+![hunter](./hunter.png)  
   
 # Hunters  
   
