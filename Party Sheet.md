@@ -6,7 +6,7 @@ share: "true"
     
 | Player Name: |  | PP: | 30 |    
 | ---- | ---- | ---- | ---- |    
-    
+  
 | Forage Bonus |  |    
 | ---- | ---- |    
 | Scout Bonus (Wilderness) |  |    
@@ -38,4 +38,4 @@ Extra Characters: 5 PP
 | Lead Belcher {2 FH} | 3 | Gatherer | 5 | Elevate Privileges | 5 | The Only Good Bug . . . | 1 |    
 | Heavy Armor | 5 | Resourceful | 2X | Oh Fair Algorithmia | 2 | Energy Conservation | 2X |    
 | Battle Cry | 1 |  |  |  |  |  |  |    
-| Pneumatic Clawed Gauntlets {2 FH} | 2 |  |  |  |  |  |  |
+| Pneumatic Clawed Gauntlets {2 FH} | 2 |  |  |  |  |  |  |  
