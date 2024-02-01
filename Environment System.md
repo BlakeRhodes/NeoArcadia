@@ -39,6 +39,7 @@ share: "true"
    | 10   | Warm Ash Breeze       | Stamina cannot be recovered.                                           |    
    | 11   | Nanite Pollen Drift| Combat Modifiers lowered by 1            |    
    | 12   | Sudden Hail       | Characters take 1 damage                  |    
+  
 ### Summer Weather Table (2d6)  
   
 | Roll | Weather Condition | Effects on Gameplay                                        |    
