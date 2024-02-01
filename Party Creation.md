@@ -6,6 +6,10 @@ share: "true"
   
 # Party Creation  
   
+In the heart of the Ancient Future is the formation of your party, the genesis of an epic saga. As you assemble your band of warriors, hunters, priests, and scouts, remember that each member brings not just skills and stats, but a chapter of a greater story, their unique strengths and quirks shaping the adventures and trials that await in the wild and wondrous realms of the unknown.  
+  
+You can use the [Party Sheet](./Party%20Sheet.html) to help build and track your party.  
+  
 ## Step 1. Choose Party Size and Allocate Power Points (PP)  
   
 New parties start with 4 characters and 30 PP  
