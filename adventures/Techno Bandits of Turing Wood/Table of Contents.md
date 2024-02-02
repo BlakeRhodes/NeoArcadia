@@ -26,4 +26,5 @@ share: "true"
 - ## [1004 - Forest - Heart of the Iron Wood](./Hexes/1004%20-%20Forest%20-%20Heart%20of%20the%20Iron%20Wood.html)  
 - ## [1008 - Mountain - Skyward Peaks](./Hexes/1008%20-%20Mountain%20-%20Skyward%20Peaks.html)  
 - ## [DC0001 - Special - Entrance](./Hexes/DC0001%2520-%2520Special%2520-%2520Entrance.md)  
+- ## [DC0402 - Special - Behold, the Ancient Data Slates](./Hexes/DC0402%20-%20Special%20-%20Behold,%20the%20Ancient%20Data%20Slates.html)  
 - ## [DCXXXX - Special - Data Center Trial](./Hexes/DCXXXX%20-%20Special%20-%20Data%20Center%20Trial.html)  
