@@ -2,8 +2,8 @@
 share: "true"  
 ---  
   
-![fighter](./fighter.png)    
-    
+![fighter](./fighter.png)  
+  
 # Fighters    
     
 In the dynamic world of the Ancient Future, the quintessential fighter is a seamless fusion of biological prowess and advanced technology. These warriors are augmented with sophisticated biological implants that enhance their physical abilities, reflexes, and sensory perception, pushing the boundaries of human capability. Encased in robotic exo-chassis, they become powerhouses on the battlefield, their movements amplified with mechanical precision and strength.     
