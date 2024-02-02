@@ -48,7 +48,7 @@ You can distribute PP among any characters in the party. You don't have to use a
     
 ## Step 6. Hear Some Rumors    
     
-- Draw 3 rumors from the rumor deck.    
+- Draw 3 rumors from the rumor deck.  
     
 [Play the Game](./Play%20the%20Game.html)    
     
