@@ -22,9 +22,7 @@ Form a party of the bravest adventurers, each shaped by the harsh realities of t
     
 Will you uncover the secrets hidden within lost techno-temples, risking everything for ancient knowledge? Will you negotiate with beings spawned from the chaotic union of arcane and tech, or confront them with strength? Each decision is critical in your battle for survival, and your choices will carve your legacy into the unforgiving annals of this formidable land.    
     
-[Play the Game](./Play%20the%20Game.html)  
-  
-# [The Techno Bandits of Turing Woods](./adventures/Techno%20Bandits%20of%20Turing%20Wood/The%20Techno%20Bandits%20of%20Turing%20Wood.html)  
+[Play the Game](./Play%20the%20Game.html) or start the adventure  [The Techno Bandits of Turing Woods](./adventures/Techno%20Bandits%20of%20Turing%20Wood/The%20Techno%20Bandits%20of%20Turing%20Wood.html)  
   
 The first adventure pack for your game! This introductory adventure delves deep into the world and lore of the Ancient Future. When you have gotten a grasp of the rules start building a legacy for your party.  
     
