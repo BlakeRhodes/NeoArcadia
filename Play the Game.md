@@ -24,7 +24,7 @@ NeoArcadia is a game designed for long-term play, offering a Continuous Play Exp
 - **Calendar Card:** Tracks game time progression, the current Season, and Weather Effects.    
 - **d6s:** Dice used for various rolls.    
 - **History Log (Optional):** A record of important and fun events, plot developments, and a way to share tales of adventures with others.    
-- **Adventure Packs (Optional):** Additional maps, quests, rumors, and hex sheets. You can get [The Techno Bandits of Turing Woods](./adventures/Techno%20Bandits%20of%20Turing%20Wood/The%20Techno%20Bandits%20of%20Turing%20Wood.html) for free.  
+- **Adventure Packs (Optional):** Additional maps, quests, rumors, and hex sheets. You can get [The Techno Bandits of Turing Woods](./adventures/Techno%20Bandits%20of%20Turing%20Wood/The%20Techno%20Bandits%20of%20Turing%20Wood.html) for free!  
     
 ## Setup    
     
