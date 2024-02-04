@@ -27,7 +27,12 @@ share: "true"
     
 - ### [Sample Combat Play-by-Play](./Sample%20Combat%20Play-by-Play.html)    
     
-## [Social System](./Social%20System.html)    
+## [Social System](./Social%20System.html)  
+  
+## [Crisis! System](./Crisis!%20System.html)  
+  
+- ### [The Crisis!](./The%20Crisis!.html)  
+- ### [Crisis! Party Dynamics](./Crisis!%20Party%20Dynamics.html)  
     
 ## [Terrain Types](./Terrain%20Types.html)    
     
