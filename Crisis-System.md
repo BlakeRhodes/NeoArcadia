@@ -37,7 +37,7 @@ Embrace the Crisis! System, for it's more than a game mechanic – it's a call t
 ## [The Crisis!](The-Crisis!.html)   
   
 Rules for playing a Crisis!  
-## [Crisis! Party Dynamics](./Crisis!-Party-Dynamics.html)  
+## [Crisis! Party Dynamics](./Crisis-Party-Dynamics.html)  
   
 Suggestions for how to run a Crisis!  
 ## [Leviathan-Awakes](Leviathan-Awakes.html)  
