@@ -20,6 +20,6 @@ Scout: 8
 | 5 | Combat | Ash Raiders Ambush - Impact: 11 HP: 10 Loot: +2, 50 Gold |    
 | 6 | Lost Ruins | Uncover a forgotten building, Roll 2 Loot Dice |    
     
-[Terrain Types](./Terrain-Types.md)    
+[Terrain Types](./Terrain-Types.html)    
     
-[Table of Contents](./Table-of-Contents.md)    
+[Table of Contents](./Table-of-Contents.html)    
