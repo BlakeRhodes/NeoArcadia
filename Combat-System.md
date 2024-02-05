@@ -7,7 +7,7 @@ share: "true"
     
 # Combat System    
     
-The combat revolves around a 2d6 roll, influenced by each party member's combat modifier, the enemy's strength, and is further modified by the 'Edge' rule in specific scenarios. For an example of combat take a look at the [Sample Combat Play-by-Play](./Sample%20Combat%20Play-by-Play.html)    
+The combat revolves around a 2d6 roll, influenced by each party member's combat modifier, the enemy's strength, and is further modified by the 'Edge' rule in specific scenarios. For an example of combat take a look at the [Sample Combat Play-by-Play](./Sample-Combat-Play-by-Play.html)    
 ## Step 1: Calculate Party Impact    
     
 - **Party Impact:** Sum the combat modifiers of each character. This sum is the Party Impact.    
@@ -84,6 +84,6 @@ Players may group these rolls as they wish. For example, if the party has 4 Loot
 | 29 | Source Code | Trade to a Techstitcher for 8 PP |    
 | 30 | Reality Modulator Staff | A powerful staff capable of altering local reality within constrained parameters. Change Hex to different Terrain Type. Single use. |    
     
-Back to [Encounter Phase](./Encounter%20Phase.html)    
+Back to [Encounter Phase](./Encounter-Phase.html)    
     
-[Table of Contents](./Table%20of%20Contents.html)    
+[Table of Contents](./Table-of-Contents.html)    
