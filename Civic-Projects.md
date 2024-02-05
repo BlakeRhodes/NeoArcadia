@@ -79,4 +79,4 @@ The pooling of resources and cooperative effort can lead to the successful compl
     
 **Function**: Serves as a base for parties to work from, providing a secure and resourceful haven where they can regroup, strategize, and share their experiences. The Guildhall also offers access to exclusive quests and a network of information, making it an indispensable asset for any serious party.    
     
-[Table of Contents](./Table-of-Contents.md)
+[Table of Contents](./Table-of-Contents.html)

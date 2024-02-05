@@ -11,4 +11,4 @@ share: "true"
 | Plasma Grenade | Use during combat to deal 10 damage to enemy. Single use. | 500 g |    
 | Learn the Art of the Con | Information | 250 g |    
     
-[Table of Contents](./Table-of-Contents.md)
+[Table of Contents](./Table-of-Contents.html)

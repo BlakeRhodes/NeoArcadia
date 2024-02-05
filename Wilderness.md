@@ -20,6 +20,6 @@ Scout: 8
 | 5 | Combat | Bandits Ambush - Impact: 15 HP: 15 Loot: +2, 50 Gold |    
 | 6 | Phenomenon | Ancient Security Field, no need to set a watch this recovery. |    
     
-[Terrain Types](./Terrain-Types.md)    
+[Terrain Types](./Terrain-Types.html)    
     
-[Table of Contents](./Table-of-Contents.md)
+[Table of Contents](./Table-of-Contents.html)

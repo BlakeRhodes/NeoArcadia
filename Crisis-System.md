@@ -34,14 +34,14 @@ As you stand shoulder to shoulder with your comrades-in-arms, facing the abyss o
   
 Embrace the Crisis! System, for it's more than a game mechanic – it's a call to become part of something greater, a saga where your actions resonate through the Ancient Future. Are you ready to answer the call?  
   
-## [The Crisis!](The-Crisis!.md)   
+## [The Crisis!](The-Crisis!.html)   
   
 Rules for playing a Crisis!  
-## [Crisis! Party Dynamics](./Crisis!-Party-Dynamics.md)  
+## [Crisis! Party Dynamics](./Crisis!-Party-Dynamics.html)  
   
 Suggestions for how to run a Crisis!  
-## [Leviathan-Awakes](./Crisis/Leviathan-Awakes/Leviathan-Awakes.md)  
+## [Leviathan-Awakes](./Crisis/Leviathan-Awakes/Leviathan-Awakes.html)  
   
 A sample Crisis! for at least 3 parties.  
   
-[Table of Contents](./Table-of-Contents.md)    
+[Table of Contents](./Table-of-Contents.html)    

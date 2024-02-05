@@ -8,7 +8,7 @@ share: "true"
     
 # Trade Goods Market    
     
-The first time this market is used, roll a 1d6 to determine the current market table. When a player trades at the market, re-roll at the end of the [Prepare Phase](./Prepare-Phase.md) to determine any market changes.    
+The first time this market is used, roll a 1d6 to determine the current market table. When a player trades at the market, re-roll at the end of the [Prepare Phase](./Prepare-Phase.html) to determine any market changes.    
     
 ### Table 1    
     
@@ -101,4 +101,4 @@ The first time this market is used, roll a 1d6 to determine the current market t
 | 5 Grain                  | 2 Ale + 1 Plastic            |    
     
     
-[Table of Contents](./Table-of-Contents.md)
+[Table of Contents](./Table-of-Contents.html)

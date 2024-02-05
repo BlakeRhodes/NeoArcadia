@@ -23,7 +23,7 @@ This melding of organic and mechanical elements transforms the fighter into a li
     
 # Skills    
     
-Some fighter skills necessitate having one or more hands free. This requirement is indicated as { X FH } after the skill name, with X being the number of free hands needed. Fighters start with 2 Free Hands. During the [Prepare Phase](./Prepare-Phase.md), you can decide how to utilize your Free Hands.    
+Some fighter skills necessitate having one or more hands free. This requirement is indicated as { X FH } after the skill name, with X being the number of free hands needed. Fighters start with 2 Free Hands. During the [Prepare Phase](./Prepare-Phase.html), you can decide how to utilize your Free Hands.    
     
 ### Combat Stimms - PP Cost X (Max 3)    
     
@@ -79,6 +79,6 @@ These formidable gauntlet enhancements for your exo-chassis feature mechanized c
     
  - When your party inflicts damage on an enemy, add 3 to the damage.    
     
-[Character Creation](./Character-Creation.md)    
+[Character Creation](./Character-Creation.html)    
     
-[Table of Contents](./Table-of-Contents.md)
+[Table of Contents](./Table-of-Contents.html)

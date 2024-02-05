@@ -22,8 +22,8 @@ Form a party of the bravest adventurers, each shaped by the harsh realities of t
     
 Will you uncover the secrets hidden within lost techno-temples, risking everything for ancient knowledge? Will you negotiate with beings spawned from the chaotic union of arcane and tech, or confront them with strength? Each decision is critical in your battle for survival, and your choices will carve your legacy into the unforgiving annals of this formidable land.    
     
-[Play the Game](./Play-the-Game.md)  
+[Play the Game](./Play-the-Game.html)  
     
-[Table of Contents](./Table-of-Contents.md)  
+[Table of Contents](./Table-of-Contents.html)  
   
   
