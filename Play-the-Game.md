@@ -25,7 +25,7 @@ NeoArcadia is a game designed for long-term play, offering a Continuous Play Exp
 - **d6s:** Dice used for various rolls.    
 - **History Log (Optional):** A record of important and fun events, plot developments, and a way to share tales of adventures with others.    
 - **Adventure Packs (Optional):** Additional maps, quests, rumors, and hex sheets. You can try [The Techno Bandits of Turing Woods](./adventures/Techno-Bandits-of-Turing-Wood/The-Techno-Bandits-of-Turing-Wood.html)
-- Crisis! Expansions such as [Leviathan Awakes](Leviathan-Awakes.html)  
+- Crisis! Expansions such as [ Leviathan Awakes](./crisis/Leviathan-Awakes/Leviathan-Awakes.md)
     
 ## Setup    
     
