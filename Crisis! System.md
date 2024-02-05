@@ -40,7 +40,7 @@ Rules for playing a Crisis!
 ## [Crisis! Party Dynamics](./Crisis!%20Party%20Dynamics.html)  
   
 Suggestions for how to run a Crisis!  
-## [Leviathan Awakes](./Crisis/Leviathan%20Awakes/Leviathan%20Awakes.md)  
+## [Leviathan-Awakes](./Crisis/Leviathan-Awakes/Leviathan-Awakes.md)  
   
 A sample Crisis! for at least 3 parties.  
   
