@@ -9,10 +9,15 @@ Previous: [Encounter Phase](./Encounter-Phase.html)
     
 ## Step 1: Death    
     
-- If the party is at 0 HP roll 1d6 if the roll is 4+ nothing happens otherwise chose a character to become a corpse.    
-- **Exhaustion Check:** If the party is at 0 stamina roll 2d6; on an 11 or 12, choose a character to become a corpse.    
+- If the party is at 0 HP roll 1d6 if the roll is 4+ nothing happens, otherwise chose a character to become a corpse.    
+- **Exhaustion Check:** If the party is at 0 stamina roll 2d6; on an 4+ nothing happens, otherwise choose a character to become a corpse.    
 - Corpses are no longer considered characters and do not contribute to the party. Not even Linus can break the cycle of death. Pour out an ale for your fallen friend.    
-    
+
+#### Special Rule - Party Death
+
+Sometimes a run of bad luck results in a dead party, the Brutal Reality of the Ancient Future can not be understated. 
+- Record on the Hex Sheet the parties gear. 
+- When a party arrives on the hex, they may loot the bodies at the end of the Embark Phase.
 ## Step 2: Despair    
     
 - If the Party is at 0 WP, choose a character to despair.    
@@ -24,7 +29,7 @@ The party recovers 2 HP
     
 ## Step 4: Recover Stamina    
     
-- Two characters must be selected for standing watch. The dangers of the Ancient Future do not rest. If the watch can not be filled, the party is slain in the night.    
+- Two characters must be selected for standing watch. The dangers of the Ancient Future do not rest. If the watch can not be filled, the party is slain in the night (Probably by wolves).
 - The party recovers one stamina.    
     
 ## Step 5: Recover Resourcefulness    
