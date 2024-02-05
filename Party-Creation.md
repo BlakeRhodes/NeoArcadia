@@ -8,7 +8,7 @@ share: "true"
     
 In the heart of the Ancient Future is the formation of your party, the genesis of an epic saga. As you assemble your band of warriors, hunters, priests, and scouts, remember that each member brings not just skills and stats, but a chapter of a greater story, their unique strengths and quirks shaping the adventures and trials that await in the wild and wondrous realms of the unknown.    
     
-You can use the [Party Sheet](./Party%20Sheet.html) to help build and track your party.    
+You can use the [Party Sheet](./Party-Sheet.html) to help build and track your party.    
     
 ## Step 1. Choose Party Size and Allocate Power Points (PP)    
     
@@ -34,7 +34,7 @@ You can distribute PP among any characters in the party. You don't have to use a
   - Weakness: Bugs    
 ## Step 3. Create the Characters    
     
-- Follow the [Character Creation](./Character%20Creation.html) guidelines for each character.    
+- Follow the [Character Creation](./Character-Creation.html) guidelines for each character.    
     
 ## Step 4. Form the Party    
     
@@ -50,6 +50,6 @@ You can distribute PP among any characters in the party. You don't have to use a
     
 - Draw 3 rumors from the rumor deck.  
     
-[Play the Game](./Play%20the%20Game.html)    
+[Play the Game](./Play-the-Game.html)    
     
-[Table of Contents](./Table%20of%20Contents.html)
+[Table of Contents](./Table-of-Contents.html)
