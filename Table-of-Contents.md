@@ -9,7 +9,9 @@ share: "true"
 ## [Play the Game](./Play-the-Game.html)    
     
 - ### [Setup Environment](./Environment-System.html)    
-- ### [Environment Turn](./Environment-Turn.html)    
+  - #### [Environment Turn](./Environment-Turn.html)
+  - #### [The-Techno-Bandits-of-Turing-Wood](./adventures/Techno-Bandits-of-Turing-Wood/The-Techno-Bandits-of-Turing-Wood.md)
+
 - ### [Prepare Phase](./Prepare-Phase.html)    
 - ### [Embark Phase](./Embark-Phase.html)    
 - ### [Encounter Phase](./Encounter-Phase.html)    
@@ -32,7 +34,7 @@ share: "true"
   
 ## [Crisis! System](./Crisis-System.html)  
   
-- ### [The Crisis!](./The-Crisis!.html)  
+- ### [The Crisis!](The-Crisis.html)  
 - ### [Crisis! Party Dynamics](./Crisis!-Party-Dynamics.html)  
 - ### [Leviathan Awakes](./crisis/Leviathan-Awakes/Leviathan-Awakes.html)  
     
