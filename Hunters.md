@@ -68,6 +68,6 @@ Drawing from the vast well of survival instincts and the ingenious knack for ada
 - Increase Resourcefulness by X    
     
     
-[Character Creation](./Character-Creation.md)    
+[Character Creation](./Character-Creation.html)    
     
-[Table of Contents](./Table-of-Contents.md)    
+[Table of Contents](./Table-of-Contents.html)    
