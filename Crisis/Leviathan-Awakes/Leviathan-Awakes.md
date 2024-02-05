@@ -71,6 +71,6 @@ Finally, the parties must overcome 4 of the encounters on the Presence of the Le
   - Complete Quest: Nap Time for the Big Boi +2 Reputation  
 - 2000 Gold from the Skycaptain + 500 per Character lost.  
   
-Crisis! [Table-of-Contents](./Table-of-Contents.md)  
+[Crisis Table of Contents](./Table-of-Contents.md)  
   
-Back to Game [Table](Table.md)  
+Back to Game: [Table of Contents](../../Table-of-Contents.md)  
