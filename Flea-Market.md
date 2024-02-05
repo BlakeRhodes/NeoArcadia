@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![flea-market](./flea-market.png)    
     
 *"Step right up, step right up! Treasures from the clouds to the earth, unearthed from the depths of NeoArcadia! Find your relic, your gadget, your piece of history in the ancient Market of Flea! Deals that defy gravity, only here, only today!"*    
@@ -14,4 +14,4 @@ share: "true"
     
 3. **Collecting Sales Revenue:** After successfully selling an item, parties can return to the hub to collect the gold earned from their sales.    
     
-[Table of Contents](./Table-of-Contents.html)
+[Table of Contents](./Table-of-Contents.md)

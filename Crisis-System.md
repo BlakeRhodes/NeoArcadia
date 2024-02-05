@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![crisis-beast](./crisis-beast.png)  
 *"Run, turn off your hero protocol and run." - Priest Wlem describing the scene to Cav-Marshal Dieker*  
 # Crisis! System  
@@ -34,14 +34,14 @@ As you stand shoulder to shoulder with your comrades-in-arms, facing the abyss o
   
 Embrace the Crisis! System, for it's more than a game mechanic – it's a call to become part of something greater, a saga where your actions resonate through the Ancient Future. Are you ready to answer the call?  
   
-## [The Crisis!](The-Crisis!.html)   
+## [The Crisis!](The-Crisis!.md)   
   
 Rules for playing a Crisis!  
-## [Crisis! Party Dynamics](./Crisis!-Party-Dynamics.html)  
+## [Crisis! Party Dynamics](./Crisis!-Party-Dynamics.md)  
   
 Suggestions for how to run a Crisis!  
 ## [Leviathan-Awakes](./Crisis/Leviathan-Awakes/Leviathan-Awakes.md)  
   
 A sample Crisis! for at least 3 parties.  
   
-[Table of Contents](./Table-of-Contents.html)    
+[Table of Contents](./Table-of-Contents.md)    

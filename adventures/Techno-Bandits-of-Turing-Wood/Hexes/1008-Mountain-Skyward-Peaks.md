@@ -1,8 +1,7 @@
----  
-share: "true"  
----  
-  
-  
+---
+share: "true"
+---
+
 ![skyward-peaks](../skyward-peaks.png)  
   
 # 1008 - Mountain - Skyward Peaks  

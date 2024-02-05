@@ -1,14 +1,14 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 # Terrain Types    
     
-- [Desert](./Desert.html)    
-- [Forest](./Forest.html)    
-- [Mountain](./Mountain.html)    
-- [Ruined Cityscape](./Ruined-Cityscape.html)    
-- [Swamp](./Swamp.html)    
-- [Wilderness](./Wilderness.html)    
+- [Desert](./Desert.md)
+- [Forest](./Forest.md)    
+- [Mountain](./Mountain.md)    
+- [Ruined Cityscape](./Ruined-Cityscape.md)    
+- [Swamp](./Swamp.md)    
+- [Wilderness](./Wilderness.md)    
     
-[Table of Contents](./Table-of-Contents.html)
+[Table of Contents](./Table-of-Contents.md)

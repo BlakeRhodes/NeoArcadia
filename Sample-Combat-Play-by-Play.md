@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![play-by-play](./play-by-play.png)    
     
 # Sample Combat Play-by-Play    
@@ -67,4 +67,4 @@ Our party consists of four members: a Fighter, a Rogue, a Priest, and a Hunter.
 - The party successfully defeats the goblins and acquires loot from the encounter. They assess their remaining HP and decide whether to continue exploring or rest and recuperate.    
 - Combat is deadly, so unless the party presses the issue enemies are happy to avoid the danger. However, no risk, no reward, and no glory.     
     
-[Table of Contents](./Table-of-Contents.html)
+[Table of Contents](./Table-of-Contents.md)

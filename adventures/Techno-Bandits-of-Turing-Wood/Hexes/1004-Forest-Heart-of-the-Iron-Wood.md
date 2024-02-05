@@ -1,8 +1,7 @@
----  
-share: "true"  
----  
-  
-  
+---
+share: "true"
+---
+
 ![iron-wood](../iron-wood.png)  
   
 # 1004 - Forest - Heart of the Iron Wood  

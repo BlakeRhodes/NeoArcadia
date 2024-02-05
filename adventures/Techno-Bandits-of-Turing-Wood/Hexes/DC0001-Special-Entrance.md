@@ -1,8 +1,7 @@
----  
-share: "true"  
----  
-  
-  
+---
+share: "true"
+---
+
 ![entrance](../entrance.png)  
   
 # DC0001 - Special - Entrance  

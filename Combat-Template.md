@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 # Combat Template    
     
 # Name     

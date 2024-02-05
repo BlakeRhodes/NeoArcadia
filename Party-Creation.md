@@ -1,14 +1,14 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![party-creation](./party-creation.png)    
     
 # Party Creation    
     
 In the heart of the Ancient Future is the formation of your party, the genesis of an epic saga. As you assemble your band of warriors, hunters, priests, and scouts, remember that each member brings not just skills and stats, but a chapter of a greater story, their unique strengths and quirks shaping the adventures and trials that await in the wild and wondrous realms of the unknown.    
     
-You can use the [Party Sheet](./Party-Sheet.html) to help build and track your party.    
+You can use the [Party Sheet](./Party-Sheet.md) to help build and track your party.    
     
 ## Step 1. Choose Party Size and Allocate Power Points (PP)    
     
@@ -20,21 +20,21 @@ You can distribute PP among any characters in the party. You don't have to use a
     
 ## Step 2. Select Character Types for Each Character    
     
-- **[Fighters](./Fighters.html):**     
+- **[Fighters](./Fighters.md):**     
   - Strengths: Unmatched on the field of battle.    
   - Weakness: Not good for much else.    
-- **[Hunters](./Hunters.html):**     
+- **[Hunters](./Hunters.md):**     
   - Strengths: Foraging resources to survive in the wild.    
   - Weakness: Not known for their eloquence, or civil manners.    
-- **[Priests](./Priests.html):**     
+- **[Priests](./Priests.md):**     
   - Strengths: Healers of the body and soul, and integrated circuit and wire.    
   - Weakness: Creation is Sacred, Destruction is Forbidden.    
-- **[Scouts](./Scouts.html):**     
+- **[Scouts](./Scouts.md):**     
   - Strengths: Guides and navigators they can get you there safe.    
   - Weakness: Bugs    
 ## Step 3. Create the Characters    
     
-- Follow the [Character Creation](./Character-Creation.html) guidelines for each character.    
+- Follow the [Character Creation](./Character-Creation.md) guidelines for each character.    
     
 ## Step 4. Form the Party    
     
@@ -50,6 +50,6 @@ You can distribute PP among any characters in the party. You don't have to use a
     
 - Draw 3 rumors from the rumor deck.  
     
-[Play the Game](./Play-the-Game.html)    
+[Play the Game](./Play-the-Game.md)    
     
-[Table of Contents](./Table-of-Contents.html)
+[Table of Contents](./Table-of-Contents.md)

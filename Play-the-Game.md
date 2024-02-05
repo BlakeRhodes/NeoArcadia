@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![play-the-game](./play-the-game.png)    
     
 # Play the Game    
@@ -17,23 +17,23 @@ NeoArcadia is a game designed for long-term play, offering a Continuous Play Exp
 ## Game Pieces    
     
 - **Map:** A visual representation of the play area.    
-- **Rumor Deck:** A stack of [Rumors](Rumors.html) about the individual [Hexes](Hexes.html) on the map.    
+- **Rumor Deck:** A stack of [Rumors](Rumors.md) about the individual [Hexes](Hexes.md) on the map.    
 - **Party Markers:** Objects to mark the locations of parties in the play area.    
-- **Hex Sheets:** Detailing each hex on the board, including special rules and [Encounters](Encounters.html). These sheets, numbered on the back, are revealed when a party enters the corresponding hex.    
+- **Hex Sheets:** Detailing each hex on the board, including special rules and [Encounters](Encounters.md). These sheets, numbered on the back, are revealed when a party enters the corresponding hex.    
 - **Party Sheets:** Used for keeping records of each party.    
 - **Calendar Card:** Tracks game time progression, the current Season, and Weather Effects.    
 - **d6s:** Dice used for various rolls.    
 - **History Log (Optional):** A record of important and fun events, plot developments, and a way to share tales of adventures with others.    
-- **Adventure Packs (Optional):** Additional maps, quests, rumors, and hex sheets. You can get [The Techno Bandits of Turing Woods](The-Techno-Bandits-of-Turing-Wood.html) for free!  
-- Crisis! Expansions such as [Leviathan Awakes](./Crisis/Leviathan-Awakes/Leviathan-Awakes.html)  
+- **Adventure Packs (Optional):** Additional maps, quests, rumors, and hex sheets. You can get [The Techno Bandits of Turing Woods](The-Techno-Bandits-of-Turing-Wood.md) for free!  
+- Crisis! Expansions such as [Leviathan Awakes](./Crisis/Leviathan-Awakes/Leviathan-Awakes.md)  
     
 ## Setup    
     
 1. Lay out the Map.    
 2. Shuffle the Rumor Deck.    
-3. Place Party Markers on [NeoArcadia](./NeoArcadia.html)    
+3. Place Party Markers on [NeoArcadia](./NeoArcadia.md)    
 4. Arrange the Hex Sheets in numerical order.    
-5. Set up the [Environment System](Environment-System.html).    
+5. Set up the [Environment System](Environment-System.md).    
     
 ## Rolling Dice    
     
@@ -53,7 +53,7 @@ Some rolls like combat have bad effects if the number is negative, like the part
     
 ## Turn Order    
     
-1. [Environment Turn](Environment-Turn.html)    
+1. [Environment Turn](Environment-Turn.md)    
 2. Existing Players' Turns    
 3. New Players' Turns    
     
@@ -61,15 +61,15 @@ Some rolls like combat have bad effects if the number is negative, like the part
     
 Players proceed through their turn in the following phases:    
     
-1. [Prepare Phase](Prepare-Phase.html)    
-2. [Embark Phase](Embark-Phase.html)    
-3. [Encounter Phase](Encounter-Phase.html)    
-4. [Recover Phase](Recover-Phase.html)    
+1. [Prepare Phase](Prepare-Phase.md)    
+2. [Embark Phase](Embark-Phase.md)    
+3. [Encounter Phase](Encounter-Phase.md)    
+4. [Recover Phase](Recover-Phase.md)    
     
 ## More Adventure, More Fun!    
     
 Played through the base Adventure and conquered the Techno Bandits?    
     
-Check out the [Advanced Rules](./Advanced-Rules.html)    
+Check out the [Advanced Rules](./Advanced-Rules.md)    
     
-[Table of Contents](./Table-of-Contents.html)    
+[Table of Contents](./Table-of-Contents.md)    

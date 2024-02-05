@@ -1,7 +1,6 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
 ![crystal-caves](../../../crystal-caves.png)  
 # 0303 - Special - Crystal Caverns  
   

@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![crisis-plan](./crisis-plan.png)  
 # Crisis! Party Dynamics  
   
@@ -33,4 +33,4 @@ The Crisis! System acknowledges the unpredictability of players' schedules and e
   
 These rules are designed to enhance the collaborative spirit of the Crisis! System while respecting the individual commitments and schedules of players. By enabling strategic alliances, character swaps, and flexible participation, adventurers in NeoArcadia can face the direst crises together, forging bonds and stories that resonate through the Ancient Future.  
   
-[Table of Contents](./Table-of-Contents.html) 
+[Table of Contents](./Table-of-Contents.md) 

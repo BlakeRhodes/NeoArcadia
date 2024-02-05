@@ -1,11 +1,11 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![encounter-phase](./encounter-phase.png)    
     
 # Encounter Phase    
-Previous: [Embark Phase](./Embark-Phase.html)    
+Previous: [Embark Phase](./Embark-Phase.md)    
     
 ## Step 1: Regular Encounters    
     
@@ -15,12 +15,12 @@ Previous: [Embark Phase](./Embark-Phase.html)
     
 Encounters challenge the party and tax their resources. Sometimes it is better to avoid danger, but nothing risked nothing gained.     
     
-Combat is common as the Ancient Future is a dangerous place. Use the [Combat System](./Combat-System.html) to slay your foes!    
+Combat is common as the Ancient Future is a dangerous place. Use the [Combat System](./Combat-System.md) to slay your foes!    
     
 ## Step 3: Special Encounters    
     
 Some hexes have Special Encounters, these are encounters unique to the hex and have their own rules for resolution as recorded on the Hex Sheet.    
     
-Next: [Recover Phase](./Recover-Phase.html)    
+Next: [Recover Phase](./Recover-Phase.md)    
     
-[Table of Contents](./Table-of-Contents.html)
+[Table of Contents](./Table-of-Contents.md)

@@ -1,8 +1,7 @@
----  
-share: "true"  
----  
-  
-   
+---
+share: "true"
+---
+
 ![desert](./desert.png)    
     
 *In this vast ancient desert, the sands whisper secrets of a bygone era, their grains formed from the countless microprocessors of ancient data centers, a testament to a once-great civilization's technological zenith.*    
@@ -21,6 +20,6 @@ Scout: 8
 | 5 | Combat | Ash Raiders Ambush - Impact: 11 HP: 10 Loot: +2, 50 Gold |    
 | 6 | Lost Ruins | Uncover a forgotten building, Roll 2 Loot Dice |    
     
-[Terrain Types](./Terrain-Types.html)    
+[Terrain Types](./Terrain-Types.md)    
     
-[Table of Contents](./Table-of-Contents.html)    
+[Table of Contents](./Table-of-Contents.md)    

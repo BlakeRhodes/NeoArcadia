@@ -1,14 +1,14 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![trade-goods-market](./trade-goods-market.png)    
     
 "*In my extraordinary journey through the labyrinthine world of finance, I, Gilbert Hou, have emerged not merely as an investment banker, but as a visionary in a realm where numbers intertwine with the marvels of technology. "DIAMOND HANDS: The Gilbert Hou Story" is a narrative that transcends the mundane, delving into my unparalleled expertise in an era of organ markets and vat-grown futures.*" - Gilbert Hou, Professional Bastard    
     
 # Trade Goods Market    
     
-The first time this market is used, roll a 1d6 to determine the current market table. When a player trades at the market, re-roll at the end of the [Prepare Phase](./Prepare-Phase.html) to determine any market changes.    
+The first time this market is used, roll a 1d6 to determine the current market table. When a player trades at the market, re-roll at the end of the [Prepare Phase](./Prepare-Phase.md) to determine any market changes.    
     
 ### Table 1    
     
@@ -101,4 +101,4 @@ The first time this market is used, roll a 1d6 to determine the current market t
 | 5 Grain                  | 2 Ale + 1 Plastic            |    
     
     
-[Table of Contents](./Table-of-Contents.html)
+[Table of Contents](./Table-of-Contents.md)

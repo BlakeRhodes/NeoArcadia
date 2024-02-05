@@ -1,13 +1,11 @@
 ---
 share: "true"
 ---
+![[mountain.png]]
+# 0808 - Mountain - Iron Mountains
 
-![mountain](./mountain.png)    
-    
-*High in the mountains of rubble, remnants of the colossal hive cities' collapse, the air carries a distinct, pungent mix of rust and decay, a testament to the long-forgotten urban sprawls. It's tinged with a sharp, metallic scent, mingling with the faint, earthy aroma of ancient concrete and steel slowly surrendering to nature's embrace.*    
-    
-# Mountain    
-    
+*You would think the brays of giant mechanical beast would be easier to hear, and perhaps there would be some destruction. Perhaps the rumor was false...*
+ 
 Forage: 10    
 Scout: 8    
     
@@ -20,6 +18,3 @@ Scout: 8
 | 5 | Combat | Bandits Ambush - Impact: 10 HP: 15 Loot: +2, 50 Gold |    
 | 6 | Natural Cave | No need to set a watch |    
     
-[Terrain Types](./Terrain-Types.md)    
-    
-[Table of Contents](./Table-of-Contents.md)    

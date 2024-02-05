@@ -1,8 +1,7 @@
----  
-share: "true"  
----  
-  
-  
+---
+share: "true"
+---
+
 ![rumors](./rumors.png)  
 # Rumors  
   
@@ -26,4 +25,4 @@ share: "true"
   
 1008. "In the Skyward Peaks, a floating island drifts lazily, rumored to be reachable only by those who harness the wind's ancient secrets."  
   
-[Table-of-Contents](adventures/Techno-Bandits-of-Turing-Wood/Table-of-Contents.html)
+[Table-of-Contents](adventures/Techno-Bandits-of-Turing-Wood/Table-of-Contents.md)

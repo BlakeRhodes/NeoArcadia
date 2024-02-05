@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 # Environment Turn    
     
 #### 1. Advance the Calendar    
@@ -10,6 +10,6 @@ share: "true"
 #### 2. Weather    
 - Use the weather table for the Season and roll for new weather.    
     
-Back to: [Play the Game](./Play-the-Game.html)    
+Back to: [Play the Game](./Play-the-Game.md)    
     
-[Table of Contents](./Table-of-Contents.html)
+[Table of Contents](./Table-of-Contents.md)

@@ -1,7 +1,6 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
 ![braying-leviathan](../../braying-leviathan.png)  
 # Crisis! Leviathan Awakes  
   

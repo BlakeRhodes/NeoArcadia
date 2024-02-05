@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![prepare-phase](./prepare-phase.png)    
     
 # Prepare Phase    
@@ -16,11 +16,11 @@ If a player is not present, the group can choose to skip ahead to the next prese
     
 ## Step 2. Select or Build a Party    
     
-Players without a party should use the [Party Creation](./Party-Creation.html) rules to form one. This applies when starting the game or after losing all previous parties. This action constitutes the entirety of the player's turn.    
+Players without a party should use the [Party Creation](./Party-Creation.md) rules to form one. This applies when starting the game or after losing all previous parties. This action constitutes the entirety of the player's turn.    
     
 Players with existing parties select one to activate for the turn.    
     
-Players owning a Guildhall may recruit a new party to their guild for a fee 1000 Gold. Follow the [Party Creations](./Party-Creation.html) rules.    
+Players owning a Guildhall may recruit a new party to their guild for a fee 1000 Gold. Follow the [Party Creations](./Party-Creation.md) rules.    
     
 ## Step 3. Planning    
     
@@ -28,11 +28,11 @@ Players choose a destination hex for their active party from adjacent hexes. The
     
 ### Special Rule: Lost    
     
-A [Lost](Lost.html) party does not select its next hex but rolls 1d6 to move to a random adjacent hex. The party is no longer lost after this turn.    
+A [Lost](Lost.md) party does not select its next hex but rolls 1d6 to move to a random adjacent hex. The party is no longer lost after this turn.    
     
 ## Step 4. Provisioning    
     
-Parties can trade at any [Market](./Market.html) available in their current hex. Each market has a unique table of goods and their trade values, with no substitutions allowed. Parties can engage in unlimited trades.    
+Parties can trade at any [Market](./Market.md) available in their current hex. Each market has a unique table of goods and their trade values, with no substitutions allowed. Parties can engage in unlimited trades.    
     
 ### Special Rule: Ale is Always a Good Investment    
     
@@ -58,6 +58,6 @@ The party can gather food and water from their current location before traveling
 - If roll is at least one, the party finds enough resources.    
 - Otherwise the party must consume one ration or lose 1 stamina.    
     
-Next: [Embark Phase](./Embark-Phase.html)    
+Next: [Embark Phase](./Embark-Phase.md)    
     
-[Table of Contents](./Table-of-Contents.html)
+[Table of Contents](./Table-of-Contents.md)

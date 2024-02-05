@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 # Party Sheet    
     
 | Player Name: |  | PP: | 30 |    

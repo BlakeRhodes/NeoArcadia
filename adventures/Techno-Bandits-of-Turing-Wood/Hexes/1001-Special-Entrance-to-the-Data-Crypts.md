@@ -1,8 +1,7 @@
----  
-share: "true"  
----  
-  
-  
+---
+share: "true"
+---
+
 ![data-crypts](../data-crypts.png)  
   
 # 1001- Special - Entrance to the Data Crypts  

@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![wilderness](./wilderness.png)    
     
 *In the wilderness of the Ancient Future, nature has reclaimed the relics of a once-advanced civilization, intertwining overgrown forests with the rusted skeletons of forgotten technology. This untamed landscape is a patchwork of dense greenery and eerie, abandoned ruins, where the whispers of the past meet the primal breath of the wild, creating a world both hauntingly beautiful and mysteriously perilous.*    
@@ -20,6 +20,6 @@ Scout: 8
 | 5 | Combat | Bandits Ambush - Impact: 15 HP: 15 Loot: +2, 50 Gold |    
 | 6 | Phenomenon | Ancient Security Field, no need to set a watch this recovery. |    
     
-[Terrain Types](./Terrain-Types.html)    
+[Terrain Types](./Terrain-Types.md)    
     
-[Table of Contents](./Table-of-Contents.html)
+[Table of Contents](./Table-of-Contents.md)

@@ -1,11 +1,11 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![recover-phase](./recover-phase.png)    
     
 # Recovery Phase    
-Previous: [Encounter Phase](./Encounter-Phase.html)    
+Previous: [Encounter Phase](./Encounter-Phase.md)    
     
 ## Step 1: Death    
     
@@ -33,6 +33,6 @@ The party recovers 2 HP
 - The party may then convert Luck Points into Resourcefulness.    
 - Luck Points, once spent, are not recovered, unless a stroke of luck occurs...    
     
-Back to: [Prepare Phase](./Prepare-Phase.html)    
+Back to: [Prepare Phase](./Prepare-Phase.md)    
     
-[Table of Contents](./Table-of-Contents.html)
+[Table of Contents](./Table-of-Contents.md)

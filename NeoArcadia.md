@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![neoarcadia](./neoarcadia.png)    
     
 # XXXX- Special - NeoArcadia the Fallen Sky City    
@@ -18,9 +18,9 @@ Today, NeoArcadia shines as a vibrant hub, a testament to the enduring human spi
 **Scout:** -    
     
 Markets:    
-[Trade Goods Market](./Trade%Goods-Market.html)    
-[Flea Market](./Flea-Market.html)    
-[General Goods](./General-Goods.html)    
+[Trade Goods Market](./Trade%Goods-Market.md)    
+[Flea Market](./Flea-Market.md)    
+[General Goods](./General-Goods.md)    
     
 **Special Encounter - Welcome Home**    
     
@@ -30,7 +30,7 @@ Markets:
     
 Characters may choose 2 of these options    
 - Get Lucky - Spend 2 Ale to roll 1d6, on six regain one luck. You may do this any number of times, each time doubling the amount of Ale consumed.    
-- Visit the [Techstitcher](./Techstitcher.html) - Trade Ancient Tech for PP    
+- Visit the [Techstitcher](./Techstitcher.md) - Trade Ancient Tech for PP    
 - Gamble - Spend 1 Luck roll 1d6 and consult the table    
     
 | Roll | Result |    
@@ -42,4 +42,4 @@ Characters may choose 2 of these options
 | 5 | Win 50g |    
 | 6 | Gain 1 PP |    
     
-[Table of Contents](./Table-of-Contents.html)
+[Table of Contents](./Table-of-Contents.md)

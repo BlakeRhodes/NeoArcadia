@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![city-scape](./city-scape.png)    
     
 *In the heart of the desolate cityscape, towering buildings and crumbling structures stand as silent sentinels over streets eerily devoid of both human and mutant life. The pervasive stillness is unsettling, a haunting testament to a sudden, mysterious exodus that left the city frozen in time, a ghostly urban maze untouched by the living.*    
@@ -20,6 +20,6 @@ Scout: 14
 | 5 | Combat | Feral Animal Things - Impact: 15 HP: 15 Loot: +4, 50 Gold |    
 | 6 | Combat | Rogue AI Ambush - Impact 25 HP 20 Loot +5 |    
     
-[Terrain Types](./Terrain-Types.html)    
+[Terrain Types](./Terrain-Types.md)    
     
-[Table of Contents](./Table-of-Contents.html)
+[Table of Contents](./Table-of-Contents.md)

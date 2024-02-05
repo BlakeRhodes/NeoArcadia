@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 # What Was Not  
   
 Welcome to the all the art that was cool, but not exactly what was wanted. . .   

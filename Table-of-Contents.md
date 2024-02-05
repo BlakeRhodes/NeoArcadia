@@ -1,59 +1,59 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 # Table of Contents    
     
-## [Introduction](./index.html)    
+## [Introduction](./index.md)    
     
-## [Play the Game](./Play-the-Game.html)    
+## [Play the Game](./Play-the-Game.md)    
     
-- ### [Setup Environment](./Environment-System.html)    
-- ### [Environment Turn](./Environment-Turn.html)    
-- ### [Prepare Phase](./Prepare-Phase.html)    
-- ### [Embark Phase](./Embark-Phase.html)    
-- ### [Encounter Phase](./Encounter-Phase.html)    
-- ### [Recovery Phase](./Recovery-Phase.html)    
+- ### [Setup Environment](./Environment-System.md)    
+- ### [Environment Turn](./Environment-Turn.md)    
+- ### [Prepare Phase](./Prepare-Phase.md)    
+- ### [Embark Phase](./Embark-Phase.md)    
+- ### [Encounter Phase](./Encounter-Phase.md)    
+- ### [Recovery Phase](./Recovery-Phase.md)    
     
-## [Party Creation](./Party-Creation.html)    
+## [Party Creation](./Party-Creation.md)    
     
-- ### [Character Creation](./Character-Creation.html)    
-- ### [Fighters](./Fighters.html)    
-- ### [Hunters](./Hunters.html)    
-- ### [Priests](./Priests.html)    
-- ### [Scouts](./Scouts.html)    
+- ### [Character Creation](./Character-Creation.md)    
+- ### [Fighters](./Fighters.md)    
+- ### [Hunters](./Hunters.md)    
+- ### [Priests](./Priests.md)    
+- ### [Scouts](./Scouts.md)    
     
-## [Combat System](./Combat-System.html)    
+## [Combat System](./Combat-System.md)    
     
-- ### [Sample Combat Play-by-Play](./Sample-Combat-Play-by-Play.html)    
+- ### [Sample Combat Play-by-Play](./Sample-Combat-Play-by-Play.md)    
     
-## [Social System](./Social-System.html)  
+## [Social System](./Social-System.md)  
   
   
-## [Crisis! System](./Crisis!-System.html)  
+## [Crisis! System](./Crisis!-System.md)  
   
-- ### [The Crisis!](./The-Crisis!.html)  
-- ### [Crisis! Party Dynamics](./Crisis!-Party-Dynamics.html)  
+- ### [The Crisis!](./The-Crisis!.md)  
+- ### [Crisis! Party Dynamics](./Crisis!-Party-Dynamics.md)  
 - ### [Leviathan-Awakes](./Crisis/Leviathan-Awakes/Leviathan-Awakes.md)  
     
-## [Terrain Types](./Terrain-Types.html)    
+## [Terrain Types](./Terrain-Types.md)    
     
-- ### [Desert](./Desert.html)    
-- ### [Forest](./Forest.html)    
-- ### [Mountain](./Mountain.html)    
-- ### [Ruined Cityscape](./Ruined-Cityscape.html)    
-- ### [Swamp](./Swamp.html)    
-- ### [Wilderness](./Wilderness.html)     
+- ### [Desert](./Desert.md)    
+- ### [Forest](./Forest.md)    
+- ### [Mountain](./Mountain.md)    
+- ### [Ruined Cityscape](./Ruined-Cityscape.md)    
+- ### [Swamp](./Swamp.md)    
+- ### [Wilderness](./Wilderness.md)     
     
-## [NeoArcadia](./NeoArcadia.html)    
+## [NeoArcadia](./NeoArcadia.md)    
     
-- ### [Trade Goods Market](./Trade-Goods-Market.html)    
-- ### [Flea Market](./Flea-Market.html)    
-- ### [General Goods](./General-Goods.html)    
-- ### [Techstitcher](./Techstitcher.html)    
+- ### [Trade Goods Market](./Trade-Goods-Market.md)    
+- ### [Flea Market](./Flea-Market.md)    
+- ### [General Goods](./General-Goods.md)    
+- ### [Techstitcher](./Techstitcher.md)    
      
-## [Advanced Rules](./Advanced-Rules.html)    
+## [Advanced Rules](./Advanced-Rules.md)    
     
-- ### [Combat Challenges](./Combat-Challenges.html)    
-- ### [Civic Projects](./Civic-Projects.html)    
+- ### [Combat Challenges](./Combat-Challenges.md)    
+- ### [Civic Projects](./Civic-Projects.md)    
     

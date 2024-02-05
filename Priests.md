@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![priest](./priest.png)    
     
 # Priests    
@@ -67,6 +67,6 @@ Call upon the the visions exalted Algorithmia, the luminous cloud platform upon 
     
  - Spend 3 Access Tokens to restore 1 to each stat except Luck    
      
-[Character Creation](./Character-Creation.html)    
+[Character Creation](./Character-Creation.md)    
     
-[Table of Contents](./Table-of-Contents.html)
+[Table of Contents](./Table-of-Contents.md)

@@ -1,7 +1,7 @@
----  
-share: "true"  
----  
-  
+---
+share: "true"
+---
+
 ![hunter](./hunter.png)    
     
 # Hunters    
@@ -68,6 +68,6 @@ Drawing from the vast well of survival instincts and the ingenious knack for ada
 - Increase Resourcefulness by X    
     
     
-[Character Creation](./Character-Creation.html)    
+[Character Creation](./Character-Creation.md)    
     
-[Table of Contents](./Table-of-Contents.html)    
+[Table of Contents](./Table-of-Contents.md)    
