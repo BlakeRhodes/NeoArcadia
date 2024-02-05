@@ -24,6 +24,6 @@ Will you uncover the secrets hidden within lost techno-temples, risking everythi
     
 [Play the Game](./Play-the-Game.html)  
     
-[Table of Contents](./Table-of-Contents.html)
+[Table of Contents](./Table-of-Contnts.html)
   
   
