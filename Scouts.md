@@ -28,7 +28,7 @@ However, despite their bravery and expertise, Scouts harbor a peculiar and inten
     
 Channel your unparalleled orientation skills to navigate through the enigmatic wilds of the Ancient Future, dispelling confusion and ensuring your path remains true and unerring.    
     
-- During Prepare Phase can spend 1 RP to remove the [Lost](Lost.md) condition.    
+- During Prepare Phase can spend 1 RP to remove the [Lost](Lost.html) condition.    
     
 ### Covert Maneuver - PP Cost 4    
     
@@ -68,6 +68,6 @@ Cultivate your stamina and endurance through meticulous energy management, allow
 - Increase Stamina by X    
 - You can take this multiple times    
     
-[Character Creation](./Character-Creation.md)    
+[Character Creation](./Character-Creation.html)    
     
-[Table of Contents](./Table-of-Contents.md)
+[Table of Contents](./Table-of-Contents.html)
