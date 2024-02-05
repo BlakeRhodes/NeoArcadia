@@ -2,6 +2,7 @@
 share: "true"  
 ---  
   
+![crystal-caves](../../../crystal-caves.png)  
 # 0303 - Special - Crystal Caverns  
   
 *The Crystal Caverns, once a glittering maze of natural splendor, now echo with a haunting silence, as miners' tools lie abandoned and eerie shadows stretch through the crumbling tunnels. Whispers of a monstrous presence twist through the air, its braying call turning the once-pristine crystals into mere whispers of dust.*  
@@ -34,6 +35,6 @@ Nestled deep within the Crystal Caverns, the nest of the Braying-Leviathan contr
   
 - Make a Choice - Break the Eggs, Take the Eggs. Record this choice on the party sheet.  
   
+[Crisis Table of Contents](../Table-of-Contents.md)  
   
-  
-  
+Back to Game: [Table of Contents](../../../Table-of-Contents.md)

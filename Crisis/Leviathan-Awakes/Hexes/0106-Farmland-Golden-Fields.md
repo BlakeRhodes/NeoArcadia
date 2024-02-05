@@ -2,6 +2,7 @@
 share: "true"  
 ---  
   
+![golden-fields](../../../golden-fields.png)  
 # 0106 - Farmland -  Golden Fields  
   
 The Golden Fields, a vista of lush farmland stretching beneath the sun, hide a chilling secret beneath their vibrant surface. Here, the soil is unnaturally fertile and the smell in the air is foul, like decay.  
@@ -38,6 +39,6 @@ Make a Scouting Roll, if successful the party finds a recent journal in the disc
   
 - Gain Information: First Hand Account  
   
+[Crisis Table of Contents](../Table-of-Contents.md)  
   
-  
-  
+Back to Game: [Table of Contents](../../../Table-of-Contents.md)
