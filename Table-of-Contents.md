@@ -13,7 +13,7 @@ share: "true"
 - ### [Prepare Phase](./Prepare-Phase.html)    
 - ### [Embark Phase](./Embark-Phase.html)    
 - ### [Encounter Phase](./Encounter-Phase.html)    
-- ### [Recovery Phase](./Recovery-Phase.html)    
+- ### [Recover Phase](./Recover-Phase.html)    
     
 ## [Party Creation](./Party-Creation.html)    
     
@@ -30,11 +30,11 @@ share: "true"
 ## [Social System](./Social-System.html)  
   
   
-## [Crisis! System](./Crisis!-System.html)  
+## [Crisis! System](./Crisis-System.html)  
   
 - ### [The Crisis!](./The-Crisis!.html)  
 - ### [Crisis! Party Dynamics](./Crisis!-Party-Dynamics.html)  
-- ### [Leviathan-Awakes](Leviathan-Awakes.html)  
+- ### [Leviathan Awakes](./crisis/Leviathan-Awakes/Leviathan-Awakes.html)  
     
 ## [Terrain Types](./Terrain-Types.html)    
     

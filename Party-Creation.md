@@ -32,6 +32,7 @@ You can distribute PP among any characters in the party. You don't have to use a
 - **[Scouts](./Scouts.html):**     
   - Strengths: Guides and navigators they can get you there safe.    
   - Weakness: Bugs    
+
 ## Step 3. Create the Characters    
     
 - Follow the [Character Creation](./Character-Creation.html) guidelines for each character.    
