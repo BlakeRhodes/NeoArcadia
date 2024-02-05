@@ -27,7 +27,7 @@ Priest measure their faith in Access Tokens. These can be used to procedurally g
     
 ### Trained Healer - PP Cost 1    
     
-Access the medical libraries of Linus through your cybernetic enhancements, restoring vitality to your allies with a touch that mends flesh and spirit alike.    
+Access the medical libraries of Linus through your cybernetic enhancements, restoring vitality to your allies with a touch that mends flesh and spirit alike. You may use this ability during the Prepare Phase.
     
  - Spend an access token to restore 1d6 HP or 1 SP    
     
