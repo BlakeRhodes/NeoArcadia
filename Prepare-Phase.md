@@ -16,11 +16,11 @@ If a player is not present, the group can choose to skip ahead to the next prese
     
 ## Step 2. Select or Build a Party    
     
-Players without a party should use the [Party Creation](./Party%20Creation.html) rules to form one. This applies when starting the game or after losing all previous parties. This action constitutes the entirety of the player's turn.    
+Players without a party should use the [Party Creation](./Party-Creation.html) rules to form one. This applies when starting the game or after losing all previous parties. This action constitutes the entirety of the player's turn.    
     
 Players with existing parties select one to activate for the turn.    
     
-Players owning a Guildhall may recruit a new party to their guild for a fee 1000 Gold. Follow the [Party Creations](./Party%20Creation.html) rules.    
+Players owning a Guildhall may recruit a new party to their guild for a fee 1000 Gold. Follow the [Party Creations](./Party-Creation.html) rules.    
     
 ## Step 3. Planning    
     
@@ -58,6 +58,6 @@ The party can gather food and water from their current location before traveling
 - If roll is at least one, the party finds enough resources.    
 - Otherwise the party must consume one ration or lose 1 stamina.    
     
-Next: [Embark Phase](./Embark%20Phase.html)    
+Next: [Embark Phase](./Embark-Phase.html)    
     
-[Table of Contents](./Table%20of%20Contents.html)
+[Table of Contents](./Table-of-Contents.html)

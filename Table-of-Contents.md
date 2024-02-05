@@ -6,54 +6,54 @@ share: "true"
     
 ## [Introduction](./index.html)    
     
-## [Play the Game](./Play%20the%20Game.html)    
+## [Play the Game](./Play-the-Game.html)    
     
-- ### [Setup Environment](./Environment%20System.html)    
-- ### [Environment Turn](./Environment%20Turn.html)    
-- ### [Prepare Phase](./Prepare%20Phase.html)    
-- ### [Embark Phase](./Embark%20Phase.html)    
-- ### [Encounter Phase](./Encounter%20Phase.html)    
-- ### [Recovery Phase](./Recovery%20Phase.html)    
+- ### [Setup Environment](./Environment-System.html)    
+- ### [Environment Turn](./Environment-Turn.html)    
+- ### [Prepare Phase](./Prepare-Phase.html)    
+- ### [Embark Phase](./Embark-Phase.html)    
+- ### [Encounter Phase](./Encounter-Phase.html)    
+- ### [Recovery Phase](./Recovery-Phase.html)    
     
-## [Party Creation](./Party%20Creation.html)    
+## [Party Creation](./Party-Creation.html)    
     
-- ### [Character Creation](./Character%20Creation.html)    
+- ### [Character Creation](./Character-Creation.html)    
 - ### [Fighters](./Fighters.html)    
 - ### [Hunters](./Hunters.html)    
 - ### [Priests](./Priests.html)    
 - ### [Scouts](./Scouts.html)    
     
-## [Combat System](./Combat%20System.html)    
+## [Combat System](./Combat-System.html)    
     
-- ### [Sample Combat Play-by-Play](./Sample%20Combat%20Play-by-Play.html)    
+- ### [Sample Combat Play-by-Play](./Sample-Combat-Play-by-Play.html)    
     
-## [Social System](./Social%20System.html)  
+## [Social System](./Social-System.html)  
   
   
-## [Crisis! System](./Crisis!%20System.html)  
+## [Crisis! System](./Crisis!-System.html)  
   
-- ### [The Crisis!](./The%20Crisis!.html)  
-- ### [Crisis! Party Dynamics](./Crisis!%20Party%20Dynamics.html)  
+- ### [The Crisis!](./The-Crisis!.html)  
+- ### [Crisis! Party Dynamics](./Crisis!-Party-Dynamics.html)  
 - ### [Leviathan-Awakes](./Crisis/Leviathan-Awakes/Leviathan-Awakes.md)  
     
-## [Terrain Types](./Terrain%20Types.html)    
+## [Terrain Types](./Terrain-Types.html)    
     
 - ### [Desert](./Desert.html)    
 - ### [Forest](./Forest.html)    
 - ### [Mountain](./Mountain.html)    
-- ### [Ruined Cityscape](./Ruined%20Cityscape.html)    
+- ### [Ruined Cityscape](./Ruined-Cityscape.html)    
 - ### [Swamp](./Swamp.html)    
 - ### [Wilderness](./Wilderness.html)     
     
 ## [NeoArcadia](./NeoArcadia.html)    
     
-- ### [Trade Goods Market](./Trade%20Goods%20Market.html)    
-- ### [Flea Market](./Flea%20Market.html)    
-- ### [General Goods](./General%20Goods.html)    
+- ### [Trade Goods Market](./Trade-Goods-Market.html)    
+- ### [Flea Market](./Flea-Market.html)    
+- ### [General Goods](./General-Goods.html)    
 - ### [Techstitcher](./Techstitcher.html)    
      
-## [Advanced Rules](./Advanced%20Rules.html)    
+## [Advanced Rules](./Advanced-Rules.html)    
     
-- ### [Combat Challenges](./Combat%20Challenges.html)    
-- ### [Civic Projects](./Civic%20Projects.html)    
+- ### [Combat Challenges](./Combat-Challenges.html)    
+- ### [Civic Projects](./Civic-Projects.html)    
     

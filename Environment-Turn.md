@@ -10,6 +10,6 @@ share: "true"
 #### 2. Weather    
 - Use the weather table for the Season and roll for new weather.    
     
-Back to: [Play the Game](./Play%20the%20Game.html)    
+Back to: [Play the Game](./Play-the-Game.html)    
     
-[Table of Contents](./Table%20of%20Contents.html)
+[Table of Contents](./Table-of-Contents.html)

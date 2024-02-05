@@ -34,7 +34,7 @@ The first crisis we've crafted is "Leviathan Awakes," an event that revolves aro
   
 In bringing the world of NeoArcadia to life, we've embarked on an exciting journey with AI-generated art. The process is fascinating, especially when it comes to creating a distinctive style that resonates with our game's unique theme. We've experimented with various prompts to depict the Braying-Leviathan and the ancient service crafts, aiming for a style that marries the mystique of the ancient with the intrigue of the future.  
   
-Generating AI art has its charm and surprises. For instance, the cover image for this entry is a testament to the awesome capabilities of AI – it's captivating, intricate, and almost hits the mark. But, as much as we admire the power of generation, it's not always what we are looking for. The true essence of NeoArcadia lies in the fine balance between AI's randomness and the coherent vision of our creative team. Check out some more of the discarded attempts [here](./What%20Was%20not.html).  
+Generating AI art has its charm and surprises. For instance, the cover image for this entry is a testament to the awesome capabilities of AI – it's captivating, intricate, and almost hits the mark. But, as much as we admire the power of generation, it's not always what we are looking for. The true essence of NeoArcadia lies in the fine balance between AI's randomness and the coherent vision of our creative team. Check out some more of the discarded attempts [here](./What-Was-not.html).  
   
 ### Looking Forward  
   
@@ -51,9 +51,9 @@ The [Devs](./Devs.html)
     
 Whoa, buddy, we have made some changes! We mentioned last time that we were going to update the rations system, and yes, we did. We also injected a lot more flavor! The generic skill names have been updated with new descriptions.  
   
-Some resources were added to help players flesh out the world. For example, we added a [Combat Challenges](./Combat%20Challenges.html) section for encounter examples and included some variants to keep the game fresh. We can't wait to see what the player base will cook up for their games.  
+Some resources were added to help players flesh out the world. For example, we added a [Combat Challenges](./Combat-Challenges.html) section for encounter examples and included some variants to keep the game fresh. We can't wait to see what the player base will cook up for their games.  
   
-The other significant update is [Civic Projects](./Civic%20Projects.html)! Based on feedback from playtesting, we added these to address an issue the game had. It is supposed to be collaborative, but the actual gameplay felt more like everyone was playing a solo campaign. This was not as good as it could be, and a system was desired to resolve this.  
+The other significant update is [Civic Projects](./Civic-Projects.html)! Based on feedback from playtesting, we added these to address an issue the game had. It is supposed to be collaborative, but the actual gameplay felt more like everyone was playing a solo campaign. This was not as good as it could be, and a system was desired to resolve this.  
   
 By design, the game doesn't have any PvP elements. We are sure that is fun in other games, but that is not our game. Our game is about collaboration and world-building, so think PvE. And at some point, the 'E' is going to strike back with the Crisis! System.  
   

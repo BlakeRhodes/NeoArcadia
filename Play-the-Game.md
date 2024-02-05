@@ -25,6 +25,7 @@ NeoArcadia is a game designed for long-term play, offering a Continuous Play Exp
 - **d6s:** Dice used for various rolls.    
 - **History Log (Optional):** A record of important and fun events, plot developments, and a way to share tales of adventures with others.    
 - **Adventure Packs (Optional):** Additional maps, quests, rumors, and hex sheets. You can get [The Techno Bandits of Turing Woods](The-Techno-Bandits-of-Turing-Wood.html) for free!  
+- Crisis! Expansions such as [Leviathan Awakes](./Crisis/Leviathan-Awakes/Leviathan-Awakes.html)  
     
 ## Setup    
     
@@ -32,7 +33,7 @@ NeoArcadia is a game designed for long-term play, offering a Continuous Play Exp
 2. Shuffle the Rumor Deck.    
 3. Place Party Markers on [NeoArcadia](./NeoArcadia.html)    
 4. Arrange the Hex Sheets in numerical order.    
-5. Set up the [Environment System](Environment%20System.html).    
+5. Set up the [Environment System](Environment-System.html).    
     
 ## Rolling Dice    
     
@@ -52,7 +53,7 @@ Some rolls like combat have bad effects if the number is negative, like the part
     
 ## Turn Order    
     
-1. [Environment Turn](Environment%20Turn.html)    
+1. [Environment Turn](Environment-Turn.html)    
 2. Existing Players' Turns    
 3. New Players' Turns    
     
@@ -60,15 +61,15 @@ Some rolls like combat have bad effects if the number is negative, like the part
     
 Players proceed through their turn in the following phases:    
     
-1. [Prepare Phase](Prepare%20Phase.html)    
-2. [Embark Phase](Embark%20Phase.html)    
-3. [Encounter Phase](Encounter%20Phase.html)    
-4. [Recover Phase](Recover%20Phase.html)    
+1. [Prepare Phase](Prepare-Phase.html)    
+2. [Embark Phase](Embark-Phase.html)    
+3. [Encounter Phase](Encounter-Phase.html)    
+4. [Recover Phase](Recover-Phase.html)    
     
 ## More Adventure, More Fun!    
     
 Played through the base Adventure and conquered the Techno Bandits?    
     
-Check out the [Advanced Rules](./Advanced%20Rules.html)    
+Check out the [Advanced Rules](./Advanced-Rules.html)    
     
-[Table of Contents](./Table%20of%20Contents.html)    
+[Table of Contents](./Table-of-Contents.html)    

@@ -5,7 +5,7 @@ share: "true"
 ![embark-page](./embark-page.png)    
     
 # Embark Phase    
-Previous: [Prepare Phase](./Prepare%20Phase.html)    
+Previous: [Prepare Phase](./Prepare-Phase.html)    
     
 ## Step 1: Scouting    
     
@@ -21,12 +21,12 @@ Move the party marker to the destination hex.
     
 ## Step 3: Begin Construction    
     
-The party may begin construction on a [Civil Project](./Civil%20Project.html).     
+The party may begin construction on a [Civil Project](./Civil-Project.html).     
     
 ### Special Rule - Lay Low    
     
 The party can wait when they are not yet ready to start construction on a Civic Project. While laying low if the party made their Scouting Roll they can skip the rest of their turn. During their next Prepare Phase can not choose a tile to move to.    
     
-Next: [Encounter Phase](./Encounter%20Phase.html)    
+Next: [Encounter Phase](./Encounter-Phase.html)    
     
-[Table of Contents](./Table%20of%20Contents.html)
+[Table of Contents](./Table-of-Contents.html)

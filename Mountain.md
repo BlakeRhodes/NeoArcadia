@@ -20,6 +20,6 @@ Scout: 8
 | 5 | Combat | Bandits Ambush - Impact: 10 HP: 15 Loot: +2, 50 Gold |    
 | 6 | Natural Cave | No need to set a watch |    
     
-[Terrain Types](./Terrain%20Types.html)    
+[Terrain Types](./Terrain-Types.html)    
     
-[Table of Contents](./Table%20of%20Contents.html)    
+[Table of Contents](./Table-of-Contents.html)    

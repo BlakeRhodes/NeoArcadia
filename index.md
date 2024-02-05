@@ -8,7 +8,7 @@ share: "true"
     
 **Embark on a Journey Where the Ancient Future Collides with Brutal Reality!**    
     
-Step into "NeoArcadia," a hexcrawl adventure set in a techno-fantasy world where ancient mysticism and far-flung futuristic technology blur dangerously. Here, the remnants of advanced civilizations blend with dark magic, creating a landscape both dangerous and enigmatic.    
+Step into "NeoArcadia," a hexcrawl adventure set in a techno-fantasy world where ancient mysticism and far-flung futuristic technology blur dangerously. Here, the remnants of advanced civilizations blend with magic, creating a landscape both familiar and strange.    
     
 **Navigate a Land Rife with Dangers!**    
     
@@ -22,10 +22,8 @@ Form a party of the bravest adventurers, each shaped by the harsh realities of t
     
 Will you uncover the secrets hidden within lost techno-temples, risking everything for ancient knowledge? Will you negotiate with beings spawned from the chaotic union of arcane and tech, or confront them with strength? Each decision is critical in your battle for survival, and your choices will carve your legacy into the unforgiving annals of this formidable land.    
     
-[Play the Game](./Play%20the%20Game.html)  
-  
-The first adventure pack for your game! This introductory adventure delves deep into the world and lore of the Ancient Future. When you have gotten a grasp of the rules start building a legacy for your party.  
+[Play the Game](./Play-the-Game.html)  
     
-[Table of Contents](./Table%20of%20Contents.html)  
+[Table of Contents](./Table-of-Contents.html)  
   
   

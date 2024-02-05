@@ -314,4 +314,4 @@ Wolves fight as a cohesive unit, their natural instincts honed to perfection.
     
 - Roll 1d6 at the beginning of combat. If this is move than the number of characters in the party, Impact increases by 2 due to their coordinated attacks and encircling maneuvers.    
     
-[Table of Contents](./Table%20of%20Contents.html)
+[Table of Contents](./Table-of-Contents.html)

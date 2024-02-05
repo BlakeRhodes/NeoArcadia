@@ -20,6 +20,6 @@ Scout: 9
 | 5 | Combat | Bandits Ambush - Impact: 10 HP: 15 Loot: +2, 50 Gold |    
 | 6 | Phenomenon | Eerie quiet, party loses 1 will power each |    
     
-[Terrain Types](./Terrain%20Types.html)    
+[Terrain Types](./Terrain-Types.html)    
     
-[Table of Contents](./Table%20of%20Contents.html)
+[Table of Contents](./Table-of-Contents.html)

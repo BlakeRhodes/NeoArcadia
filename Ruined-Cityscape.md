@@ -20,6 +20,6 @@ Scout: 14
 | 5 | Combat | Feral Animal Things - Impact: 15 HP: 15 Loot: +4, 50 Gold |    
 | 6 | Combat | Rogue AI Ambush - Impact 25 HP 20 Loot +5 |    
     
-[Terrain Types](./Terrain%20Types.html)    
+[Terrain Types](./Terrain-Types.html)    
     
-[Table of Contents](./Table%20of%20Contents.html)
+[Table of Contents](./Table-of-Contents.html)

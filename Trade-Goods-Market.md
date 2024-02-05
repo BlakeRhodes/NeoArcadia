@@ -8,9 +8,7 @@ share: "true"
     
 # Trade Goods Market    
     
-The first time this market is used, roll a 1d6 to determine the current market table. When a player trades at the market, re-roll at the end of the [Prepare Phase](./Prepare%20Phase.html) to determine any market changes.    
-    
-To include Reagents, Plastic, Circuitry, and Glass in the trade goods market tables, we can integrate them as new commodities that reflect a more advanced, possibly industrial or technological aspect of your game world. Here's how these items could be incorporated into each table:    
+The first time this market is used, roll a 1d6 to determine the current market table. When a player trades at the market, re-roll at the end of the [Prepare Phase](./Prepare-Phase.html) to determine any market changes.    
     
 ### Table 1    
     
@@ -103,4 +101,4 @@ To include Reagents, Plastic, Circuitry, and Glass in the trade goods market tab
 | 5 Grain                  | 2 Ale + 1 Plastic            |    
     
     
-[Table of Contents](./Table%20of%20Contents.html)
+[Table of Contents](./Table-of-Contents.html)
