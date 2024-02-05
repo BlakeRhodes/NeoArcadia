@@ -9,7 +9,7 @@ share: "true"
 In the ever-shifting landscape of the Ancient Future, where the remnants of forgotten civilizations intertwine with the dawn of new epochs, your party begins with the forging of your characters, the vessels for your courage, ingenuity, and the will to prevail. As you select your path and skills, remember that each choice weaves another thread into the rich tapestry of your destiny, shaping the stories that will echo through the annals of time and the digital whispers of the noosphere.    
 ## Step 1: Choose a Character Type    
     
-- Select from [Fighters](./Fighters.md), [Hunters](./Hunters.md), [Priests](./Priests.md), [Scouts](./Scouts.md)    
+- Select from [Fighters](./Fighters.html), [Hunters](./Hunters.html), [Priests](./Priests.html), [Scouts](./Scouts.html)    
     
 ## Step 2: Select Skills    
     
@@ -36,6 +36,6 @@ Each party member contributes not only different skill, but different stats to t
     
 - The Party may roll spend 1 LP to re-roll any single dice roll of a one. If that roll is a one it may be re-rolled for 1 LP, and so on until you run out of luck.    
     
-[Party Creation](./Party-Creation.md)    
+[Party Creation](./Party-Creation.html)    
     
-[Table of Contents](./Table-of-Contents.md)
+[Table of Contents](./Table-of-Contents.html)
