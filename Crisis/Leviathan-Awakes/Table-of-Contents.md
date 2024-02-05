@@ -4,7 +4,6 @@ share: "true"
   
 # Table of Contents  
   
-# Table of Contents  
 ## [Leviathan-Awakes](Leviathan-Awakes.html)  
   
 ## [Braying Leviathan](Braying-Leviathan.html)  
