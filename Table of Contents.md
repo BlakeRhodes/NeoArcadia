@@ -34,7 +34,7 @@ share: "true"
   
 - ### [The Crisis!](./The%20Crisis!.html)  
 - ### [Crisis! Party Dynamics](./Crisis!%20Party%20Dynamics.html)  
-- ### [Leviathan Awakes](./Crisis/Leviathan%20Awakes/Leviathan%20Awakes.md)  
+- ### [Leviathan-Awakes](./Crisis/Leviathan-Awakes/Leviathan-Awakes.md)  
     
 ## [Terrain Types](./Terrain%20Types.html)    
     
