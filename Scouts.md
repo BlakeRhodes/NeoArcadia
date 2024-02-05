@@ -69,6 +69,6 @@ Cultivate your stamina and endurance through meticulous energy management, allow
 - Increase Stamina by X    
 - You can take this multiple times    
     
-[Character Creation](./Character%20Creation.html)    
+[Character Creation](./Character-Creation.html)    
     
-[Table of Contents](./Table%20of%20Contents.html)
+[Table of Contents](./Table-of-Contents.html)
