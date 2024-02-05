@@ -35,10 +35,10 @@ In conclusion, these advanced rules for adding new content are vital for maintai
     
 ## Resources    
     
-[Combat Challenges](./Combat-Challenges.md) - A collection of beasties to fill your tables with.    
+[Combat Challenges](./Combat-Challenges.html) - A collection of beasties to fill your tables with.    
     
-[Combat Template](./Combat-Template.md)    
-[Hex Sheet](./Hex-Sheet.md)    
-[Terrain Types](./Terrain-Types.md)    
+[Combat Template](./Combat-Template.html)    
+[Hex Sheet](./Hex-Sheet.html)    
+[Terrain Types](./Terrain-Types.html)    
     
-[Table of Contents](./Table-of-Contents.md)
+[Table of Contents](./Table-of-Contents.html)
