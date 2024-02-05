@@ -67,6 +67,6 @@ Call upon the the visions exalted Algorithmia, the luminous cloud platform upon 
     
  - Spend 3 Access Tokens to restore 1 to each stat except Luck    
      
-[Character Creation](./Character%20Creation.html)    
+[Character Creation](./Character-Creation.html)    
     
-[Table of Contents](./Table%20of%20Contents.html)
+[Table of Contents](./Table-of-Contents.html)
