@@ -87,4 +87,4 @@ The Crisis Resolution phase is the climactic conclusion of a Crisis! event, wher
    - Following the resolution of the Crisis! event, parties assess the aftermath, taking stock of their losses and gains, and divide back up the resources as agreed upon.  
    - This is done in the Environment Turn following the Final Confrontation. Normal play resumes, until the next Crisis! Strikes.  
   
-[Table of Contents](./Table%20of%20Contents.md)  
+[Table of Contents](./Table%20of%20Contents.html)  
