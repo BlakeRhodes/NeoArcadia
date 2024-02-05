@@ -14,4 +14,4 @@ share: "true"
     
 3. **Collecting Sales Revenue:** After successfully selling an item, parties can return to the hub to collect the gold earned from their sales.    
     
-[Table of Contents](./Table-of-Contents.md)
+[Table of Contents](./Table-of-Contents.html)
