@@ -20,6 +20,6 @@ Scout: 8
 | 5 | Combat | Rogue Drones - Impact: 14 HP: 12 Loot: +1, 50 Gold |    
 | 6 | Ancient Machinery | Party discovers an ancient water purifier refresh rations |    
     
-[Terrain Types](./Terrain%20Types.html)    
+[Terrain Types](./Terrain-Types.html)    
     
-[Table of Contents](./Table%20of%20Contents.html)    
+[Table of Contents](./Table-of-Contents.html)    
