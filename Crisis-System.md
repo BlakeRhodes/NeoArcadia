@@ -33,7 +33,7 @@ During a Crisis! event, your party joins forces with others, transforming indivi
 As you stand shoulder to shoulder with your comrades-in-arms, facing the abyss of a Crisis!, remember – you're not just fighting for survival. You're crafting legends, forging bonds that transcend the digital realm, and etching your names in the annals of NeoArcadia.  
 Embrace the Crisis! System, for it's more than a game mechanic – it's a call to become part of something greater, a saga where your actions resonate through the Ancient Future. Are you ready to answer the call?  
   
-## [The Crisis!](The-Crisis!.html)   
+## [The Crisis!](The-Crisis.html)   
   
 Rules for playing a Crisis!  
 ## [Crisis! Party Dynamics](./Crisis-Party-Dynamics.html)  
