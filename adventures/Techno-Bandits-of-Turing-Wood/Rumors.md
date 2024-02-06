@@ -24,5 +24,7 @@ share: "true"
 1004. "At the heart of the Ironwood Forest, an ancient tree with metallic leaves is believed to be the core of a living, breathing biomechanical ecosystem."  
   
 1008. "In the Skyward Peaks, a floating island drifts lazily, rumored to be reachable only by those who harness the wind's ancient secrets."  
-  
+
+[Printable Cards](./Printable-Cards.html)
+
 [Table-of-Contents](adventures/Techno-Bandits-of-Turing-Wood/Table-of-Contents.html)

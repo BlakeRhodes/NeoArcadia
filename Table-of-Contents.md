@@ -10,34 +10,35 @@ share: "true"
     
 - ### [Setup Environment](./Environment-System.html)    
   - #### [Environment Turn](./Environment-Turn.html)
-  - #### [The-Techno-Bandits-of-Turing-Wood](./adventures/Techno-Bandits-of-Turing-Wood/The-Techno-Bandits-of-Turing-Wood.md)
+  - #### [Adventure Packs](Adventure-Packs.html)
+## Turn Sequence
 
 - ### [Prepare Phase](./Prepare-Phase.html)    
 - ### [Embark Phase](./Embark-Phase.html)    
 - ### [Encounter Phase](./Encounter-Phase.html)    
-- ### [Recover Phase](./Recover-Phase.html)    
-    
+- ### [Recover Phase](./Recover-Phase.html)     
+
 ## [Party Creation](./Party-Creation.html)    
     
-- ### [Character Creation](./Character-Creation.html)    
-- ### [Fighters](./Fighters.html)    
-- ### [Hunters](./Hunters.html)    
-- ### [Priests](./Priests.html)    
-- ### [Scouts](./Scouts.html)    
-    
+- ### [Character Creation](./Character-Creation.html)
+
+	- ### [Fighters](./Fighters.html)    
+	- ### [Hunters](./Hunters.html)    
+	- ### [Priests](./Priests.html)    
+	- ### [Scouts](./Scouts.html)    
+
 ## [Combat System](./Combat-System.html)    
     
 - ### [Sample Combat Play-by-Play](./Sample-Combat-Play-by-Play.html)    
-    
+
 ## [Social System](./Social-System.html)  
-  
-  
+
 ## [Crisis! System](./Crisis-System.html)  
   
 - ### [The Crisis!](The-Crisis.html)  
 - ### [Crisis! Party Dynamics](./Crisis!-Party-Dynamics.html)  
-- ### [Leviathan Awakes](./crisis/Leviathan-Awakes/Leviathan-Awakes.html)  
-    
+- ### [Crisis Events](./crisis/Crisis-Events.html)
+## [Civic Projects](./Civic-Projects.html)    
 ## [Terrain Types](./Terrain-Types.html)    
     
 - ### [Desert](./Desert.html)    
@@ -57,5 +58,4 @@ share: "true"
 ## [Advanced Rules](./Advanced-Rules.html)    
     
 - ### [Combat Challenges](./Combat-Challenges.html)    
-- ### [Civic Projects](./Civic-Projects.html)    
     
