@@ -11,6 +11,7 @@ share: "true"
 - ### [Setup Environment](./Environment-System.html)    
   - #### [Environment Turn](./Environment-Turn.html)
   - #### [Adventure Packs](Adventure-Packs.html)
+ 
 ## Turn Sequence
 
 - ### [Prepare Phase](./Prepare-Phase.html)    
@@ -20,6 +21,7 @@ share: "true"
 
 ## [Party Creation](./Party-Creation.html)    
     
+
 - ### [Character Creation](./Character-Creation.html)
 
 	- ### [Fighters](./Fighters.html)    
@@ -39,6 +41,7 @@ share: "true"
 - ### [Crisis! Party Dynamics](./Crisis!-Party-Dynamics.html)  
 - ### [Crisis Events](./crisis/Crisis-Events.html)
 ## [Civic Projects](./Civic-Projects.html)    
+
 ## [Terrain Types](./Terrain-Types.html)    
     
 - ### [Desert](./Desert.html)    
