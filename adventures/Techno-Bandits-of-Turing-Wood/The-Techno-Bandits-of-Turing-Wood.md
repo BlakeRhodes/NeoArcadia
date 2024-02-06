@@ -16,4 +16,4 @@ As you weave through this tapestry of danger and discovery, remember: each rumor
   
 Steel your nerves and sharpen your wits, for the Techno Bandits of the Turing Woods are cunning, resourceful, and relentless. But in this high-stakes game of shadows and steel, the greatest weapon is the resolve to uncover the truth and the courage to act upon it. The Turing Woods await, and with them, a story that will be told for generations—a tale of bravery, intrigue, and the indomitable human spirit.  
   
-[Table of Contents](./adventures/Techno-Bandits-of-Turing-Wood/Table-of-Contents.html)  
+[Table of Contents](./Table-of-Contents.html)  
