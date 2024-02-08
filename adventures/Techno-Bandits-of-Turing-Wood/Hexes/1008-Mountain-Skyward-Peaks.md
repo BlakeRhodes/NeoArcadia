@@ -13,12 +13,12 @@ Scout: 8
   
 | Roll | Encounter Type | Description |  
 | ---- | ---- | ---- |  
-| 1 | Rubble Slide | Party members lose 2 hp and 1 stanima. |  
-| 2 | Altitude Sickness | If not chosen by scouting modifier, each party member loses 1 stamina. |  
+| 1 | Rubble Slide | Party loses 2 hp and 1 stanima. |  
+| 2 | Altitude Sickness | If not chosen by scouting modifier, party loses 1 stamina. |  
 | 3 | Resources | If chosen by scouting modifier find 2 Gem,  |  
 | 4 | Combat | Predator Birds - Impact: 10 HP: 10 Loot +1, 50 Gold |  
 | 5 | Combat | Bandits Ambush - Impact: 10 HP: 15 Loot: +2, 50 Gold |  
-| 6 | Natural Cave | No need to set a watch |  
+| 6 | BUGS! | Bugs get into your supplies. Expend one Ration |  
   
 **Special Encounter - Sail the Skies  
   
