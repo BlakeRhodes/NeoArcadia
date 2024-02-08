@@ -9,4 +9,4 @@ Forage: Requires Fishing Gear
 Scout: 6  
   
 --Beta--  
-Purchase Sailors of Sea and Sky for additional rules. ;)  
+Coming soon in Heretics of Linus

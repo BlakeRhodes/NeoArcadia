@@ -18,6 +18,7 @@ Previous: [Encounter Phase](./Encounter-Phase.html)
 Sometimes a run of bad luck results in a dead party, the Brutal Reality of the Ancient Future can not be understated. 
 - Record on the Hex Sheet the parties gear. 
 - When a party arrives on the hex, they may loot the bodies at the end of the Embark Phase.
+- 
 ## Step 2: Despair    
     
 - If the Party is at 0 WP, choose a character to despair.    
@@ -31,7 +32,12 @@ The party recovers 2 HP
     
 - Two characters must be selected for standing watch. The dangers of the Ancient Future do not rest. If the watch can not be filled, the party is slain in the night (Probably by wolves).
 - The party recovers one stamina.    
-    
+
+#### Special Rule - Medicinal Herb
+
+- The party may consume one Medicinal Herb to repeat a previous step, allowing for extra recovery. 
+- The party may instead consume 2 Medicinal Herbs to restore one WP.
+
 ## Step 5: Recover Resourcefulness    
     
 - Recover 1 RP    

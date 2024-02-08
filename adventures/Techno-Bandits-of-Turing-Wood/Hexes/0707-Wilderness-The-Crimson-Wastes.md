@@ -18,7 +18,7 @@ Scout: 8
 | 3 | Resources | If chosen by scouting modifier find 6 ale and 1 gem. |  
 | 4 | Combat | Wolves - Impact: 16 HP: 5 Loot: 0 |  
 | 5 | Combat | Bandits Ambush - Impact: 15 HP: 15 Loot: +2, 50 Gold |  
-| 6 | Phenomenon | Ancient Security Field, no need to set a watch this recovery. |  
+| 6 | BUGS! | Bugs get into your supplies. Expend one Ration |  
   
 **Special Encounter - False Rumors**  
   

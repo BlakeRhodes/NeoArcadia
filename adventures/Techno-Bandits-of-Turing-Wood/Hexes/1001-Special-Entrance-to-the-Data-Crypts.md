@@ -15,7 +15,7 @@ In the heart of the treacherous Desert of Mirrors, a barely discernible entrance
   
 | Roll | Encounter Type | Description |  
 | ---- | ---- | ---- |  
-| 1 | Resources | My Secret Plans, Do Not Share |  
+| 1 | Resources | Find Information:My Secret Plans, Do Not Share |  
 | 2 | Combat | Techno Bandit Impact: 11 HP: 10 Loot: +1, 50 Gold |  
 | 3 | Combat | Techno Bandit Ambush Impact: 11 HP: 15 Loot: +2, 50 Gold |  
 | 4 | Corrupt Data Streams | Vehicles do not function until Repaired |  

@@ -13,9 +13,9 @@ Scout: 7
   
 | Roll | Encounter Type | Description |  
 | ---- | ---- | ---- |  
-| 1 | Quickslime Trap | The party members must spend 1 stamina to avoid or take 2 damage. |  
+| 1 | Quickslime Trap | The party members must spend 1 RP to avoid or take 2 damage. |  
 | 2 | Toxic Fumes | If not chosen by scouting modifier, party members suffers 1 Stamina loss. |  
-| 3 | Resources | If chosen by scouting modifier find 4 medical herbs or 1d6 gems |  
+| 3 | Resources | If chosen by scouting modifier find 1d6 medicinal herbs or 1d6 gems |  
 | 4 | Combat | Giant Swamp Bugs - Impact: 12 HP: 10 Loot: +1, 25 Gold |  
 | 5 | Combat | Rogue Drones - Impact: 14 HP: 12 Loot: +1, 50 Gold  |  
 | 6 | Resources | Ancient supply cache, refresh your rations. |  
