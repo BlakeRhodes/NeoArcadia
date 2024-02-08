@@ -5,7 +5,7 @@ share: "true"
 ![shrouded-grove](../shrouded-grove.png)  
 # 0201 - Forest - The Shrouded Grove  
   
-In the Shrouded Grove, not only do shadows move with eerie autonomy, but it's also the final resting place for piles of bizarrely mutated creatures, their forms twisted and grotesque.  
+*In the Shrouded Grove, not only do shadows move with eerie autonomy, but it's also the final resting place for piles of bizarrely mutated creatures, their forms twisted and grotesque.*
   
 Forage: 8  
 Scout: 9  

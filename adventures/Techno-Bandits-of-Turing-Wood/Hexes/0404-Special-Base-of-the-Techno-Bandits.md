@@ -33,3 +33,6 @@ If the party defeats the Techno Bandit Warlord they receive
   
 - The Party Completes Quest: Stop the Techno Bandits  
 - Vehicle: Wind Racer - When party plans to move from a Mountain Hex, they may make one Free Move if they move to a non Mountain Hex. Looks like this device is not complete yet, it could do more . . .  
+
+
+Respawn: 10
