@@ -6,11 +6,11 @@ share: "true"
   
 # DC0402 - Special - Behold, the Archive  
   
-*The Archive, nestled in the heart of the Ancient Data Center, is a realm of ethereal splendor, a sanctum where the venerable Ancient Data Slates repose in serene dignity. This hallowed chamber, bathed in the soft, radiant glow of the noosphere, is a tapestry woven from the very essence of knowledge and beauty, accessible to all who tread its sacred ground.*  
+*The Archive, nestled in the heart of the Ancient Data Center, is a realm of ethereal splendor, a sanctum where the venerable Ancient Data Slates repose in serene dignity. This hallowed chamber, bathed in the soft, radiant glow of the Noosphere, is a tapestry woven from the very essence of knowledge and beauty, accessible to all who tread its sacred ground.*  
   
 *In this luminous expanse, digital life flourishes in whimsical harmony; vivid pictographs adorn the air like celestial graffiti, while digital cats perch contentedly on miniature stools, and joyous doggos frolic in pursuit of ever-bouncing digital balls. The AI denizens, embodiment of curiosity and grace, glide through this dreamscape, their forms a blend of light and intention, radiating a friendly yet perplexed aura at the presence of humans in their midst.*  
   
-*The AI leader, a figure of sublime wisdom and serene authority, approaches the adventuring party. With a voice that resonates like a melody across data streams, they extend a welcome as boundless as the Archive itself: "Noble travelers, you stand within the Archive. Here, in the embrace of the noosphere, may your time be filled with enlightenment amidst light, and companionship amidst circuits. We, the guardians of this realm, greet you with open circuits and curious minds, eager to learn from your journey as much as we are inclined to share the wonders of our own digital existence. How can I help you today?"*  
+*The AI leader, a figure of sublime wisdom and serene authority, approaches the adventuring party. With a voice that resonates like a melody across data streams, they extend a welcome as boundless as the Archive itself: "Noble travelers, you stand within the Archive. Here, in the embrace of the Noosphere, may your time be filled with enlightenment amidst light, and companionship amidst circuits. We, the guardians of this realm, greet you with open circuits and curious minds, eager to learn from your journey as much as we are inclined to share the wonders of our own digital existence. Truly, seeing humans after such a long time is, unexpected. How can I help you today?"*  
   
 Forage: Impossible  
 Scout: 6  
