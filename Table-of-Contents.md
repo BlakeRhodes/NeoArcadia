@@ -40,6 +40,7 @@ share: "true"
 - ### [The Crisis!](The-Crisis.html)  
 - ### [Crisis! Party Dynamics](./Crisis!-Party-Dynamics.html)  
 - ### [Crisis Events](./crisis/Crisis-Events.html)
+
 ## [Civic Projects](./Civic-Projects.html)    
 
 ## [Terrain Types](./Terrain-Types.html)    
