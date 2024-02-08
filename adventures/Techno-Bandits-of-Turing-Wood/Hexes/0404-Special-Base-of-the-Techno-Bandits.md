@@ -24,9 +24,9 @@ The Techno Bandits are a flurry of activity, harnessing the power of a pre-catac
   
 **Special Encounter - Invade the Base!**  
   
-- Make a Scouting Roll, you may add that to the Party Impact  
-- If you have Ancient Data Slates add +5 to the Party Impact  
-- If you have the information "My Secret Plans, Do Not Share" add +3 to the Party Impact  
+- Make a Scouting Roll, you may add the degree of success your CM  
+- If you have Ancient Data Slates add +5 CM  
+- If you have the information "My Secret Plans, Do Not Share" add +3 CM  
 - Combat: Techno Bandit Warlord Impact: 20 HP: 30 Loot: Special  
   
 If the party defeats the Techno Bandit Warlord they receive   
