@@ -6,7 +6,7 @@ share: "true"
   
 # 0107 - Swamp - Ruins of Echofall  
   
-In this vast swamp, the air is filled with a symphony of life — the chorus of frogs, the buzz of insects, and the distant calls of hidden creatures — all resonating above the subtle, dissonant gurgles and echoes from the decaying waste processing plants. These sounds mingle eerily, creating a haunting acoustic tapestry that tells a story of nature's resilience overshadowed by the remnants of a once-polluting past.  
+*In this vast swamp, the air is filled with a symphony of life — the chorus of frogs, the buzz of insects, and the distant calls of hidden creatures — all resonating above the subtle, dissonant gurgles and echoes from the decaying waste processing plants. These sounds mingle eerily, creating a haunting acoustic tapestry that tells a story of nature's resilience overshadowed by the remnants of a once-polluting past.*
   
 Forage: 8  
 Scout: 7  
