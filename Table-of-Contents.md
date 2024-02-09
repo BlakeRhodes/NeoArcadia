@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-
 # Table of Contents
     
 ## [Introduction](./index.html)    
@@ -10,7 +9,7 @@ share: "true"
     
 - ### [Setup Environment](./Environment-System.html)    
   - #### [Environment Turn](./Environment-Turn.html)
-  - #### [Adventure Packs](Adventure-Packs.html)
+  - #### [Adventure Packs](./adventures/Adventure-Packs.html)
  
 ## Turn Sequence
 
