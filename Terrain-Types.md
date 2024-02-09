@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-
 # Terrain Types    
     
 - [Desert](./Desert.html)
