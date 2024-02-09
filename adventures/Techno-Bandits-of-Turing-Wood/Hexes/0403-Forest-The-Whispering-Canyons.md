@@ -6,7 +6,7 @@ share: "true"
   
 # 0403 - Forest - The Whispering Canyons  
   
-Upon reaching the Whispering Canyons, explorers find only silence, the promised ghostly melodies mere fabrications of hopeful imaginations, with no hidden cave or luminescent crystals in sight. The canyons, though grand in their natural beauty, hold a disappointing emptiness, devoid of the mystical allure that the rumors had so vividly painted.  
+*Upon reaching the Whispering Canyons, explorers find only silence, the promised ghostly melodies mere fabrications of hopeful imaginations, with no hidden cave or luminescent crystals in sight. The canyons, though grand in their natural beauty, hold a disappointing emptiness, devoid of the mystical allure that the rumors had so vividly painted.*
   
 Forage: 8  
 Scout: 9  
