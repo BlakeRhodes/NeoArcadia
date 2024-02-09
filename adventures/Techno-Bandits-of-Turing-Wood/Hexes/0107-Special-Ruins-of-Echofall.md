@@ -10,16 +10,16 @@ share: "true"
   
 Forage: 8  
 Scout: 7  
-  
-| Roll | Encounter Type | Description |  
-| ---- | ---- | ---- |  
-| 1 | Quickslime Trap | The party members must spend 1 RP to avoid or take 2 damage. |  
-| 2 | Toxic Fumes | If not chosen by scouting modifier, party members suffers 1 Stamina loss. |  
-| 3 | Resources | If chosen by scouting modifier find 1d6 medicinal herbs or 1d6 gems |  
-| 4 | Combat | Giant Swamp Bugs - Impact: 12 HP: 10 Loot: +1, 25 Gold |  
-| 5 | Combat | Rogue Drones - Impact: 14 HP: 12 Loot: +1, 50 Gold  |  
-| 6 | Resources | Ancient supply cache, refresh your rations. |  
-  
+
+| Roll | Encounter Type | Description |
+| ---- | ---- | ---- |
+| 1 | Trap | **Quickslime Trap**: A deceptively deadly trap, hidden beneath the surface. As party members step unknowingly, they must act swiftly, spending 1 RP to evade or suffer 2 damage from the ensnaring slime. |
+| 2 | Hazard | **Toxic Fumes**: Emanating from unseen vents in the ground, these noxious gases catch the unwary by surprise. If not chosen by scouting modifier, the party loses 1 SP, struggling to breathe. |
+| 3 | Resources | **Bountiful Find**: In the midst of peril, a glimmer of hope. If chosen by scouting modifier, find 1d6 medicinal herbs to heal wounds or 1d6 gems to fund further adventures. |
+| 4 | Combat | **Giant Swamp Bugs**: Lurking within the mire, these colossal insects attack with surprising force. Engage in battle against these formidable foes. **Impact: 12, HP: 10, Loot: +1, 25 Gold** |
+| 5 | Combat | **Rogue Drones**: Stray from their original commands, these mechanized adversaries present an unexpected challenge. **Impact: 14, HP: 12, Loot: +1, 50 Gold** |
+| 6 | BUGS! | Bugs get into your supplies. Expend one Ration. |
+
 **Special Encounter - Ancient Grudges Never Die**  
   
 The event only triggers if the current Calendar is a Full Moon  

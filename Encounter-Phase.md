@@ -24,7 +24,11 @@ Combat is common as the Ancient Future is a dangerous place. Use the [Combat Sys
 ## Step 3: Special Encounters    
     
 Some hexes have Special Encounters, these are encounters unique to the hex and have their own rules for resolution as recorded on the Hex Sheet. This means on these hexes the party could have two encounter, a regular one, and a special one.
-    
+
+#### Special Rule - Respawn
+
+- If an encounter has a Respawn value, when the encounter is completed note the date it will respawn. This is a number of days later equal to the respawn value. Until that date this encounter does not trigger.
+   
 Next: [Recover Phase](./Recover-Phase.html)    
     
 [Table of Contents](./Table-of-Contents.html)
