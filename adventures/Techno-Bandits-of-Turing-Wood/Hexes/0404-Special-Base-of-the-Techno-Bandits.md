@@ -6,7 +6,7 @@ share: "true"
   
 # 0404- Special - Base of the Techno Bandits  
   
-The Techno Bandits are a flurry of activity, harnessing the power of a pre-cataclysm weapon that grants them mastery over machinery. Amidst the high-altitude chill, they industriously assemble a daunting flying machine, its metallic wings gleaming against the stark mountain backdrop, poised to conquer the skies with newfound, fearsome capability.  
+*The Techno Bandits are a flurry of activity, harnessing the power of a pre-cataclysm weapon that grants them mastery over machinery. Amidst the high-altitude chill, they industriously assemble a daunting flying machine, its metallic wings gleaming against the stark mountain backdrop, poised to conquer the skies with newfound, fearsome capability.*
   
 **Forage:** 4  
 **Scout:** 9  

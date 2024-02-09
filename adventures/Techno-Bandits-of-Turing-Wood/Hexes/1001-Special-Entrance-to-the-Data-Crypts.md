@@ -6,7 +6,7 @@ share: "true"
   
 # 1001- Special - Entrance to the Data Crypts  
   
-In the heart of the treacherous Desert of Mirrors, a barely discernible entrance emerges amongst the ever-shifting sands, leading to a forgotten crypt rumored to hold ancient data slates. This hidden portal, camouflaged by reflective sand dunes and mirage-like distortions, beckons the brave with promises of long-lost knowledge, potentially powerful enough to alter the very fabric of power in the realm.  
+*In the heart of the treacherous Desert of Mirrors, a barely discernible entrance emerges amongst the ever-shifting sands, leading to a forgotten crypt rumored to hold ancient data slates. This hidden portal, camouflaged by reflective sand dunes and mirage-like distortions, beckons the brave with promises of long-lost knowledge, potentially powerful enough to alter the very fabric of power in the realm.*
   
 **Forage:** 12  
 **Scout:** 12  

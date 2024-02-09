@@ -6,7 +6,7 @@ share: "true"
   
 # 1004 - Forest - Heart of the Iron Wood  
   
-In the Ironwood Forest, the trees are not only alive but lethally sharp, their metallic leaves glinting like blades in the dappled sunlight, ready to slice through flesh and bone with a mere touch. As adventurers approach the forest's ancient heart, the largest tree, pulsing with biomechanical energy, unexpectedly poses a deep, resonant question about the nature of existence and the essence of free will.  
+*In the Ironwood Forest, the trees are not only alive but lethally sharp, their metallic leaves glinting like blades in the dappled sunlight, ready to slice through flesh and bone with a mere touch. As adventurers approach the forest's ancient heart, the largest tree, pulsing with biomechanical energy, unexpectedly poses a deep, resonant question about the nature of existence and the essence of free will.*
   
 Forage: 8  
 Scout: 9  
