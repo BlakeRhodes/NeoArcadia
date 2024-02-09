@@ -10,16 +10,16 @@ Upon reaching the Whispering Canyons, explorers find only silence, the promised 
   
 Forage: 8  
 Scout: 9  
-  
-| Roll | Encounter Type | Description |  
-| ---- | ---- | ---- |  
-| 1 | Resources | Gain Information: Learn the Art of the Con  |  
-| 2 | Poison Plant Pollen | If not chosen by scouting modifier, party members takes 2 damage. |  
-| 3 | Resources | If chosen by scouting modifier find 1 gem, 6 ale, and 2 Herbs |  
-| 4 | Combat | Cyber Monkey Ambush - Impact: 15  HP: 1 Loot: +1, 50 Gold |  
-| 5 | Combat | Bandits Ambush - Impact: 10 HP: 15 Loot: +2, 50 Gold |  
-| 6 | Phenomenon | Eerie quiet, party loses 1 WP |  
-  
+
+| Roll | Encounter Type | Description |
+| ---- | ---- | ---- |
+| 1 | Resources | **Gain Information**: Learn the Art of the Con |
+| 2 | Hazard | **Poison Plant Pollen**: Danger masquerades as beauty when the party encounters plants that release a lethal pollen. Lacking a scout's foresight, each member suffers 2 damage, a harsh reminder of nature's hidden threats. |
+| 3 | Resources | **Scout's Bounty**: If chosen by scouting modifier find 1 gem, 6 ale , and 2 medicinal herb. |
+| 4 | Combat | **Cyber Monkey Ambush**: An unexpected confrontation with cybernetically enhanced monkeys poses a significant threat. **Impact: 15  HP: 1 Loot: +1, 50 Gold** |
+| 5 | Combat | **Bandits Ambush**: The journey's silence is abruptly broken by a bandit ambush. **Impact: 10 HP: 15 Loot: +2, 50 Gold** |
+| 6 | Phenomenon | **Eerie Silence**: A disturbing calm descends upon the party, draining their resolve. Party loses 1 WP, facing the psychological toll of an oppressive, unexplained silence. |
+
 **Special Encounter - False Rumors**  
   
 The rumor was false, who started this rumor anyway?  
