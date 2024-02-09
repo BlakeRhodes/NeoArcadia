@@ -6,7 +6,7 @@ share: "true"
   
 # 0707 - Wilderness - The Crimson Wastes  
   
-In the desolate expanse of the Crimson Wastes, the rumored colossal war machine is nowhere to be found, its existence merely a mirage created by the relentless, shimmering heat waves. Instead of mysterious, glowing runes and dormant metal, explorers are met with nothing but the endless, barren sands, their hopes of discovery buried as deep as the fabled machine itself.  
+*In the desolate expanse of the Crimson Wastes, the rumored colossal war machine is nowhere to be found, its existence merely a mirage created by the relentless, shimmering heat waves. Instead of mysterious, glowing runes and dormant metal, explorers are met with nothing but the endless, barren sands, their hopes of discovery buried as deep as the fabled machine itself.*
   
 Forage: 9  
 Scout: 8  
