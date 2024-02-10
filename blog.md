@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-
 # Developer's Blog   
 
 ## 09-02-2024 Lore and More
