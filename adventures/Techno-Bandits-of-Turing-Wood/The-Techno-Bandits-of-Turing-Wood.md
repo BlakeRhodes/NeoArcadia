@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-
 ![cover](./cover.png)  
   
 # Techno Bandits of the Turing Woods  

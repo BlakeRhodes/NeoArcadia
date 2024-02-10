@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-
 ![adventure-packs](../adventure-packs.png)
 # Adventure Packs
 

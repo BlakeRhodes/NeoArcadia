@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-
 ![golden-fields](../../../golden-fields.png)  
 # 0106 - Farmland -  Golden Fields  
   

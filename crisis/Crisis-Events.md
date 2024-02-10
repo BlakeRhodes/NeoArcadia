@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-
 ![skycaptain-crisis](../skycaptain-crisis.png)
 # Crisis Events
 

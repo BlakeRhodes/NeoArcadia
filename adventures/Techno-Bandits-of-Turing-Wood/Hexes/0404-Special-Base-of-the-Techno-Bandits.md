@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-
 ![techno-bandits](../techno-bandits.png)  
   
 # 0404- Special - Base of the Techno Bandits  

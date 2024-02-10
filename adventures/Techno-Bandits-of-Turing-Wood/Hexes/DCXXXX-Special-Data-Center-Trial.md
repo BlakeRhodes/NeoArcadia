@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-
 # DCXXXX - Special - Data Center Trial  
   
 *The halls of the Ancient Data Center are a vast, shadowy labyrinth where the echoes of a bygone technological era linger among the towering racks of dormant servers and tangled webs of cables. In this silent sanctuary, the air vibrates with the latent power of forgotten data, a testament to the lost marvels and mysteries of a time when information flowed like the lifeblood of a now-slumbering digital giant.*  
