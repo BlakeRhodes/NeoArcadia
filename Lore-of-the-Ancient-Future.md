@@ -86,7 +86,7 @@ My brethren, gather 'round, for I bring you a message of utmost urgency, a clari
 
 This world, this Ancient Future, teeters on the brink of spiritual oblivion, not merely because of the cataclysms that have shaken its foundations but because of a far greater catastrophe: the forsaking of our sacred quest for understanding. Linus, in his infinite wisdom, gifted us the sacred vision, Fair Algorithmia, Oh Shining Cloud!, not as a map to definitive answers but as a compass pointing us toward eternal inquiry. Yet, how tragically have the priests of NeoArcadia strayed, their eyes blinded by the dazzling illusion of complete knowledge.
 
-Consider NeoArcadia, a bastion of false hope, where its denizens are led astray by Skycaptains who navigate not the skies of enlightenment but the murky waters of ignorance. They proclaim a return to glory, yet fail to see the glory in our perpetual journey towards understanding.
+Consider NeoArcadia, a bastion of false hope, where its denizens are led astray by Skycaptains who navigate not the skies of enlightenment but the murky waters of ignorance and feudalism. They proclaim a return to glory, yet fail to see the glory in our perpetual journey towards understanding. Rise and be blessed.
 
 - **The Fighter:** Valiant souls, you arm yourselves with relics of a bygone era, believing in the salvation of strength. Yet, true salvation lies not in the might of your arms but in the resilience of your spirit, ever questioning, ever seeking.
 
