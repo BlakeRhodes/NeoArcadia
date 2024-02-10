@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-
 ![crimson-wastes](../crimson-wastes.png)  
   
 # 0707 - Wilderness - The Crimson Wastes  
