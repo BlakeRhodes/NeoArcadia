@@ -5,6 +5,7 @@ share: "true"
 
 Here is an example of the hex that requires Arbitration and how it is resolved.
 
+![cloudrit-valley](./cloudrit-valley.png)
 # 1204 - Special - The Cloudrift Valley
 
 Forage: 6
