@@ -8,15 +8,13 @@ In the depths of NeoArcadia, a tremor passes through the land – a sign that th
   
 ## Overview of the Crisis! Event: Leviathan Awakes  
   
-- **The Wager:** The awakening of the Leviathan comes with the destruction of one Trading Post, a valuable resource hub for adventurers. Parties wager the outpost against the potential rewards of subduing the Braying-Leviathan. Choose a hex with an outpost and remove the outpost and place the Braying-Leviathan and reveal the Special Encounter sheet for it.  
+- **The Wager:** The awakening of the Leviathan comes with the destruction of one Trading Post, a valuable resource hub for adventurers. Players wager the outpost against the potential rewards of subduing the Braying-Leviathan. Choose a hex with an Trading Post and remove the Trading Post and place the Braying-Leviathan on that hex. Then reveal the Special Encounter sheet for it.  
   
 - **Rumors abound:** Shuffle the rumors for this crisis and draw one per player. Then shuffle the remaining rumors into the Rumor Deck.  
   
 - **Update Hex Sheets**: Add the hex sheets to the binder. Add to the General Goods at NeoArcadia quickfire. It sells for 50 gold per liter.  
   
-- **Initial Threat:** The Braying-Leviathan's awakening is marked by a powerful bray that echoes through the surrounding hexes, parties within two hexes of the Leviathan at the beginning of the crisis lose 1 WP. Parties that are with in one hex of the Leviathan at the beginning of the Environment turn lose 1 WP.  
-  
-- **Leviathan's Presence:** The Braying-Leviathan manifests at the location of the destroyed trading post, becoming a formidable presence on the map that demands immediate attention.  
+- **Initial Threat:** The Braying-Leviathan's awakening is marked by a powerful bray that echoes through the surrounding hexes, parties within two hexes of the Leviathan at the beginning of the crisis lose 1 WP. Parties that are with in one hex of the Leviathan at the beginning of the Environment turn lose 1 WP on their next turn.  
   
 ## Rules for the Leviathan  
   
@@ -55,19 +53,19 @@ In addition one of the following must have occurred.
 - Ally with the Techno Bandits?  
 - Discover the Ancient Data Slates  
 - Receive the Blessing of Linus  
-  
-Finally, the parties must overcome 4 of the encounters on the Presence of the Leviathan table.  
+
+Once the parties have done this the final confrontation begins. To end the crisis the parties must overcome 4 of the encounters on the Presence of the Leviathan table.  
      
 3. **Resolution:** The climax of the Crisis! event is the final confrontation with the Braying-Leviathan. Parties must use all their resources, skills, and strategic insight to subdue the beast. The outcome of this confrontation determines the resolution of the crisis, with significant implications for the future of NeoArcadia.  
 - Remove the Leviathan from play, remove the Crisis! Rumors from the rumor deck.  
   
-5. **Reward:** These rewards are harvested from the Origin of the Leviathan or harvested from the beasts mechanical body.  
--  40 Timber: For the structure's basic framework, offering a rustic charm.    
-- 10 Cloth: To provide cover and warmth, creating a welcoming atmosphere for traders.    
-- 24 Plastic: Utilized in crafting durable storage units and counters.    
-- 18 Spices: A symbol of the variety and richness of goods offered, attracting traders from far and wide.    
-  - 2 Ancient Tech per Surviving Character  
-  - Complete Quest: Nap Time for the Big Boi +2 Reputation  
+4. **Reward:** These rewards are harvested from the Origin of the Leviathan or harvested from the beasts mechanical body.  
+-  40 Timber
+- 10 Cloth
+- 24 Plastic
+- 18 Spices    
+- 2 Ancient Tech per Surviving Character  
+- Complete Quest: Nap Time for the Big Boi +2 Reputation  
 - 2000 Gold from the Skycaptain + 500 per Character lost.  
   
 [Crisis Table of Contents](./Table-of-Contents.html)  
