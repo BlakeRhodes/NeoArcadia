@@ -21,7 +21,7 @@ Move the party marker to the destination hex.
     
 ## Step 3: Begin Construction    
     
-The party may begin construction on a [Civil Project](./Civil-Project.html).     
+The party may begin construction on a [Civic Project](./Civic-Projects.html).     
     
 ### Special Rule - Lay Low    
     
