@@ -8,7 +8,7 @@ share: "true"
     
 # Wilderness    
     
-Forage: 9    
+Forage: 7    
 Scout: 8    
 
 | Roll | Encounter Type | Description |
@@ -16,8 +16,8 @@ Scout: 8
 | 1 | Navigation | **Misdirection**: The party faces the threat of disorientation in unfamiliar territory. Spend 1 R of they find themselves Lost. |
 | 2 | Hazard | **Thorn Brush Encounter**: Venturing through dense vegetation leads to an unexpected encounter with a thorn brush. If not chosen by scouting modifier, the party suffers 1 damage from the sharp, hidden thorns. |
 | 3 | Supernatural | **Night Screams**: The eerie howling of rogue AI disrupts the night, a chilling reminder of technology gone awry. The haunting voices penetrate the psyche of each party member, resulting in the loss of 1 WP. |
-| 4 | Combat | **Wolves Confrontation**: The party is challenged by a pack of wolves, ferocious in their natural habitat. **Impact: 14 HP: 5 Loot: 0** |
-| 5 | Combat | **Bandits Ambush**: An ambush by bandits tests the party's readiness and combat skills. **Impact: 15 HP: 15 Loot: +2, 50 Gold** |
+| 4 | Combat | **Ambushed by Wolves**: The party is challenged by a pack of wolves, ferocious in their natural habitat. **Impact: 10 HP: 5 Loot: 0** |
+| 5 | Combat | **Bandits**: An ambush by bandits tests the party's readiness and combat skills. **Impact: 10 HP: 15 Loot: +2, 50 Gold** |
 | 6 | BUGS! | Bugs get into your supplies. Expend one Ration. |
 
 [Terrain Types](./Terrain-Types.html)    
