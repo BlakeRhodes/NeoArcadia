@@ -18,7 +18,7 @@ Today, NeoArcadia shines as a vibrant hub, a testament to the enduring human spi
 **Scout:** -    
     
 Markets:    
-[Trade Goods Market](./Trade%Goods-Market.html)    
+[Trade Goods Market](./Trade-Goods-Market.html)    
 [Flea Market](./Flea-Market.html)    
 [General Goods](./General-Goods.html)    
     
