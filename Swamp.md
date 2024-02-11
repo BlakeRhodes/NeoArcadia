@@ -16,8 +16,8 @@ Scout: 8
 | 1 | Trap | **Quickslime Trap Encounter**: A seemingly harmless path reveals its danger as a quickslime trap ensnares the unwary. The Party is faced with a choice: expend 1 SP to carefully navigate through or suffer 2 damage from the ensnaring slime's grasp. |
 | 2 | Hazard | **Toxic Fumes Peril**: The air turns treacherous with the release of toxic fumes. If not chosen by scouting modifier, party member breathes in the harmful air, losing 1 SP. |
 | 3 | Resources | **Fortuitous Find**: If chosen by scouting modifier, the party discovers either 4 medicinal herbs and 1d6 gems. |
-| 4 | Combat | **Giant Swamp Bugs Threat**: The marshlands reveal their hidden defenders as Giant Swamp Bugs emerge to challenge the party. **Impact: 12 HP: 10 Loot: +1, 25 Gold** |
-| 5 | Combat | **Rogue Drones Confrontation**: The sky darkens with the threat of Rogue Drones, gone awry from their original programming. **Impact: 14 HP: 12 Loot: +1, 50 Gold** |
+| 4 | Combat | **Giant Swamp Bugs**: The marshlands reveal their hidden defenders as Giant Swamp Bugs emerge to challenge the party. **Impact: 10 HP: 10 Loot: +1, 25 Gold** |
+| 5 | Combat | **Rogue Drones Confrontation**: The sky darkens with the threat of Rogue Drones, gone awry from their original programming. **Impact: 10 HP: 12 Loot: +1, 50 Gold** |
 | 6 | Discovery | **Ancient Machinery Revelation**: Amidst their travels, the party uncovers an ancient water purifier, a relic of past civilizations. This discovery allows them to refresh their rations, providing a vital resource for their journey. |
 
 [Terrain Types](./Terrain-Types.html)    
