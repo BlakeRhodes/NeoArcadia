@@ -7,8 +7,8 @@ share: "true"
     
 # Ruined Cityscape    
     
-Forage: 8    
-Scout: 14    
+Forage: 7    
+Scout: 12    
 
 | Roll | Encounter Type | Description |    
 | ---- | ---- | ---- |    
