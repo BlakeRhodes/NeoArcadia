@@ -16,20 +16,20 @@ The first time this market is used, roll a 1d6 to determine the current market t
 |--------------------------|------------------------|    
 | 2 Timber                 | 3 Grain                |    
 | 4 Iron Ore               | 1 Silk                 |    
-| 2 Salt                   | 1 Glass                |    
+| 2 Salt                   | 1 Gem                |    
 | 3 Cloth                  | 2 Spices               |    
 | 1 Reagents               | 2 Ale                  |    
 | 5 Grain                  | 1 Plastic              |    
 | 1 Circuitry              | 3 Salt                 |    
 | 2 Ale                    | 2 Cloth                |    
 | 1 Spices                 | 4 Glass                |    
-| 2 Iron Ore               | 1 Reagents             |    
-    
+| 2 Gem               | 1 Reagents             |    
+
 ### Table 2    
-    
+   
 | Trade Goods Offered      | Trade Goods Requested        |    
 |--------------------------|------------------------------|    
-| 3 Salt                   | 1 Circuitry                  |    
+| 3 Salt                   | 1 Gem                  |    
 | 1 Glass                  | 3 Iron Ore                   |    
 | 2 Timber                 | 4 Grain                      |    
 | 4 Cloth                  | 1 Spices + 1 Reagents        |    
@@ -47,7 +47,7 @@ The first time this market is used, roll a 1d6 to determine the current market t
 | 4 Grain                  | 2 Silk                       |    
 | 2 Cloth                  | 1 Glass + 1 Salt             |    
 | 3 Iron Ore               | 2 Reagents                   |    
-| 1 Timber                 | 4 Ale                        |    
+| 1 Timber                 | 1 Gem                        |    
 | 2 Spices                 | 3 Plastic                    |    
 | 1 Silk                   | 5 Grain                      |    
 | 3 Ale                    | 1 Iron Ore + 1 Circuitry     |    
@@ -61,14 +61,14 @@ The first time this market is used, roll a 1d6 to determine the current market t
 |--------------------------|------------------------------|    
 | 5 Ale                    | 2 Timber + 1 Circuitry       |    
 | 2 Salt                   | 3 Grain                      |    
-| 1 Cloth                  | 4 Spices                     |    
+| 1 Gem                  | 4 Spices                     |    
 | 3 Iron Ore               | 1 Silk                       |    
 | 4 Grain                  | 1 Glass                      |    
 | 1 Timber                 | 3 Plastic                    |    
 | 2 Silk                   | 3 Cloth                      |    
 | 1 Spices                 | 5 Circuitry                  |    
 | 3 Reagents               | 2 Iron Ore                   |    
-| 1 Glass                  | 4 Cloth                      |    
+| 1 Glass                  | 1 Gem                      |    
     
 ### Table 5    
     
@@ -78,7 +78,7 @@ The first time this market is used, roll a 1d6 to determine the current market t
 | 4 Iron Ore               | 2 Glass                      |    
 | 1 Timber                 | 3 Salt                       |    
 | 2 Salt                   | 4 Ale                        |    
-| 5 Grain                  | 1 Spices                     |    
+| 1 Gem                  | 4  Spices                     |    
 | 1 Silk                   | 3 Iron Ore                   |    
 | 2 Ale                    | 1 Plastic + 2 Cloth          |    
 | 1 Spices                 | 5 Grain + 1 Reagents         |    
@@ -90,7 +90,7 @@ The first time this market is used, roll a 1d6 to determine the current market t
 | Trade Goods Offered      | Trade Goods Requested        |    
 |--------------------------|------------------------------|    
 | 2 Iron Ore               | 1 Cloth + 1 Ale              |    
-| 3 Grain                  | 2 Salt                       |    
+| 1 Gem                  | 2 Salt                       |    
 | 1 Silk                   | 4 Iron Ore                   |    
 | 4 Salt                   | 1 Glass + 3 Spices           |    
 | 1 Cloth                  | 5 Grain                      |    
@@ -98,7 +98,7 @@ The first time this market is used, roll a 1d6 to determine the current market t
 | 1 Spices                 | 2 Silk + 1 Reagents          |    
 | 3 Reagents               | 1 Iron Ore + 2 Timber        |    
 | 1 Glass                  | 4 Cloth                      |    
-| 5 Grain                  | 2 Ale + 1 Plastic            |    
+| 5 Grain                  | 1 Gem + 1 Plastic            |    
     
     
 [Table of Contents](./Table-of-Contents.html)
