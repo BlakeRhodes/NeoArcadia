@@ -66,7 +66,6 @@ Embrace your deep-seated aversion to bugs, channeling it into a fierce combat pr
 Cultivate your stamina and endurance through meticulous energy management, allowing you to traverse the vast and treacherous landscapes of the Ancient Future with unwavering resilience.    
     
 - Increase Stamina by X    
-- You can take this multiple times    
     
 [Character Creation](./Character-Creation.html)    
     
