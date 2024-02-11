@@ -18,7 +18,7 @@ Previous: [Encounter Phase](./Encounter-Phase.html)
 Sometimes a run of bad luck results in a dead party, the Brutal Reality of the Ancient Future can not be understated. 
 - Record on the Hex Sheet the parties gear. 
 - When a party arrives on the hex, they may loot the bodies at the end of the Embark Phase.
-- 
+
 ## Step 2: Despair    
     
 - If the Party is at 0 WP, choose a character to despair.    
