@@ -8,7 +8,7 @@ share: "true"
     
 # Forest    
     
-Forage: 8    
+Forage: 6    
 Scout: 9    
 
 | Roll | Encounter Type | Description |    
@@ -17,7 +17,7 @@ Scout: 9
 | 2 | Hazard | **Poison Plant Pollen**: A cloud of toxic pollen from hidden plants ambushes the party. If not chosen by scouting modifier, party takes 1 damage. |    
 | 3 | Resources | **Fortunate Find**: If chosen by scouting modifier, the party uncovers a cache containing 1 gem, 6 ale, and 2 Medicinal Herbs.  |    
 | 4 | Combat | **Cyber Monkey Ambush**: Suddenly, cybernetically enhanced monkeys launch an attack. **Impact: 15, HP: 1, Loot: +1, 25 Gold** |    
-| 5 | Combat | **Bandits Ambush**: The journey is once again fraught with danger as bandits lie in wait. **Impact: 10, HP: 15, Loot: +2, 50 Gold** |    
+| 5 | Combat | **Bandits**: The journey is once again fraught with danger as bandits lie in wait. **Impact: 10, HP: 15, Loot: +2, 50 Gold** |    
 | 6 | Phenomenon | **Eerie Silence**: An unsettling calm descends, party loses 1 WP. This phenomenon challenges their mental resilience, forcing them to confront the psychological effects of their environment's oppressive silence. |
 
 [Terrain Types](./Terrain-Types.html)    
