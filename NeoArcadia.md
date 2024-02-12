@@ -21,25 +21,27 @@ Markets:
 [Trade Goods Market](./Trade-Goods-Market.html)    
 [Flea Market](./Flea-Market.html)    
 [General Goods](./General-Goods.html)    
-    
+
 **Special Encounter - Welcome Home**    
-    
+   
 - Parties returning to this Hex restore all stats except Luck    
-    
+   
 **Special Encounter - Hit the Town**    
-    
+   
 Characters may choose 2 of these options    
 - Get Lucky - Spend 2 Ale to roll 1d6, on six regain one luck. You may do this any number of times, each time doubling the amount of Ale consumed.    
-- Visit the [Techstitcher](./Techstitcher.html) - Trade Ancient Tech for PP    
+- Visit the [Techstitcher](./Techstitcher.html) - Trade Ancient Tech for PP
+- Visit the [Corpsegrinder](Corpsegrinder.md#) - Trade one corpse for 2/3 the PP (round down) invested in their skills. 
+- Recruit - Spend 5 PP to add a character to your party, max 6.
 - Gamble - Spend 1 Luck roll 1d6 and consult the table    
-    
+   
 | Roll | Result |    
 | ---- | ---- |    
 | 1 | You get nothing. |    
 | 2 | You get nothing |    
 | 3 | You get nothing |    
 | 4 | Regain 1 Luck |    
-| 5 | Win 50g |    
+| 5 | Win 500 Gold |    
 | 6 | Gain 1 PP |    
     
 [Table of Contents](./Table-of-Contents.html)
