@@ -55,12 +55,13 @@ Our party consists of four members: a Fighter, a Rogue, a Priest, and a Hunter.
     
 ### Step 6: Loot Collection    
     
-- Loot Roll: 1d6 (rolled a 3) + Loot (assume +2) - 4 = 1    
-- The party gets 1 Loot Die to use on the Loot Table.    
+- Loot Roll: 1d6 (rolled a 3) + Loot (assume +2) - 2 = 3    
+- The party gets 3 Loot Die to use on the Loot Table.    
     
 ### Loot Acquisition    
     
-- The party rolls the Loot Die (rolled a 4) and consults the Loot Table to collect their rewards.    
+- The party rolls one Loot Die (rolled a 4) and consults the Loot Table to collect their rewards.    
+- The party rolls two Loot Dice (rolled a 7) and consults the Loot Table to collect their rewards.
     
 ### Conclusion    
     
