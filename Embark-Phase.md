@@ -13,7 +13,7 @@ Scouting allows the party to assess their destination and better control their e
 - **Scouting Roll:** Roll 2d6 against the hex's Scout Difficulty.    
 - Some characters, such as [Scouts](./Scouts.html), may modify this roll with their skills.    
 - **Scouting Bonus:** Roll - Scout Difficulty.    
-- If the Scouting Bonus is positive, the scouting is successful, and the party may use this bonus when rolling for encounters.    
+- If the the scouting is successful, and the party may use this bonus when rolling for encounters. While a bonus of zero does not allow for additional choices, it still avoids encounters that can be bypassed by being choosen.
     
 ## Step 2: Arrive    
     

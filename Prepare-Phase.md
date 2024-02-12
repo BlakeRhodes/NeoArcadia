@@ -36,7 +36,7 @@ Parties can trade at any [Market](./Market.html) available in their current hex.
     
 ### Special Rule: Ale is Always a Good Investment    
     
-Parties can always purchase Ale at a market. This is a great way to break into the market.    
+Parties can always purchase or sell Ale at a market.    
 - Buy Price: 2 gold for 6 Ale    
 - Sell Price: 5 Ale for 2 gold (as one is typically consumed)    
     
@@ -47,16 +47,14 @@ If a player exploits a trade loop yielding more resources than initially held, r
 ## Step 5. Character Abilities and Spreading Rumors    
     
 Characters with abilities applicable in the Prepare Phase may use them now, in any order the player chooses.    
-    
-Parties wishing to spread rumors can leave their rumor cards face-up for other players to read. If the rumor deck is empty, shuffle the current rumors that have been spread into the rumor deck before posting new ones. Otherwise shuffle your rumors back into the rumor deck for others to read. You may write down what you want from the rumor before shuffling them back in.  
-    
+        
 ## Step 6: Forage    
     
 The party can gather food and water from their current location before traveling to the next hex. If not they will have to dip into their limited and ever dwindling supplies.    
     
 - **Forage Roll** 2d6 - Forage Difficulty.    
-- If roll is at least one, the party finds enough resources.    
-- Otherwise the party must consume one ration or lose 1 stamina.    
+- If the party is successful, the party finds enough resources.    
+- Otherwise the party must consume one ration or lose 2 stamina.    
     
 Next: [Embark Phase](./Embark-Phase.html)    
     
