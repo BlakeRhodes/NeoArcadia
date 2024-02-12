@@ -37,7 +37,7 @@ The combat revolves around a 2d6 roll, influenced by each party member's combat 
     
 If an encounter provides a Loot number, then the party can get some loot.    
     
-- Loot Roll: Roll 1d6 - 4 + Loot Bonus    
+- Loot Roll: Roll 1d6 - 2 + Loot Bonus    
 - This is the number of Loot Dice the Party Receives    
     
 ### Special Rule: Strip It Bare    
