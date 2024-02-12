@@ -10,13 +10,15 @@ In the ancient future, structures are not just physical constructions but embodi
     
 To build a Civic Project, a party must gather the required resources and bring them to the hex. Additionally, if the Civic Project involves constructing a building, the party must clear the hex before construction can begin. The standard construction process involves the following steps:    
     
-1. **Scout**: The party must successfully scout the hex where they wish to build the Civic Project.    
+1. **Scout**: The party must successfully scout the hex where they wish to build the Civic Project.
        
-2. **Encounter Resolution**: The party must confront and resolve all encounters in the hex to clear the area for building. The party may choose the order that they resolve the encounters. This step ensures the safety and security of the construction site.    
+2. **Encounter Resolution**: The party must confront all the regular encounters in the hex to clear the area for building. The party may choose the order that they resolve the encounters and do not have defeat combat encounters, just face them. This step ensures the safety and security of the construction site.
+
+3. Hexes with special encounters may not be built upon.
     
-3. **Resource Allocation**: The party must use all the gathered resources needed to construct the Project.    
+4. **Resource Allocation**: The party must use all the gathered resources needed to construct the Project.    
     
-4. **Construction Complete**: Once the construction is finished, the party updates the hex sheet with the new Project and removes the encounter table, signifying the completion of the construction.    
+5. **Construction Complete**: Once the construction is finished, the party updates the hex sheet with the new Project and removes the encounter table, signifying the completion of the construction.    
     
 #### Special Rule - Pooling Resources    
     
@@ -42,7 +44,7 @@ The pooling of resources and cooperative effort can lead to the successful compl
     
 **Function**: Grants a bonus of +1 when scouting the hex and +1 when foraging the hex, as the beacon's energy sharpens the senses and reveals the subtle secrets of the land.    
     
-### Trading Post    
+### Trading Post - Building
     
 **Description**: The Trading Post is a bustling hub of commerce, where ambitious traders meet to trade exotic goods and mundane necessities. The Trading Post is more than a mere shop; it's a crossroads of civilizations, where every transaction tells a story.    
     
@@ -53,7 +55,7 @@ The pooling of resources and cooperative effort can lead to the successful compl
 - 4 Plastic: Utilized in crafting durable storage units and counters.    
 - 4 Spices: A symbol of the variety and richness of goods offered, attracting traders from far and wide.    
     
-**Function**: Allows for the refreshing of rations at a "fair" price. The cost reflects the unpredictable nature of supply and demand in this ever-changing market. Parties can find sustenance, but the cost might vary based on the scarcity or abundance of goods at the time.    
+**Function**: Allows for the refreshing of rations at a "fair" price. The cost reflects the unpredictable nature of supply and demand in this ever-changing market. Parties can find sustenance, but the cost might vary based on the scarcity or abundance of goods at the time. Parties that aided in its construction may roll on the table without paying the cost. If they roll sold out, it is still sold out.
     
 **Ration Price Table**    
     
@@ -77,6 +79,6 @@ The pooling of resources and cooperative effort can lead to the successful compl
 - 12 Reagents: Essential for the mystical defenses that protect the hall and the secrets it holds.    
 - 8 Circuitry: To integrate advanced communication systems, ensuring that guild members are always connected, no matter where their quests take them.    
     
-**Function**: Serves as a base for parties to work from, providing a secure and resourceful haven where they can regroup, strategize, and share their experiences. The Guildhall also offers access to exclusive quests and a network of information, making it an indispensable asset for any serious party.    
-    
+**Function**: Serves as a base for parties to work from, providing a secure and resourceful haven where they can regroup, strategize, and share their experiences. When a party belonging to the Guild enters this hex, refresh all their stats, except luck.
+  
 [Table of Contents](./Table-of-Contents.html)
