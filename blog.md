@@ -5,7 +5,7 @@ share: "true"
 
 ## 09-02-2024 Lore and More
 
-![Pasted image 20240209043747](./Pasted%20image%2020240209043747.png)
+![dev-blog-3](./dev-blog-3.png)
 
   Hello, Adventurers of Neo Arcadia!
 
