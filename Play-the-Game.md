@@ -35,6 +35,10 @@ NeoArcadia is a game designed for long-term play, offering a Continuous Play Exp
 4. Arrange the Hex Sheets in numerical order.    
 5. Set up the [Environment System](Environment-System.html).
 
+## Drawing from the Rumor Deck
+
+When you draw from the rumor deck you may record any information you wish, then shuffle the rumors back into the deck for other parties to hear. You may instead choose to spread the rumor by placing it face up in the play area.
+
 ## Rolling Dice    
    
 Most dice rolls in NeoArcadia use the following formula.    
