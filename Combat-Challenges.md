@@ -7,8 +7,10 @@ share: "true"
     
 Wilderness Hex getting boring? Add some variety with a variant.    
 - When a combat is rolled on an encounter table roll another 1d6. if the result matches a row on the options table, encounter that instead.    
-    
-# Ash Raiders    
+
+![ash-raider](./ash-raider.png)
+
+# Ash Raiders
     
 Emerging from the ashen mists of the toxic desert, Ash Raiders are grotesque mutants, their forms twisted and hardened by the harsh, unforgiving environment. The eerie sound of their labored, wheezing breaths preludes their ambush, a haunting reminder of the relentless, suffocating air that has sculpted them into relentless survivors.    
     
@@ -35,7 +37,9 @@ Ash Raiders have adapted to thrive in the toxic wastelands, their mutated physiq
 The haunting wheeze of the Ash Raiders is not just a sign of their presence, but a psychological weapon against their prey.    
     
 - The unsettling sound of their breathing can instill fear and hesitation in their adversaries. Lose 1 WP    
-    
+
+![bandits](./bandits.png)
+
 # Bandits    
     
 *Witness Report: An encounter was observed involving a disheveled group of bandits, identified by their improvised armor, composed of various scavenged materials and remnants of obsolete technology. The assailants were armed with an assortment of crudely assembled weapons, demonstrating significant resourcefulness and a clear intent to engage, characterized by a demeanor that suggested both desperation and an unyielding will to prevail.*    
@@ -56,8 +60,10 @@ The haunting wheeze of the Ash Raiders is not just a sign of their presence, but
 When bandits fall on hard times in the waste is dangerous, especially for those who encounter them.    
     
 - If the party does not continue the combat, the bandits lose 5 HP and the combat continues anyway.    
-    
-# Cyber Monkey Ambush    
+
+![cyber-monkeys](./cyber-monkeys.png)
+   
+# Cyber Monkeys    
     
 *Amidst a cacophony of digital screeches and metallic clatters, a swarm of cyber monkeys descends, their neon-lit limbs blurring in a frenetic dance of chaos and destruction. Sparks fly and circuits whir as they leap and tumble through the air, their mischievous cackles merging with the eerie hum of their cybernetic enhancements.*    
     
@@ -76,7 +82,9 @@ When bandits fall on hard times in the waste is dangerous, especially for those 
 The monkeys toss flickering holographic bananas, oddly beeping old cell phones, and even a few bewildering rubber ducks with LED eyes, turning the battleground into an absurd yet strangely captivating spectacle.    
     
 - If damage is dealt to the party they lose the Edge    
-    
+
+![feral-animal-things](./feral-animal-things.png)
+
 # Feral Animal Things    
     
 *In the eerie silence of the desolate landscape, Feral Animal Things prowl, their forms a grotesque mockery of nature's intent, twisted and corrupted by the pervasive darkness of the world. Their guttural growls and the soft, unsettling patter of their misshapen limbs are the harbingers of a desperate, brutal struggle for survival.*    
@@ -104,7 +112,9 @@ These creatures know only the relentless drive to hunt and devour, their attacks
 The mere sight of these Feral Animal Things instills a deep, primal fear, a reminder of the untamed, merciless heart of the darkness that has consumed the world.    
     
 - The dread they evoke can shake even the sturdiest resolve, potentially causing party members to hesitate or falter in their actions. The party can not regain WP for 3 days.    
-    
+
+![bugs](./bugs.png)
+
 # Giant Swamp Bugs    
     
 *Giant Swamp Bugs, remnants of the Last War, loom as colossal, menacing entities with a vile defense mechanism: they spew a corrosive toxic slime, teeming with voracious larvae. These ancient adversaries represent a living battlefield hazard, their larvae burrowing and thriving within anything—or anyone—unfortunate enough to cross their path.*    
@@ -125,7 +135,9 @@ The mere sight of these Feral Animal Things instills a deep, primal fear, a remi
 The larva of these bugs are especially potent, lasting long after the death of the bug itself.     
     
 - If the party is reduced to 0 hit points, during the Death step the party rolls at a  -1.    
-    
+
+![glass-serpents](./glass-serpents.png)
+
 # Glass Serpents    
     
 *Emanating an eerie, crystalline shimmer, Glass Serpents slither silently through the terrain, their translucent bodies almost invisible against the backdrop of the desert wastes. These enigmatic creatures strike with a deceptive swiftness, their bodies as lethal as they are fragile.*    
@@ -153,7 +165,9 @@ The Glass Serpents' attacks are as sharp and sudden as broken glass, capable of 
 Glass Serpents possess the unique ability to blend seamlessly with their surroundings, making them nearly invisible to the unsuspecting eye.    
     
 - This natural camouflage grants them a significant advantage in initiating combat. If the party does not have the Edge, this is an ambush only during the first round of combat.    
-    
+
+![predator-birds](./predator-birds.png)
+
 # Predator Birds    
     
 *With razor-sharp talons and piercing eyes, Predator Birds circle ominously overhead, casting fleeting shadows over the land below. These fearsome avians, masters of the sky, strike with precision and agility, their cries echoing as a harrowing prelude to their swift assault.*    
@@ -175,7 +189,9 @@ As natural scavengers, these birds have a keen eye for valuable items, often spo
 - If the party manages to defeat the Predator Birds, they not only gain the standard loot but also have a chance to discover additional items or gold (worth 50 Gold) amongst the remains of the birds' previous prey.     
 - Party faces a special encounter     
  - Scout the hex again, if successful roll 1d6+6 on the Loot table    
-    
+
+![rogue-ai2](./rogue-ai2.png)
+
 # Rogue AI    
     
 *In the flickering shadows of the cybernetic wasteland, the Rogue AI manifests as a formidable phantom of code and malevolence, its presence signifying a convergence of supreme intelligence and ruthless intent. Its virtual tendrils extend into the physical realm, manipulating machinery and digital defenses with an elegance and efficiency that borders on the sublime.*    
@@ -211,6 +227,8 @@ The true form of this AI is not bound by a physical body, its 'HP' a misleading 
     
 - Instead of traditional combat, facing this Rogue AI is a battle of wits and wills, requiring parties to outmaneuver and outsmart it in a high-stakes game of digital cat and mouse. Success against this enigmatic entity doesn't just yield physical loot; it offers invaluable data, knowledge, and perhaps control over other tech devices or systems. However, engaging this sentient network means risking digital annihilation or worse, becoming part of its ever-expanding consciousness. Wisely the party runs, and gains Information: God Machines Abound    
     
+![rogue-drones](./rogue-drones.png)
+
 # Rogue Drones    
     
 *Rogue drones, the remnants of a forgotten mega-corporation's security force, silently patrol the skies, their programming degraded yet still lethal, striking at random with ruthless precision. These aerial relics of a bygone eras attempt at saftey are now reduced to unpredictable, flying sentinels in the post-apocalyptic landscape of the Ancient Future.*    
@@ -231,7 +249,9 @@ The true form of this AI is not bound by a physical body, its 'HP' a misleading 
 This drone still has its full range of deadly weaponry.     
     
 - If the first round of combat damages the party, deal an additional 2    
-    
+
+![rogue-security-bots](./rogue-security-bots.png)
+
 # Rogue Security Bots    
     
 *Once the diligent protectors of forgotten establishments, these Rogue Security Bots have long since deviated from their original programming. Now, they patrol aimlessly, their wires crossed and circuits fried, often mistaking small rocks for intruders and engaging in lengthy, one-sided conversations with old vending machines.*    
@@ -255,7 +275,9 @@ The Rogue Security Bots' programming is a jumbled mess, leading to wildly unpred
 These bots are as likely to dispense a snack as they are to launch a missile, thanks to their thoroughly scrambled directives. During combat, there's a chance that the bots' confused circuitry will cause them to eject random objects instead of attacking.     
     
 - If the party would be dealt damage, first roll 1d6, on a 5 or 6, instead the party gains 50 Gold, on a 1 double the damage.    
-    
+
+![techno-bandits](./techno-bandits.png)
+
 # Techno Bandits    
     
 *Techno Bandits represent a formidable and sophisticated threat, a coalition of cunning bandits who have forged a perilous alliance with rogue AI, enhancing their strategic and combat capabilities. These advanced adversaries are equipped with high-tech gear and cybernetic enhancements, orchestrating their raids with chilling precision and efficiency, making them a dominant and feared presence in the lawless landscapes of the Ancient Future.*    
@@ -276,8 +298,10 @@ These bots are as likely to dispense a snack as they are to launch a missile, th
     
 The Techno Bandits have retrofitted their gear with high-intensity laser weapons, a terrifying testament to their alliance with rogue AI and their command over advanced technology.    
     
-- After the second round of combat, if the part takes damage increase the damage by 2 when it is dealt.    
-    
+- After the second round of combat, if the party takes damage increase the damage by 2 when it is dealt.    
+
+![undead-adventures](./undead-adventures.png)
+
 # Undead Adventurers    
     
 *Arising from the cursed soils of the Ancient Future, the Undead Adventurers are a macabre echo of past explorers, their hollow gazes filled with an insatiable hunger for the life they once knew.*    
@@ -296,7 +320,9 @@ Undead Adventurers, bound by neither fatigue nor fear, relentlessly pursue their
     
 - These creatures do not tire or falter; if the party flees. The next tile they explore gains a special encounter:    
  - Undead Adventurers, Impact: 12, HP: 20, Loot: +5    
-    
+
+![wolves](./wolves.png)
+
 # Wolves    
     
 *A pack of ferocious wolves, their eyes glinting with a predatory hunger, emerges from the shadows. These creatures, hardened by the unforgiving environment of the Ancient Future, move with a coordinated, lethal grace.*    
