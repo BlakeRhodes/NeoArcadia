@@ -24,7 +24,7 @@ Adventurers, heh, each more starry-eyed than the last, myself included.
 
 Those brave or foolish souls who venture beyond the safety of our makeshift city, they see the best and worst of what this world has to offer. They come back with tales of ancient marvels, of technology so advanced it might as well be magic to us. But they also come back with scars, with losses that weigh them down, reminders that for all its beauty, the Ancient Future is indifferent to our survival, that our brutal reality.
 
-- **The Fighter:** Young folks thinking strapping on ancient tech will shield.. Augmented strength, sure, but it doesn’t do much for augmented wisdom, now does it? I’ve seen too many of them charge into battles thinking they’re invincible, only to learn the hard way that they're not.
+- **The Fighter:** Young folks thinking strapping on ancient tech will shield. Augmented strength, sure, but it doesn’t do much for augmented wisdom, now does it? I’ve seen too many of them charge into battles thinking they’re invincible, only to learn the hard way that they're not.
 
 - **The Hunter:** They know the lay of the land, the secret whispers of the forest and ruins. They talk of survival and the deep knowledge of the earth, but when the ground beneath you is littered with forgotten tech, nature's not the only beast you need to be wary of.
 
