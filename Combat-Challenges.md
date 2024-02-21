@@ -330,10 +330,11 @@ Undead Adventurers, bound by neither fatigue nor fear, relentlessly pursue their
 ## Impact: 16, HP: 5, Loot: 0    
     
 #### Options    
-    
+
 | Roll | Modifier | Loot Adjust |    
 | ---- | ---- | ---- |    
 | 6 | Pack Tactics | 0 |    
+
 ### Pack Tactics    
     
 Wolves fight as a cohesive unit, their natural instincts honed to perfection.     
