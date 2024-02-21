@@ -11,9 +11,9 @@ The combat revolves around a 2d6 roll, influenced by each party member's combat 
     
 - **Party Impact:** Sum the combat modifiers of each character. This sum is the Party Impact.    
     
-## Step 2: Calculate Combat Modifier    
+## Step 2: Calculate the Modifier
     
-- Subtract the encounter's Enemy Impact from the Party Impact. The result is the Combat Modifier.    
+- Subtract the encounter's Enemy Impact from the Party's Combat Modifier. The result is the Modifier.    
     
 ## Step 3: Edge Factor    
     
@@ -23,9 +23,9 @@ The combat revolves around a 2d6 roll, influenced by each party member's combat 
     
 ## Step 4: Time to Tussle    
     
-- Roll 2d6, apply the Edge Factor, and add the Combat Modifier.    
+- Roll 2d6, apply the Edge Factor, and add the Modifier.    
 - **Results:**     
-   - A positive total inflicts damage on the enemies, reducing their hit points. When enemy hit points reach zero, the party wins and may roll on the loot table.    
+   - A positive total inflicts damage on the enemies, reducing their hit points. When enemy hit points reach zero, the party wins and may collect the rewards.    
    - A negative total signifies damage to the party, lose that much HP    
     
 ## Step 5: Continuing Combat or Retreating    
