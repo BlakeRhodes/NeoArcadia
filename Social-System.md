@@ -5,12 +5,7 @@ share: "true"
 ![social-system](./social-system.png)    
     
 # Social System    
-## Components    
-    
-1. **Rumors:** Gathering insights about distant hexes.    
-2. **Information:** Acquiring specific details to unlock events or secrets.    
-3. **Reputation:** Reflects how parties are perceived, influencing their interactions.    
-    
+
 ## Trade    
     
 - Players can exchange items at hexes with markets during the [Prepare Phase](./Prepare-Phase.html).    
@@ -49,7 +44,7 @@ Arbitration encounters will have a list of information that could sway the out c
     
 ### Step 2. Validation Phase
     
- Now that the Information has been gathered, it needs to be validated by each side. Not they think the party is trying to trick them, but just to insure the party has not been tricked itself.
+ Now that the Information has been gathered, it needs to be validated by each side. Not always because they think the party is trying to trick them, but just to insure the party has not been tricked itself.
  
  **Engage Each Faction**: Conduct separate rolls to persuade each side of the Information's validity. Use the listed difficulty and roll 2d6 plus any adjustments. Each side may have different difficulty for a piece of information
 
