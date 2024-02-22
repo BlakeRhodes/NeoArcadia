@@ -2,7 +2,7 @@
 share: "true"
 ---
 
-![hex-map.svg](./hex-map.svg)
+![hex-map.png](./hex-map.png)
 
 # Over World Map of the Ancient Future.
 
