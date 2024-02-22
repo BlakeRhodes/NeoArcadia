@@ -216,7 +216,7 @@ This Rogue AI doesn't just operate in the realm of the physical; it dominates th
 | ---- | ---- | ---- |    
 | 1 | Combat | Rogue Drones, Impact: 14 HP: 12 Loot: +1, 25 Gold |    
 | 2 | Combat | Techno Bandits, Impact: 11 HP: 10 Loot: +1, 50 Gold |    
-| 3 | Combat | Rogue Security Bots, ## Impact: 12, HP: 10, Loot: +3, 50 Gold |    
+| 3 | Combat | Rogue Security Bots, Impact: 12, HP: 10, Loot: +3, 50 Gold |    
 | 4 | Corrupt Data Streams | Vehicles do not function until Repaired |    
 | 5 | Tech Overload | Roll 1d6 for each piece of Ancient Tech in inventory, on a 1 it becomes useless scrap. |    
 | 6 | Combat | Undead Adventures! Impact: 12 HP 20 Loot: +4 |    
