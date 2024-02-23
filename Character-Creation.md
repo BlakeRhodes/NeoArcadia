@@ -31,11 +31,7 @@ Each party member contributes not only different skill, but different stats to t
 5. **Luck Points (LP)** - Represents the character’s chance of turning disaster into a great story.    
     
 6. **Resourcefulness Points (RP)** - A measure of the characters ability to solve difficult problems.    
-    
-### Special Rule: Better Lucky, Than Dead    
-    
-- The Party may roll spend 1 LP to re-roll any single dice roll of a one. If that roll is a one it may be re-rolled for 1 LP, and so on until you run out of luck.    
-    
+        
 [Party Creation](./Party-Creation.html)    
     
 [Table of Contents](./Table-of-Contents.html)
