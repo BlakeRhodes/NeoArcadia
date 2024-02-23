@@ -50,38 +50,38 @@ Players may group these rolls as they wish. For example, if the party has 4 Loot
     
 ### Loot Table    
     
-| Roll | Item | Description |    
-| ---- | ---- | ---- |    
-| 1 | Recycle Goods | 2d6 Plastic |    
-| 2 | Ale | 2d6 Ale |    
-| 3 | Glass Vials | 2d6 units of Glass, |    
-| 4 | Medicinal Herbs | 1d6 Medicinal Herbs |    
-| 5 | Grain | 2d6 Grain |    
-| 6 | Chest | 100 Gold |    
-| 7 | Iron Ore | 3d6 Iron Ore |    
-| 8 | Silks | 3d6 Silk |    
-| 9 | Salt | 3d6 Salt |    
-| 10 | Circuitry Kit | Circuitry 4d6 |    
-| 11 | Gems | 1d6 Gems |    
-| 12 | Big Chest | 200 Gold |    
-| 13 | Ancient Tech | Can be traded to a Techstitcher for 2 PP |    
-| 14 | Third Arm | Grants a fighter an additional Free Hand |    
-| 15 | Precious Gems | 2d6 Gems |    
-| 16 | Reagents Box | Reagents 4d6 |    
-| 17 | Shift Shield | Can be used to ignore all damage assigned to the party Single use. |    
-| 18 | Drone | Scout can re-roll Scouting Roll at the cost of 1 liter of Flamequick. Comes with 2 liters. |    
-| 19 | Skinning Knife | When foraging add 1 to your forage roll.  |    
-| 20 | Holographic Locket | Spend one Access Token to ignore half the damage from an attack.  |    
-| 21 | Elemental Core Processor | Turns 3 Iron Ore into Ancient Tech. After use roll 1d6 on a 1 it breaks. |    
-| 22 | Keg of Flamequick | This keg contains 5 liters of Flamequick. This can be used to power some vehicles, or deal 5 additional damage in combat.  |    
-| 23 | MagiTech | Can be traded to a Techstitcher for 4 PP |    
-| 24 | Plasma Grenade | Use during combat to deal 10 damage to enemy. Single use. |    
-| 25 | Folding Boat | Vehicle: Boat - Allows 2 free moves across water. Unlike other boats it can be carried. |    
-| 26 | Spellware Interface | A device that enables the wearer to cast and store spells electronically. Spells not included. |    
-| 27 | Plastic Synthesizer | Can convert 3 grain into 2 plastic |    
-| 28 | Dimensional Gateway Amulet | An amulet allowing limited travel across different dimensions. During Planning phase return to NeoArcadia  |    
-| 29 | Source Code | Trade to a Techstitcher for 8 PP |    
-| 30 | Reality Modulator Staff | A powerful staff capable of altering local reality within constrained parameters. Change Hex to different Terrain Type. Single use. |    
+| Roll | Item                       | Description                                                                                                                         |     |
+| ---- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 1    | Recycle Goods              | 2d6 Plastic                                                                                                                         |     |
+| 2    | Ale                        | 2d6 Ale                                                                                                                             |     |
+| 3    | Glass Vials                | 2d6 units of Glass,                                                                                                                 |     |
+| 4    | Medicinal Herbs            | 1d6 Medicinal Herbs                                                                                                                 |     |
+| 5    | Grain                      | 2d6 Grain                                                                                                                           |     |
+| 6    | Chest                      | 100 Gold                                                                                                                            |     |
+| 7    | Iron Ore                   | 3d6 Iron Ore                                                                                                                        |     |
+| 8    | Silks                      | 3d6 Silk                                                                                                                            |     |
+| 9    | Salt                       | 3d6 Salt                                                                                                                            |     |
+| 10   | Circuitry Kit              | Circuitry 4d6                                                                                                                       |     |
+| 11   | Gems                       | 1d6 Gems                                                                                                                            |     |
+| 12   | Big Chest                  | 200 Gold                                                                                                                            |     |
+| 13   | Ancient Tech               | Can be traded to a Techstitcher for 2 PP                                                                                            |     |
+| 14   | Third Arm                  | Grants a fighter an additional Free Hand                                                                                            |     |
+| 15   | Precious Gems              | 2d6 Gems                                                                                                                            |     |
+| 16   | Reagents Box               | Reagents 4d6                                                                                                                        |     |
+| 17   | Shift Shield               | Can be used to ignore all damage assigned to the party Single use.                                                                  |     |
+| 18   | Drone                      | Scout can re-roll Scouting Roll at the cost of 1 liter of Flamequick. Comes with 2 liters.                                          |     |
+| 19   | Skinning Knife             | When foraging add 1 to your forage roll.                                                                                            |     |
+| 20   | Holographic Locket         | Spend one Access Token to ignore half the damage from an attack.                                                                    |     |
+| 21   | Elemental Core Processor   | Turns 3 Iron Ore into Ancient Tech. After use roll 1d6 on a 1 it breaks.                                                            |     |
+| 22   | Keg of Flamequick          | This keg contains 5 liters of Flamequick. This can be used to power some vehicles, or deal 5 additional damage in combat.           |     |
+| 23   | MagiTech                   | Can be traded to a Techstitcher for 4 PP                                                                                            |     |
+| 24   | Plasma Grenade             | Use during combat to deal 10 damage to enemy. Single use.                                                                           |     |
+| 25   | Folding Boat               | Vehicle: Boat - Allows 2 free moves across water. Unlike other boats it can be carried.                                             |     |
+| 26   | Spellware Interface        | A device that enables the wearer to cast and store spells electronically. Spells not included.                                      |     |
+| 27   | Plastic Synthesizer        | Can convert 3 grain into 2 plastic                                                                                                  |     |
+| 28   | Dimensional Gateway Amulet | An amulet allowing limited travel across different dimensions. During Planning phase return to NeoArcadia                           |     |
+| 29   | Source Code                | Trade to a Techstitcher for 8 PP                                                                                                    |     |
+| 30   | Reality Modulator Staff    | A powerful staff capable of altering local reality within constrained parameters. Change Hex to different Terrain Type. Single use. |     |
     
 Back to [Encounter Phase](./Encounter-Phase.html)    
     

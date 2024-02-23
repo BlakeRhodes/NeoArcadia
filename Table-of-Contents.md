@@ -9,7 +9,6 @@ share: "true"
     
 - ### [Setup Environment](./Environment-System.html)    
   - #### [Environment Turn](./Environment-Turn.html)
-  - #### [Adventure Packs](./adventures/Adventure-Packs.html)
  
 ## Turn Sequence
 
@@ -20,7 +19,6 @@ share: "true"
 
 ## [Party Creation](./Party-Creation.html)    
     
-
 - ### [Character Creation](./Character-Creation.html)
 
 	- ### [Fighters](./Fighters.html)    
@@ -34,6 +32,9 @@ share: "true"
 
 ## [Social System](./Social-System.html)  
 
+## [Adventure Packs](./adventures/Adventure-Packs.html)
+
+- ### [Techno Bandits of Turing Wood](/adventures/Techno-Bandits-of-Turing-Wood/The-Techno-Bandits-of-Turing-Wood.html)
 ## [Crisis! System](./Crisis-System.html)  
   
 - ### [The Crisis!](The-Crisis.html)  

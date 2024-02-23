@@ -44,6 +44,10 @@ When you draw from the rumor deck you may record any information you wish, then 
 Most dice rolls in NeoArcadia use the following formula.    
    
 Xd6 + Good Stuff - Bad Stuff = Degree of Success    
+
+### Special Rule: Better Lucky, Than Dead    
+    
+- The Party may roll spend 1 LP to re-roll any single dice roll of a one. If that roll is a one it may be re-rolled for 1 LP, and so on until you run out of luck.    
    
 ### Example    
    

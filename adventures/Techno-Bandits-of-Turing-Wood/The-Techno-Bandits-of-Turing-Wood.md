@@ -3,7 +3,7 @@ share: "true"
 ---
 ![cover](./cover.png)  
   
-# Techno Bandits of the Turing Woods  
+# Techno Bandits of the Turing Woods  - AP1
   
 In the shadow-draped expanse of the Turing Woods, where the whispers of nature intertwine with the hum of forgotten machinery, a saga of danger and daring unfolds. The notorious Techno Bandits, a band of ruthless outlaws, have formed an unholy alliance with a rogue AI, a remnant of a bygone, technologically advanced era. Together, they've unearthed an artifact of unimaginable power: an ancient flying machine, its engines a symphony of steam and steel, capable of tearing through the skies and rewriting the rules of the realm.  
   
