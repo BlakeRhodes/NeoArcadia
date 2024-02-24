@@ -3,9 +3,9 @@ share: "true"
 ---
 ![guardians-of-the-nexus](../guardians-of-the-nexus.png)
 
-# 1506 - Special - Guardians of the Nexus
-
 *As you traverse the ancient, overgrown ruins of reclaimed by the forest, a faint sound of laughter and clinking armor pierces the silence. Emerging from the dense fog, a motley crew of adventurers approaches, their gear a blend of archaic symbols and futuristic technology, each member exuding an aura of seasoned camaraderie and unspoken tales. The leader, a figure clad in armor that hums with a soft, ethereal light, greets you with a nod, offering assistance and companionship on your journey. This wandering party, known for aiding those they cross paths with, stands ready, a beacon of hope and strength in the uncertain wilderness of the ancient future.*
+
+# 1506 - Special - Guardians of the Nexus
 
 **Special Encounter - Good Company**
 
