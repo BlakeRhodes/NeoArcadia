@@ -2,9 +2,10 @@
 share: "true"
 ---
 ![Flooded-Library](../Flooded-Library.png)
-# SV0001 - Ruin - Library of Linus
 
 *Plunging down the slick, mud-caked shaft into the bowels of the library, your descent is arrested by a pool of brackish, murky water that greedily infiltrates every crevice of your gear. At the shaft's nadir lies a grotesquely waterlogged server farm, an aberrant fusion of technology and decay. Beige monoliths, half-drowned in this technological mire, sporadically spark to life in a desperate gasp for electricity before succumbing to the filth, their circuits frying in a symphony of destruction. Amidst this chaos, a cadre of repair bots, their forms a bizarre melding of machine and organic matter, scuttle with frenetic urgency. These cybernetic scavengers engage in a macabre ballet, extracting the pulsing power supplies and enigmatically refurbishing them, as if performing arcane rituals to resurrect the electronic carcasses that litter this surreal catacomb. The air is electric with the scent of ozone and decay.*
+
+# SV0001 - Ruin - Library of Linus
 
 **Encounter Table**
 
