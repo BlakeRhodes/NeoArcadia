@@ -2,10 +2,11 @@
 share: "true"
 ---
 ![lost-automaton](../lost-automaton.png)
-# 1304 - Wilderness - Lost Automaton
 
 *A lost automaton traverses the wild, overgrown landscapes of a world long forgotten by its creators. Clutched in its metallic grasp are a handful of eggs, their shells infused with a soft, bioluminescent glow, harboring the seeds of life for a new, mysterious species. This automaton, a fusion of ancient technology and organic resilience, follows the call of an ancient programming, guiding it through dense forests and across rushing rivers, on a quest to find a hidden enclave where these precious charges can safely hatch. Amidst the wilderness, this solitary guardian moves with a single-minded purpose, protecting the fragile hope of renewal.*  
-    
+
+# 1304 - Wilderness - Lost Automaton
+
 Forage: 7    
 Scout: 8    
 

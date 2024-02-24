@@ -4,9 +4,9 @@ share: "true"
 
 ![forgotten-lab](../forgotten-lab.png)
 
-# 1309 - Desert - Forgotten Lab
-
 *The laboratory, a relic of sophisticated technology from a past civilization, emerges partially from beneath the sands that time has scattered around its structure. Its entrance, obscured by dunes, hints at secrets lying within, with faint glimmers of light suggesting the presence of still-active machinery or lingering energy.*
+
+# 1309 - Desert - Forgotten Lab
 
 Forage: 12
 Scout: 7
