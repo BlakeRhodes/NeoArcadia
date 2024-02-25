@@ -19,4 +19,7 @@ share: "true"
 
 ## New Items
 
-- ### [Reason Vial](Reason-vial.html)
+- ### [Auto-Boat](/adventures/Heretics-of-Linus/Auto-Boat.html)
+- ### [Cog-Stims](/adventures/Heretics-of-Linus/Cog-stims.html)
+- ### [Lumstick](/adventures/Heretics-of-Linus/Lumstick.html)
+- ### [Reason Vial](/adventures/Heretics-of-Linus/Reason-vial.html)
