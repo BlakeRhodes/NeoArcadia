@@ -14,6 +14,7 @@ share: "true"
 
 **Special Encounter - Fair Linusopolis, Oh boy we have a way to go.**
 - Parties may expend trade good to upgrade Linusopolis.
+- If all upgrades are completed party completes Quest: Tamer of the Wilds
 
 | Building              | Level | Description                                                   | Required Trade Goods                           | Effect                                                                                                                                                          |
 | --------------------- | ----- | ------------------------------------------------------------- | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
