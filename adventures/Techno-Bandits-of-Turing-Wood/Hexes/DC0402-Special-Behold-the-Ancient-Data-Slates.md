@@ -26,7 +26,7 @@ You try to explain to the AI everything that has happened since the Crash to per
   
 The noospheric vision disappears and the Ancient Data Slates detach from their mounting as the data center powers down.  
   
-Party Completes the Quest: Find the Ancient Data Slates.   
+Party Completes the Quest: Find the Ancient Data Slates and gains Information: The Backup
 You gain one loot dice that you can use only when you exit the Data Center.  
   
 ### Failure  
