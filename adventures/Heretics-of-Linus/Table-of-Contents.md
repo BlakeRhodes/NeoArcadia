@@ -22,6 +22,6 @@ share: "true"
 ## New Items
 
 - ### [Auto-Boat](/adventures/Heretics-of-Linus/Auto-Boat.html)
-- ### [Cog-Stims](/adventures/Heretics-of-Linus/Cog-stims.html)
+- ### [Cog-Stims](/adventures/Heretics-of-Linus/Cog-Stims.html)
 - ### [Lumstick](/adventures/Heretics-of-Linus/Lumstick.html)
 - ### [Reason Vial](/adventures/Heretics-of-Linus/Reason-vial.html)
