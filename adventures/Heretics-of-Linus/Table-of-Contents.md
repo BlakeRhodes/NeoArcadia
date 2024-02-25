@@ -3,7 +3,6 @@ share: "true"
 ---
 # [Heretics of Linus](Heretics-of-Linus.html)
 
-
 ## [Quests](/adventures/Heretics-of-Linus/Quests.html)
 
 ## [Rumors](/adventures/Heretics-of-Linus/Rumors.html)
