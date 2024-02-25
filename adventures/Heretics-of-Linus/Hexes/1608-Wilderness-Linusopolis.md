@@ -10,6 +10,8 @@ share: "true"
 **Forage:** 3    
 **Scout:** -   
 
+**Optional Special Encounter - [A Theoretical Disagreement](/adventures/Heretics-of-Linus/A-Theoretical-Disagreement.html)**
+
 **Special Encounter - Fair Linusopolis, Oh boy we have a way to go.**
 - Parties may expend trade good to upgrade Linusopolis.
 

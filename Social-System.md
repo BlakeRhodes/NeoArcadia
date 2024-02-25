@@ -35,7 +35,7 @@ share: "true"
 
 Sometimes words are as important as actions, and agreement the only path to surviving the Brutal Reality of the Ancient Future. Forming agreements can be a valuable source of stability.
 
-### Step 1. Gather Information
+### Step 1. Gather Information Phase
 
 Arbitration encounters will have a list of information that could sway the out come. This information could come from many sources and could seem trivial, but these are facts of the situation that both sides think matter. 
 
@@ -46,16 +46,19 @@ Arbitration encounters will have a list of information that could sway the out c
     
  Now that the Information has been gathered, it needs to be validated by each side. Not always because they think the party is trying to trick them, but just to insure the party has not been tricked itself.
  
- **Engage Each Faction**: Conduct separate rolls to persuade each side of the Information's validity. Use the listed difficulty and roll 2d6 plus any adjustments. Each side may have different difficulty for a piece of information
+ **Engage Each Faction**: Conduct separate rolls to persuade each side of the Information's validity. Use the listed difficulty and roll 2d6 plus any adjustments. Each side may have different difficulty for a piece of information.  Add the Degree of success for each side, the result is the total validity
 
 #### Special Rule: Stake Your Reputation
 
 The party may spend 1 LP to add one to all Arbitration rolls this turn. They may do this a number of times up to their Reputation.
 
-- Degree of Success  1-4, Add one die to the Arbitration Dice Pool
-- Degree of Success  5+, Add two dice to the Arbitration Dice Pool 
+#### Validation Roll Results
+
+- Total Validity < 0, Lose that much Reputation (If Staked)
+- Total Validity  1-4, Add one die to the Arbitration Dice Pool
+- Total Validity  5+, Add two dice to the Arbitration Dice Pool 
    
-### Step 3. Arbitration
+### Step 3. Arbitration Phase
 
 This is where the disputing parties make a decision about what happens next. This outcome falls into three categories as shown below.
 
