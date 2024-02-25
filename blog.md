@@ -3,6 +3,12 @@ share: "true"
 ---
 # Developer's Blog   
 
+## 25-02-2024
+
+![blog-2](./blog-2.png)
+
+A new Adventure Pack is out Heretics of Linus. The module add new elements, new adventures and new gear. 
+
 ## 09-02-2024 Lore and More
 
 ![dev-blog-3](./dev-blog-3.png)
