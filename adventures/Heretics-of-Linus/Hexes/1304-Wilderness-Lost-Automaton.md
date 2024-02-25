@@ -22,7 +22,7 @@ Scout: 8
 **Special Encounter - Not Lost, but Seeking**
 - The party may choose to follow the automaton.
 - If they do, the party is Lost, however the automaton will act as a member of the party.
-- If the party follows the automaton for 5 turns they will see the automaton finally place the eggs in a safe place. The automaton then becomes a permanent member of the party.
+- If the party follows the automaton for 5 turns they will see the automaton finally place the eggs in a safe place. The automaton then becomes a permanent member of the party. Party completes Quest: Protectors of the Small
 
 Lost Automaton CM: 2, HP: 2, SP: 2, WP: 0, LP:0 R:1
 

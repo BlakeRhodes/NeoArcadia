@@ -8,7 +8,7 @@ share: "true"
   
 Earn the respect of not only the citizens of NeoArcadia, but also your fellow adventures. Quests are reward that add to your party's reputation and give your heroes a legacy to write tales about.  
   
-## Unifies of the Faith + 1  
+## Unifiers of the Faith + 1  
   
 The Priest and Heretics are at odd over scriptural matters. Both sides are normally pacifists, but the war of words is escalating. Claims of hacking on both sides is stressing thing even further. Whoever can bring these twos side back to peace will make a name for themselves.
 
