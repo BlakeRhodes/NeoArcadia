@@ -35,6 +35,7 @@ share: "true"
 ## [Adventure Packs](./adventures/Adventure-Packs.html)
 
 - ### [Techno Bandits of Turing Wood](/adventures/Techno-Bandits-of-Turing-Wood/The-Techno-Bandits-of-Turing-Wood.html)
+- ### [Heretics of Linus](/adventures/Heretics-of-Linus/Heretics-of-Linus.html)
 
 ## [Crisis! System](./Crisis-System.html)  
   
