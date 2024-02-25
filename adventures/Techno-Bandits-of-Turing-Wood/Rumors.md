@@ -27,4 +27,4 @@ share: "true"
 
 [Printable Cards](./Printable-Cards.html)
 
-[Table-of-Contents](adventures/Techno-Bandits-of-Turing-Wood/Table-of-Contents.html)
+[Table of Contents](adventures/Techno-Bandits-of-Turing-Wood/Table-of-Contents.html)
