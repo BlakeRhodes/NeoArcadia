@@ -20,4 +20,4 @@ The quest to find the ancient data slates has plunged NeoArcadia into a vortex o
   
 The eerie and disturbing Phantom Signal emanating from the depths of the wilderness of the Ancient Future has sent ripples of unease through the city, as its spectral tones break through regular communications. This ghostly transmission, resonating with a haunting frequency, beckons the brave and the curious into a web of mystery, where the line between the technological and the paranormal fades into the shadows.  
   
-[Table-of-Contents](adventures/Techno-Bandits-of-Turing-Wood/Table-of-Contents.html)
+[Table of Contents](adventures/Techno-Bandits-of-Turing-Wood/Table-of-Contents.html)
