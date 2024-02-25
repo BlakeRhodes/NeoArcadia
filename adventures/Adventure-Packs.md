@@ -12,4 +12,4 @@ Adventures Packs are a way to add more depth and fun to your game world. They ar
 
 Techno Bandits, Flying machines, Ancient Data Centers, Sentient Soul Searching Trees, and **CYBER MONKEY ATTACKS!** A great way to learn more about the Ancient Future and begin building a new world on the ruins of the old. Includes world map, rumor cards, and even some Special Hex sheets.
 
-## [Heretics of Linus](/adventures/Heretics-of-Linus/Heretics-of-Linus.html)
+## [Heretics of Linus](./Heretics-of-Linus/Heretics-of-Linus.html)
