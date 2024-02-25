@@ -9,13 +9,14 @@ share: "true"
 
 ## Hex Sheets
 
-- ### [1106 - Wilderness - Eclipsers of the Horizon](1106-Wilderness-Eclipsers-of-the-Horizon.html)
-- ### [1304 - Wilderness - Lost Automaton](1304-Wilderness-Lost-Automaton.html)
-- ### [1309 - Desert - Forgotten Lab](1309-Desert-Forgotten-Lab.html)
-- ### [1506 - Forest - Guardians of the Nexus](1506-Forest-Guardians-of-the-Nexus.html)
-- ### [1801 - Swamp - The Sunken Village](1801-Swamp-The-Sunken-Village.html)
-- ### [1804 - Mountain - Abandoned Observatory](1804-Mountain-Abandoned-Observatory.m)
-- ### [SV0001 - Ruins - Library of Linus](SV0001-Ruins-Library-of-Linus.html)
+- ### [1106 - Wilderness - Eclipsers of the Horizon](/adventures/Heretics-of-Linus/Hexes/1106-Wilderness-Eclipsers-of-the-Horizon.html)
+- ### [1304 - Wilderness - Lost Automaton](/adventures/Heretics-of-Linus/Hexes/1304-Wilderness-Lost-Automaton.html)
+- ### [1309 - Desert - Forgotten Lab](/adventures/Heretics-of-Linus/Hexes/1309-Desert-Forgotten-Lab.html)
+- ### [1506 - Forest - Guardians of the Nexus](/adventures/Heretics-of-Linus/Hexes/1506-Forest-Guardians-of-the-Nexus.html)
+- ### [1608 - Wilderness - Linusopolis](/adventures/Heretics-of-Linus/Hexes/1608-Wilderness-Linusopolis.html)
+- ### [1801 - Swamp - The Sunken Village](/adventures/Heretics-of-Linus/Hexes/1801-Swamp-The-Sunken-Village.html)
+- ### [1804 - Mountain - Abandoned Observatory](/adventures/Heretics-of-Linus/Hexes/1804-Mountain-Abandoned-Observatory.html)
+- ### [SV0001 - Ruins - Library of Linus](/adventures/Heretics-of-Linus/Hexes/SV0001-Ruins-Library-of-Linus.html)
 
 ## New Items
 
