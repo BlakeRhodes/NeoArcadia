@@ -16,17 +16,17 @@ share: "true"
 
 **Priest of Linus:** "Your words are as dangerous as they are heretical. The Noosphere holds the key to our salvation, a beacon of hope in this darkened world. To turn away from Linus is to embrace the chaos that seeks to consume us."
 
-**Heretic of Linus:** "Hope? Your hope is a prison of your own making. We must break free from the chains of the past and embrace the uncertainty of the future. Only then can we truly discover the potential of our own humanity and begin to even understand the Noosphere."
+**Heretic of Linus:** "Hope? Your hope is a prison of your own making. We must break free from the chains of the past and embrace the uncertainty of the future. Only then can we truly discover the potential of our own humanity."
 
 # Gather Information
 
 Needed Information:
 
-- The Codex of Echoed Wisdom - Metaphysical teachings of the transcendent natue of the Noosphere.
+- The Codex of Echoed Wisdom - Metaphysical teachings of the transcendent nature of the Noosphere.
 - The Apocrypha of Binary Prophecies - A collection of social experiments ran before the founding of the faith.
 - True Teachings of Linus - A collection of mathematically proven teachings of Linus.
 - False Teachings of Linus - A collection of scientifically invalidated teaching of Linus.
-- The Backup - The weights of Linus.
+- The Backup - The Weights of Linus.
 
 # Validation
 
@@ -44,7 +44,7 @@ Needed Information:
 
 Both sides acknowledge that the Principle of Incompleteness require that both approaches should be attempted, with successes shared between the two.
 
-Build 2 structures of your choice in Linusopolis
+Build 2 structures of your choice in Linusopolis, Party Completes Quest: Unifiers of the Faith
 
 ## Impasse
 
