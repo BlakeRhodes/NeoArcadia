@@ -9,7 +9,6 @@ share: "true"
   
 ## Maps  
   
-- ### [Over World](Over-World.html)  
 - ### [Data Center](Data-Center.html)  
   
 ## Hex Sheets  

@@ -8,8 +8,9 @@ share: "true"
 ## [Play the Game](./Play-the-Game.html)    
     
 - ### [Setup Environment](./Environment-System.html)    
-  - #### [Environment Turn](./Environment-Turn.html)
- 
+- #### [Environment Turn](./Environment-Turn.html)
+- ### [World Map](/Over-World.html)
+
 ## Turn Sequence
 
 - ### [Prepare Phase](./Prepare-Phase.html)    
